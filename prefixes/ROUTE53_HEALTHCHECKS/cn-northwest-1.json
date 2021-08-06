@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "52.83.34.128/25",
+    "region": "cn-northwest-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.83.35.0/25",
+    "region": "cn-northwest-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.83.35.128/25",
+    "region": "cn-northwest-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "cn-northwest-1"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "ip_prefix": "3.218.180.0/22",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "52.119.232.0/21",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "52.119.224.0/21",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "52.94.0.0/22",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.218.180.0/25",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.218.180.128/25",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.218.181.0/25",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.218.181.128/25",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.218.182.0/25",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.218.182.128/25",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.218.183.0/25",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.218.183.128/25",
+    "region": "us-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-east-1"
+  }
+]

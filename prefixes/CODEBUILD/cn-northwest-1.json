@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "52.82.1.0/29",
+    "region": "cn-northwest-1",
+    "service": "CODEBUILD",
+    "network_border_group": "cn-northwest-1"
+  }
+]

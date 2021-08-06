@@ -1,0 +1,68 @@
+[
+  {
+    "ip_prefix": "15.184.125.0/26",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.184.125.128/26",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.184.125.64/26",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.184.70.200/29",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.184.70.224/29",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.185.33.32/27",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.185.33.64/27",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.185.33.96/27",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "157.175.102.128/27",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "157.175.102.160/27",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "157.175.102.96/27",
+    "region": "me-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "me-south-1"
+  }
+]

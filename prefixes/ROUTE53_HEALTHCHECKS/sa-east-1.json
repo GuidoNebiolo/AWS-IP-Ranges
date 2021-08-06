@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "177.71.207.128/26",
+    "region": "sa-east-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "54.232.40.64/26",
+    "region": "sa-east-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "sa-east-1"
+  }
+]

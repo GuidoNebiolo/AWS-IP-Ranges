@@ -1,0 +1,32 @@
+[
+  {
+    "ip_prefix": "52.95.164.0/23",
+    "region": "sa-east-1",
+    "service": "S3",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "52.95.163.0/24",
+    "region": "sa-east-1",
+    "service": "S3",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "3.5.232.0/22",
+    "region": "sa-east-1",
+    "service": "S3",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.228.107.0/28",
+    "region": "sa-east-1",
+    "service": "S3",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.228.107.16/28",
+    "region": "sa-east-1",
+    "service": "S3",
+    "network_border_group": "sa-east-1"
+  }
+]

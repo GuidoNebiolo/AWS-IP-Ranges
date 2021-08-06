@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "3.32.190.244/30",
+    "region": "us-gov-west-1",
+    "service": "EBS",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "3.32.190.248/29",
+    "region": "us-gov-west-1",
+    "service": "EBS",
+    "network_border_group": "us-gov-west-1"
+  }
+]

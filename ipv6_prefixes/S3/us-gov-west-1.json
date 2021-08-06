@@ -1,0 +1,32 @@
+[
+  {
+    "ipv6_prefix": "2600:1fa0:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ff0:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ff8:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ff9:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ffa:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  }
+]

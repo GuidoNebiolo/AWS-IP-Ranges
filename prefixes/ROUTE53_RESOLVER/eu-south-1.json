@@ -1,0 +1,56 @@
+[
+  {
+    "ip_prefix": "15.161.247.128/27",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "15.161.247.64/27",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "15.161.247.96/27",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "15.161.66.0/26",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "15.161.66.128/26",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "15.161.66.64/26",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "35.152.86.0/24",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "35.152.87.0/24",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "35.152.88.0/24",
+    "region": "eu-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-south-1"
+  }
+]

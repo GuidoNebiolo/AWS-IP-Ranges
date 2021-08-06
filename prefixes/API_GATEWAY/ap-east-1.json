@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "16.162.52.0/24",
+    "region": "ap-east-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.162.189.0/24",
+    "region": "ap-east-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.163.204.0/23",
+    "region": "ap-east-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-east-1"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "3.10.17.128/25",
+    "region": "eu-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "3.11.53.0/24",
+    "region": "eu-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "52.56.127.0/25",
+    "region": "eu-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "eu-west-2"
+  }
+]

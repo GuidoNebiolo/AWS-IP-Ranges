@@ -1,0 +1,26 @@
+[
+  {
+    "ip_prefix": "15.223.52.0/23",
+    "region": "ca-central-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.49.128/25",
+    "region": "ca-central-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.98.86.0/23",
+    "region": "ca-central-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "99.79.126.0/24",
+    "region": "ca-central-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ca-central-1"
+  }
+]

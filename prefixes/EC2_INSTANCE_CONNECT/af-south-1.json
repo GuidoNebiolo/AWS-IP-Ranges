@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "13.244.121.196/30",
+    "region": "af-south-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "af-south-1"
+  }
+]

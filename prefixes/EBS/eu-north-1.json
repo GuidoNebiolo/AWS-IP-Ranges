@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "13.51.71.152/29",
+    "region": "eu-north-1",
+    "service": "EBS",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "13.51.71.160/30",
+    "region": "eu-north-1",
+    "service": "EBS",
+    "network_border_group": "eu-north-1"
+  }
+]

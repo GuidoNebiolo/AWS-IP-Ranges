@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "3.96.2.68/30",
+    "region": "ca-central-1",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.96.2.72/30",
+    "region": "ca-central-1",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.98.171.196/30",
+    "region": "ca-central-1",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "ca-central-1"
+  }
+]

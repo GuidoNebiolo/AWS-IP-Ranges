@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "18.163.139.32/27",
+    "region": "ap-east-1",
+    "service": "CLOUD9",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.163.201.96/27",
+    "region": "ap-east-1",
+    "service": "CLOUD9",
+    "network_border_group": "ap-east-1"
+  }
+]

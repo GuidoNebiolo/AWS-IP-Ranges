@@ -1,0 +1,56 @@
+[
+  {
+    "ip_prefix": "13.244.244.192/27",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.244.244.224/27",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.244.33.0/26",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.244.33.128/26",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.244.33.64/26",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.245.1.32/27",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.245.112.0/24",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.245.113.0/24",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.245.114.0/24",
+    "region": "af-south-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "af-south-1"
+  }
+]
