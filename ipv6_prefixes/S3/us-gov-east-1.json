@@ -1,0 +1,32 @@
+[
+  {
+    "ipv6_prefix": "2600:1ff8:5000::/36",
+    "region": "us-gov-east-1",
+    "service": "S3",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ff9:5000::/40",
+    "region": "us-gov-east-1",
+    "service": "S3",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fa0:5000::/40",
+    "region": "us-gov-east-1",
+    "service": "S3",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ff0:5000::/40",
+    "region": "us-gov-east-1",
+    "service": "S3",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ffa:5000::/40",
+    "region": "us-gov-east-1",
+    "service": "S3",
+    "network_border_group": "us-gov-east-1"
+  }
+]

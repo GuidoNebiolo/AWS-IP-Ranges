@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.177.0.0/18",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  }
+]

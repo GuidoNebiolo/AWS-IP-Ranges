@@ -1,0 +1,74 @@
+[
+  {
+    "ip_prefix": "18.162.127.0/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.162.127.32/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.162.127.64/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.162.221.128/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.162.221.160/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.162.221.192/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.166.237.128/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.166.237.64/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.166.237.96/27",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.167.111.0/24",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.167.112.0/24",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.167.113.0/24",
+    "region": "ap-east-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-east-1"
+  }
+]

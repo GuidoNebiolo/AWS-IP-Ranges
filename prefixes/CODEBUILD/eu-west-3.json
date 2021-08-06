@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "52.47.73.72/29",
+    "region": "eu-west-3",
+    "service": "CODEBUILD",
+    "network_border_group": "eu-west-3"
+  }
+]

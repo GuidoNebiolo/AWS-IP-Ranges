@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "99.79.169.0/24",
+    "region": "ca-central-1",
+    "service": "CLOUDFRONT",
+    "network_border_group": "ca-central-1"
+  }
+]

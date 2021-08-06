@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "18.236.61.0/25",
+    "region": "us-west-2",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "54.190.198.32/28",
+    "region": "us-west-2",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "us-west-2"
+  }
+]

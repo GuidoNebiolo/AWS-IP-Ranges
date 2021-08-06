@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "52.119.248.0/24",
+    "region": "ap-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "ap-east-1"
+  }
+]

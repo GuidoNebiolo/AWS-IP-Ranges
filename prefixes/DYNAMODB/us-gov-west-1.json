@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "52.94.9.0/24",
+    "region": "us-gov-west-1",
+    "service": "DYNAMODB",
+    "network_border_group": "us-gov-west-1"
+  }
+]

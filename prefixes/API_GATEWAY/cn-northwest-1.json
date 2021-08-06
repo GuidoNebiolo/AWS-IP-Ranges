@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "161.189.148.0/23",
+    "region": "cn-northwest-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.82.127.0/24",
+    "region": "cn-northwest-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "69.230.219.0/24",
+    "region": "cn-northwest-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "cn-northwest-1"
+  }
+]

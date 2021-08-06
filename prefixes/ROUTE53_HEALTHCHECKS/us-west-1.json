@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "54.183.255.128/26",
+    "region": "us-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "54.241.32.64/26",
+    "region": "us-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "us-west-1"
+  }
+]

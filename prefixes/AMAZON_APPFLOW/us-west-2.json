@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "35.84.36.0/30",
+    "region": "us-west-2",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.234.73.116/30",
+    "region": "us-west-2",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.234.73.120/30",
+    "region": "us-west-2",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "us-west-2"
+  }
+]

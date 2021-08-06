@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.177.91.0/24",
+    "region": "af-south-1",
+    "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+    "network_border_group": "af-south-1"
+  }
+]

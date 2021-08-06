@@ -1,0 +1,50 @@
+[
+  {
+    "ip_prefix": "34.216.51.0/25",
+    "region": "us-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.12.224/27",
+    "region": "us-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.80.192/26",
+    "region": "us-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.162.63.192/26",
+    "region": "us-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.167.191.128/26",
+    "region": "us-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.227.178.0/24",
+    "region": "us-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.234.108.128/25",
+    "region": "us-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.234.90.252/30",
+    "region": "us-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "us-west-2"
+  }
+]

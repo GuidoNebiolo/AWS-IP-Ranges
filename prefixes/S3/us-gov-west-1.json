@@ -1,0 +1,26 @@
+[
+  {
+    "ip_prefix": "108.175.56.0/22",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "108.175.48.0/22",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "15.200.176.128/28",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "15.200.28.240/28",
+    "region": "us-gov-west-1",
+    "service": "S3",
+    "network_border_group": "us-gov-west-1"
+  }
+]

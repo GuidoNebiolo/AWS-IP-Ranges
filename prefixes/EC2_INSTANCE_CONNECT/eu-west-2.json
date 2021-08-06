@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "3.8.37.24/29",
+    "region": "eu-west-2",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "eu-west-2"
+  }
+]

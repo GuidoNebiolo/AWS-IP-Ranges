@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "99.82.168.0/24",
+    "region": "ap-northeast-2",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "ap-northeast-2"
+  }
+]

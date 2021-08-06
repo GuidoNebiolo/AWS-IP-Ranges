@@ -1,0 +1,38 @@
+[
+  {
+    "ipv6_prefix": "2600:1f00:c000::/40",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f70:c000::/40",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f1c::/36",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fff:c000::/40",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2620:107:300f::/64",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ff0:c000::/40",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  }
+]

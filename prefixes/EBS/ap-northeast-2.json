@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "3.36.167.28/30",
+    "region": "ap-northeast-2",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "3.36.167.48/29",
+    "region": "ap-northeast-2",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "3.36.245.204/30",
+    "region": "ap-northeast-2",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-2"
+  }
+]

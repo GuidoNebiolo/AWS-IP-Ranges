@@ -1,0 +1,32 @@
+[
+  {
+    "ipv6_prefix": "2406:da70:e000::/40",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ipv6_prefix": "2406:da1e::/32",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ipv6_prefix": "2406:da00:e000::/40",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ipv6_prefix": "2406:daff:e000::/40",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ipv6_prefix": "2406:daf0:e000::/40",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  }
+]

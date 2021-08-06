@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "13.126.243.0/24",
+    "region": "ap-south-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "ap-south-1"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "18.130.91.144/30",
+    "region": "eu-west-2",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "18.130.91.148/30",
+    "region": "eu-west-2",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "18.169.230.136/30",
+    "region": "eu-west-2",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "eu-west-2"
+  }
+]

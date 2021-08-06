@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "13.248.106.0/24",
+    "region": "me-south-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "me-south-1"
+  }
+]

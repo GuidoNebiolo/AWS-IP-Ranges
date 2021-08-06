@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "15.222.16.96/27",
+    "region": "ca-central-1",
+    "service": "CLOUD9",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "15.222.43.0/27",
+    "region": "ca-central-1",
+    "service": "CLOUD9",
+    "network_border_group": "ca-central-1"
+  }
+]

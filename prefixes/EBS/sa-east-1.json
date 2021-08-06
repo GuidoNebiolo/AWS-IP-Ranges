@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "15.228.103.240/29",
+    "region": "sa-east-1",
+    "service": "EBS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.228.126.48/30",
+    "region": "sa-east-1",
+    "service": "EBS",
+    "network_border_group": "sa-east-1"
+  }
+]

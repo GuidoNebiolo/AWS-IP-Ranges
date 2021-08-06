@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "3.251.148.120/29",
+    "region": "eu-west-1",
+    "service": "CODEBUILD",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "34.250.63.248/29",
+    "region": "eu-west-1",
+    "service": "CODEBUILD",
+    "network_border_group": "eu-west-1"
+  }
+]

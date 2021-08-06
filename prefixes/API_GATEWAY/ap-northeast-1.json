@@ -1,0 +1,38 @@
+[
+  {
+    "ip_prefix": "18.180.88.0/23",
+    "region": "ap-northeast-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "3.112.162.0/23",
+    "region": "ap-northeast-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "3.112.96.160/27",
+    "region": "ap-northeast-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "35.73.115.128/25",
+    "region": "ap-northeast-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "35.75.130.0/24",
+    "region": "ap-northeast-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "35.75.131.0/26",
+    "region": "ap-northeast-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-1"
+  }
+]

@@ -1,0 +1,290 @@
+[
+  {
+    "ip_prefix": "34.216.226.136/29",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.216.226.144/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.216.226.192/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.216.226.208/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.216.226.224/29",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.216.226.232/29",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.216.226.240/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.217.141.0/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.217.141.16/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.217.141.32/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.119.112/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.119.128/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.119.144/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.119.80/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.119.96/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.216.160/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.216.176/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.216.208/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.218.216.240/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.221.183.224/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.221.183.32/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.222.66.64/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.112.0/26",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.112.128/25",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.112.64/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.21.192/26",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.22.176/29",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.37.224/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.45.128/25",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.46.0/25",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.46.128/25",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.47.0/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.47.128/25",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.49.128/25",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.51.0/26",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.64.224/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.92.0/25",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "34.223.95.176/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.80.35.0/24",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.176.192/26",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.177.0/26",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.177.128/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.177.64/26",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.178.0/24",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.179.0/24",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.180.0/24",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.181.0/27",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.242.181.32/28",
+    "region": "us-west-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-west-2"
+  }
+]
