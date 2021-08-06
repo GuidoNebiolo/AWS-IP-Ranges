@@ -1,0 +1,296 @@
+[
+  {
+    "ip_prefix": "140.179.58.88/29",
+    "region": "cn-north-1",
+    "service": "EBS",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "140.179.79.244/30",
+    "region": "cn-north-1",
+    "service": "EBS",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "68.79.2.244/30",
+    "region": "cn-northwest-1",
+    "service": "EBS",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "68.79.2.248/29",
+    "region": "cn-northwest-1",
+    "service": "EBS",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "18.252.145.156/30",
+    "region": "us-gov-east-1",
+    "service": "EBS",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ip_prefix": "18.252.145.160/29",
+    "region": "us-gov-east-1",
+    "service": "EBS",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ip_prefix": "3.32.190.244/30",
+    "region": "us-gov-west-1",
+    "service": "EBS",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "3.32.190.248/29",
+    "region": "us-gov-west-1",
+    "service": "EBS",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "13.245.93.140/30",
+    "region": "af-south-1",
+    "service": "EBS",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.245.93.160/29",
+    "region": "af-south-1",
+    "service": "EBS",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "18.167.88.72/29",
+    "region": "ap-east-1",
+    "service": "EBS",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.167.88.80/30",
+    "region": "ap-east-1",
+    "service": "EBS",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "35.72.164.212/30",
+    "region": "ap-northeast-1",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "35.72.164.232/29",
+    "region": "ap-northeast-1",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "3.36.167.28/30",
+    "region": "ap-northeast-2",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "3.36.167.48/29",
+    "region": "ap-northeast-2",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "3.36.245.204/30",
+    "region": "ap-northeast-2",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "13.208.228.128/29",
+    "region": "ap-northeast-3",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "13.208.228.136/30",
+    "region": "ap-northeast-3",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "65.1.103.192/29",
+    "region": "ap-south-1",
+    "service": "EBS",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "65.1.103.200/30",
+    "region": "ap-south-1",
+    "service": "EBS",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "13.213.20.132/30",
+    "region": "ap-southeast-1",
+    "service": "EBS",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ip_prefix": "13.213.20.136/29",
+    "region": "ap-southeast-1",
+    "service": "EBS",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ip_prefix": "3.26.82.236/30",
+    "region": "ap-southeast-2",
+    "service": "EBS",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ip_prefix": "3.26.82.240/29",
+    "region": "ap-southeast-2",
+    "service": "EBS",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ip_prefix": "3.97.192.112/29",
+    "region": "ca-central-1",
+    "service": "EBS",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.98.171.92/30",
+    "region": "ca-central-1",
+    "service": "EBS",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.64.226.232/29",
+    "region": "eu-central-1",
+    "service": "EBS",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "3.64.226.240/30",
+    "region": "eu-central-1",
+    "service": "EBS",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "13.51.71.152/29",
+    "region": "eu-north-1",
+    "service": "EBS",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "13.51.71.160/30",
+    "region": "eu-north-1",
+    "service": "EBS",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "35.152.74.128/29",
+    "region": "eu-south-1",
+    "service": "EBS",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "35.152.74.136/30",
+    "region": "eu-south-1",
+    "service": "EBS",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "3.251.109.92/30",
+    "region": "eu-west-1",
+    "service": "EBS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "3.251.144.0/29",
+    "region": "eu-west-1",
+    "service": "EBS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "18.168.37.136/29",
+    "region": "eu-west-2",
+    "service": "EBS",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "18.168.37.144/30",
+    "region": "eu-west-2",
+    "service": "EBS",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "13.36.84.24/29",
+    "region": "eu-west-3",
+    "service": "EBS",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "13.36.84.32/30",
+    "region": "eu-west-3",
+    "service": "EBS",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "15.184.125.224/29",
+    "region": "me-south-1",
+    "service": "EBS",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.184.125.232/30",
+    "region": "me-south-1",
+    "service": "EBS",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.228.103.240/29",
+    "region": "sa-east-1",
+    "service": "EBS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.228.126.48/30",
+    "region": "sa-east-1",
+    "service": "EBS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "44.192.140.112/28",
+    "region": "us-east-1",
+    "service": "EBS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.192.140.128/29",
+    "region": "us-east-1",
+    "service": "EBS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.141.102.184/29",
+    "region": "us-east-2",
+    "service": "EBS",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.141.102.192/30",
+    "region": "us-east-2",
+    "service": "EBS",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.101.160.240/29",
+    "region": "us-west-1",
+    "service": "EBS",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "35.80.36.192/28",
+    "region": "us-west-2",
+    "service": "EBS",
+    "network_border_group": "us-west-2"
+  }
+]
