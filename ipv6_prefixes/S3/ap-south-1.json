@@ -1,0 +1,26 @@
+[
+  {
+    "ipv6_prefix": "2406:daf9:a000::/40",
+    "region": "ap-south-1",
+    "service": "S3",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:dafa:a000::/40",
+    "region": "ap-south-1",
+    "service": "S3",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:daf8:a000::/40",
+    "region": "ap-south-1",
+    "service": "S3",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:daa0:a000::/40",
+    "region": "ap-south-1",
+    "service": "S3",
+    "network_border_group": "ap-south-1"
+  }
+]

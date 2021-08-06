@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "13.48.32.0/24",
+    "region": "eu-north-1",
+    "service": "CLOUDFRONT",
+    "network_border_group": "eu-north-1"
+  }
+]

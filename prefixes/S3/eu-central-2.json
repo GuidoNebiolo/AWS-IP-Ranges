@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "52.95.139.0/24",
+    "region": "eu-central-2",
+    "service": "S3",
+    "network_border_group": "eu-central-2"
+  },
+  {
+    "ip_prefix": "52.95.140.0/23",
+    "region": "eu-central-2",
+    "service": "S3",
+    "network_border_group": "eu-central-2"
+  },
+  {
+    "ip_prefix": "3.5.52.0/22",
+    "region": "eu-central-2",
+    "service": "S3",
+    "network_border_group": "eu-central-2"
+  }
+]

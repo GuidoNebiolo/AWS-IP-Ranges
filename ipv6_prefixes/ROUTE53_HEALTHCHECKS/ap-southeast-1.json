@@ -1,0 +1,14 @@
+[
+  {
+    "ipv6_prefix": "2406:da18:7ff:f800::/56",
+    "region": "ap-southeast-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ipv6_prefix": "2406:da18:fff:f800::/56",
+    "region": "ap-southeast-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "ap-southeast-1"
+  }
+]

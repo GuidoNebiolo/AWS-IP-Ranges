@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "15.185.141.160/27",
+    "region": "me-south-1",
+    "service": "CLOUD9",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "15.185.91.32/27",
+    "region": "me-south-1",
+    "service": "CLOUD9",
+    "network_border_group": "me-south-1"
+  }
+]

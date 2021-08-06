@@ -1,0 +1,56 @@
+[
+  {
+    "ipv6_prefix": "240f:80ff:4000::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:2f00::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:4000::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:2200::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "240f:8014::/36",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:8000::/36",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "240f:8000:4000::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:2100::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  }
+]

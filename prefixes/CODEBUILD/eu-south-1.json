@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.161.192.240/28",
+    "region": "eu-south-1",
+    "service": "CODEBUILD",
+    "network_border_group": "eu-south-1"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "ip_prefix": "3.5.48.0/22",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "99.150.120.0/21",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "52.94.249.224/28",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "3.28.0.0/15",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  }
+]

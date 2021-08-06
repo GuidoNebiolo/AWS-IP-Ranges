@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "13.248.117.0/24",
+    "region": "ap-south-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "13.248.105.0/24",
+    "region": "ap-south-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "99.82.160.0/24",
+    "region": "ap-south-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "ap-south-1"
+  }
+]

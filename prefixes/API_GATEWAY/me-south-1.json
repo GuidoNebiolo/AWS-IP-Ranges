@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "15.185.144.0/23",
+    "region": "me-south-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "157.175.140.0/23",
+    "region": "me-south-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "me-south-1"
+  }
+]

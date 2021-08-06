@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "99.82.161.0/24",
+    "region": "eu-west-3",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-3"
+  }
+]

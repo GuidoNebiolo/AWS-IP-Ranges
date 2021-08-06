@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "18.230.103.0/24",
+    "region": "sa-east-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "18.230.104.0/23",
+    "region": "sa-east-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "54.233.204.0/24",
+    "region": "sa-east-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "sa-east-1"
+  }
+]

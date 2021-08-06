@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "13.208.228.128/29",
+    "region": "ap-northeast-3",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "13.208.228.136/30",
+    "region": "ap-northeast-3",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-3"
+  }
+]

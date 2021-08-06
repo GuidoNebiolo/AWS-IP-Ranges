@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "18.184.138.224/27",
+    "region": "eu-central-1",
+    "service": "CLOUD9",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "18.184.203.128/27",
+    "region": "eu-central-1",
+    "service": "CLOUD9",
+    "network_border_group": "eu-central-1"
+  }
+]

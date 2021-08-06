@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "35.182.14.48/29",
+    "region": "ca-central-1",
+    "service": "CODEBUILD",
+    "network_border_group": "ca-central-1"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "3.5.44.0/22",
+    "region": "ap-south-2",
+    "service": "S3",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "52.95.186.0/24",
+    "region": "ap-south-2",
+    "service": "S3",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "52.95.184.0/23",
+    "region": "ap-south-2",
+    "service": "S3",
+    "network_border_group": "ap-south-2"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "52.82.164.0/22",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.82.188.0/22",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  }
+]

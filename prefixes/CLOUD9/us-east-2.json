@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "18.188.9.0/27",
+    "region": "us-east-2",
+    "service": "CLOUD9",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.188.9.32/27",
+    "region": "us-east-2",
+    "service": "CLOUD9",
+    "network_border_group": "us-east-2"
+  }
+]

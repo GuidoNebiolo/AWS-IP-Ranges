@@ -1,0 +1,134 @@
+[
+  {
+    "ip_prefix": "15.197.0.0/23",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "54.230.192.0/21",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "15.197.8.0/22",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "35.71.128.0/17",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.3.8.0/21",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "52.223.0.0/17",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "15.197.4.0/22",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "99.77.188.0/24",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "99.82.156.0/22",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.2.8.0/21",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "15.197.128.0/17",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.3.6.0/23",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "13.248.128.0/17",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "75.2.0.0/17",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "99.77.190.0/24",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "15.197.2.0/24",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "99.83.128.0/17",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "76.223.0.0/17",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.3.0.0/23",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "15.197.3.0/24",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.33.128.0/17",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "99.77.189.0/24",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  }
+]

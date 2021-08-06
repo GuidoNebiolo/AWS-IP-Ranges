@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "99.77.253.0/24",
+    "region": "us-west-2",
+    "service": "CHIME_VOICECONNECTOR",
+    "network_border_group": "us-west-2"
+  }
+]

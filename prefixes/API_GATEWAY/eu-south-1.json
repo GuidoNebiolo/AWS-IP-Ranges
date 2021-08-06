@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.161.140.0/23",
+    "region": "eu-south-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "eu-south-1"
+  }
+]

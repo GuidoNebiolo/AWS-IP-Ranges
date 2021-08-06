@@ -1,0 +1,98 @@
+[
+  {
+    "ipv6_prefix": "2a05:d07a:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d050:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d016::/36",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d03a:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d07f:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d079:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d07e:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d070:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f01:48d0::/47",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d07c:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d000:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d078:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d038:6000:100::/56",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d038:6000:200::/56",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d038:6000:400::/56",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d03a:6000::/56",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  }
+]

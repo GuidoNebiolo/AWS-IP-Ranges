@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.177.0.0/18",
+    "region": "GLOBAL",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "GLOBAL"
+  }
+]

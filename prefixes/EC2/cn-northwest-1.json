@@ -1,0 +1,86 @@
+[
+  {
+    "ip_prefix": "52.82.169.0/28",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.83.0.0/16",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "69.235.128.0/18",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "69.231.128.0/18",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "69.230.192.0/18",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.82.168.0/24",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.82.176.0/22",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.82.184.0/23",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "68.79.0.0/18",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.82.180.0/22",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "161.189.0.0/16",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.82.0.0/17",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "69.234.192.0/18",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "52.82.164.0/22",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "ip_prefix": "3.5.140.0/22",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "52.219.60.0/23",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "52.219.148.0/23",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "3.5.144.0/23",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "52.219.56.0/22",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "52.219.144.0/22",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "3.36.167.64/28",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "3.36.167.80/28",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  }
+]

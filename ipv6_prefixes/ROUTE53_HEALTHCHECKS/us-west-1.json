@@ -1,0 +1,14 @@
+[
+  {
+    "ipv6_prefix": "2600:1f1c:7ff:f800::/56",
+    "region": "us-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f1c:fff:f800::/56",
+    "region": "us-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "us-west-1"
+  }
+]

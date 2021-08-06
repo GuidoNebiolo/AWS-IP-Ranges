@@ -1,0 +1,26 @@
+[
+  {
+    "ip_prefix": "35.80.88.0/22",
+    "region": "us-west-2",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.80.92.0/22",
+    "region": "us-west-2",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "44.234.54.0/23",
+    "region": "us-west-2",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "54.244.46.0/23",
+    "region": "us-west-2",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "us-west-2"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "13.244.132.0/23",
+    "region": "af-south-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "af-south-1"
+  }
+]

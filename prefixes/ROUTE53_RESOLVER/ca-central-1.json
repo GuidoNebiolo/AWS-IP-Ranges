@@ -1,0 +1,134 @@
+[
+  {
+    "ip_prefix": "15.222.16.32/27",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "15.222.16.8/29",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "15.222.43.64/26",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.192.128/25",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.217.0/24",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.218.0/24",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.219.0/24",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.230.0/25",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.99.128/27",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.99.160/27",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.99.64/28",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "3.97.99.96/27",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "35.182.14.208/29",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "35.182.14.216/29",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "35.183.38.0/27",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "35.183.38.32/29",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "35.183.38.40/29",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "35.183.38.48/29",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "35.183.38.56/29",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "35.183.38.64/29",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "99.79.20.192/27",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "99.79.20.224/27",
+    "region": "ca-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ca-central-1"
+  }
+]

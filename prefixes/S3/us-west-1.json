@@ -1,0 +1,50 @@
+[
+  {
+    "ip_prefix": "3.5.160.0/22",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "52.219.20.0/22",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "52.219.24.0/21",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "52.219.120.0/22",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "52.219.112.0/21",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "3.101.163.64/28",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "3.101.163.80/28",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "3.101.163.96/28",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  }
+]

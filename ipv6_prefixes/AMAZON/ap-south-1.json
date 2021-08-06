@@ -1,0 +1,116 @@
+[
+  {
+    "ipv6_prefix": "2406:daf9:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da1a::/36",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:dafa:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ffd:82be::/48",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:daf8:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ffd:8285::/48",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f01:4800::/47",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2400:6500:0:7500::/56",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:dafc:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:daff:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da00:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:daa0:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:dafe:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da70:a000::/40",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da70:a000:100::/56",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da70:a000:200::/56",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da70:a000:300::/56",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da70:a000:400::/56",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da70:a000::/56",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  }
+]

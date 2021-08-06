@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "18.237.140.160/29",
+    "region": "us-west-2",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "us-west-2"
+  }
+]

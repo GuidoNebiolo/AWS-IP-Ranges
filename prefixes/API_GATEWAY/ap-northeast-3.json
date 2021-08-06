@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "13.208.180.0/24",
+    "region": "ap-northeast-3",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "13.208.194.0/23",
+    "region": "ap-northeast-3",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "15.152.10.0/24",
+    "region": "ap-northeast-3",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-3"
+  }
+]

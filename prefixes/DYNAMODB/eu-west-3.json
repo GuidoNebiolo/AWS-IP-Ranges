@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "52.94.16.0/24",
+    "region": "eu-west-3",
+    "service": "DYNAMODB",
+    "network_border_group": "eu-west-3"
+  }
+]

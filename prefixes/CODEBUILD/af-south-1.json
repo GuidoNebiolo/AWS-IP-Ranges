@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "13.244.202.40/29",
+    "region": "af-south-1",
+    "service": "CODEBUILD",
+    "network_border_group": "af-south-1"
+  }
+]

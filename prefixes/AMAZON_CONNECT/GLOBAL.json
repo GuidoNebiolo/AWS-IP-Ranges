@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.193.0.0/19",
+    "region": "GLOBAL",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "GLOBAL"
+  }
+]

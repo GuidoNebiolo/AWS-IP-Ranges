@@ -1,0 +1,98 @@
+[
+  {
+    "ip_prefix": "18.188.9.64/29",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.188.9.80/29",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.188.9.88/29",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.217.41.192/29",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.217.41.200/29",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.217.41.208/29",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.217.41.216/29",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.217.41.64/26",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.139.136.128/27",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.139.136.184/30",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.139.136.192/26",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.140.136.128/27",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.18.132.0/26",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.18.132.64/26",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.19.147.0/25",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.19.147.128/25",
+    "region": "us-east-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "us-east-2"
+  }
+]

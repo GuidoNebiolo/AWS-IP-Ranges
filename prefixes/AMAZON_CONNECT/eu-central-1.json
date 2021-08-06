@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "18.184.2.128/25",
+    "region": "eu-central-1",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "35.158.127.64/26",
+    "region": "eu-central-1",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "eu-central-1"
+  }
+]

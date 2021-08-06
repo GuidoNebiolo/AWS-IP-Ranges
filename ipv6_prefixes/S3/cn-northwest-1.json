@@ -1,0 +1,50 @@
+[
+  {
+    "ipv6_prefix": "240f:80f8:4000::/40",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "240f:80f9:4000::/40",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:200::/40",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "240f:80a0:4000::/40",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "240f:80fa:4000::/40",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:2800::/40",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:2c00::/40",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:2400::/40",
+    "region": "cn-northwest-1",
+    "service": "S3",
+    "network_border_group": "cn-northwest-1"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "3.10.127.32/27",
+    "region": "eu-west-2",
+    "service": "CLOUD9",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "3.10.201.64/27",
+    "region": "eu-west-2",
+    "service": "CLOUD9",
+    "network_border_group": "eu-west-2"
+  }
+]

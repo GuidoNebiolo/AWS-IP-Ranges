@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "3.235.189.100/30",
+    "region": "us-east-1",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.235.189.96/30",
+    "region": "us-east-1",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.194.111.224/30",
+    "region": "us-east-1",
+    "service": "AMAZON_APPFLOW",
+    "network_border_group": "us-east-1"
+  }
+]

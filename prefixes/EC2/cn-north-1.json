@@ -1,0 +1,92 @@
+[
+  {
+    "ip_prefix": "71.131.192.0/18",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.80.0.0/16",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "140.179.0.0/16",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "54.223.0.0/16",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "54.222.32.0/22",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.81.0.0/16",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "54.222.52.0/22",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "54.222.128.0/17",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "54.222.59.0/24",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "71.132.0.0/18",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "54.222.64.0/23",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "54.222.36.0/22",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.95.255.144/28",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "107.176.0.0/15",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "54.222.58.32/28",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  }
+]

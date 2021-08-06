@@ -1,0 +1,56 @@
+[
+  {
+    "ip_prefix": "99.77.148.0/24",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "3.5.228.0/22",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.244.0.0/15",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.246.0.0/16",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "52.94.249.176/28",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "99.150.104.0/21",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "52.95.229.0/24",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "15.177.91.0/24",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "15.193.10.0/24",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  }
+]

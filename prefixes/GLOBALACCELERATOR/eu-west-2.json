@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "13.248.120.0/24",
+    "region": "eu-west-2",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "99.82.169.0/24",
+    "region": "eu-west-2",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "13.248.101.0/24",
+    "region": "eu-west-2",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-2"
+  }
+]

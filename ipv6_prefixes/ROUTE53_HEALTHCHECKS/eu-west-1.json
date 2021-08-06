@@ -1,0 +1,14 @@
+[
+  {
+    "ipv6_prefix": "2a05:d018:7ff:f800::/56",
+    "region": "eu-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d018:fff:f800::/56",
+    "region": "eu-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "eu-west-1"
+  }
+]

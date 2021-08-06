@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "3.251.109.92/30",
+    "region": "eu-west-1",
+    "service": "EBS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "3.251.144.0/29",
+    "region": "eu-west-1",
+    "service": "EBS",
+    "network_border_group": "eu-west-1"
+  }
+]
