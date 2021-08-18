@@ -22,5 +22,11 @@
     "region": "ap-south-1",
     "service": "S3",
     "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:daf0:a000::/40",
+    "region": "ap-south-1",
+    "service": "S3",
+    "network_border_group": "ap-south-1"
   }
 ]

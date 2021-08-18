@@ -414,6 +414,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "99.77.183.0/24",
+    "region": "us-gov-east-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
     "ip_prefix": "64.252.79.0/24",
     "region": "sa-east-1",
     "service": "EC2",
@@ -2110,6 +2116,12 @@
     "region": "us-west-2",
     "service": "EC2",
     "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "99.77.184.0/24",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
   },
   {
     "ip_prefix": "3.64.0.0/12",
