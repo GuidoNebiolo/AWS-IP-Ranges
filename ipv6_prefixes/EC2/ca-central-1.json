@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2600:1f60:1000::/40",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1fff:1000::/40",
     "region": "ca-central-1",
     "service": "EC2",
