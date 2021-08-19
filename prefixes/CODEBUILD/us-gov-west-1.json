@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "15.200.28.88/29",
+    "region": "us-gov-west-1",
+    "service": "CODEBUILD",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
     "ip_prefix": "52.61.40.104/29",
     "region": "us-gov-west-1",
     "service": "CODEBUILD",

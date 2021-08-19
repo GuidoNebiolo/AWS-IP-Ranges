@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "18.252.145.168/29",
+    "region": "us-gov-east-1",
+    "service": "CODEBUILD",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
     "ip_prefix": "18.252.4.16/29",
     "region": "us-gov-east-1",
     "service": "CODEBUILD",
