@@ -4,5 +4,11 @@
     "region": "cn-northwest-1",
     "service": "CODEBUILD",
     "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "69.234.197.72/29",
+    "region": "cn-northwest-1",
+    "service": "CODEBUILD",
+    "network_border_group": "cn-northwest-1"
   }
 ]
