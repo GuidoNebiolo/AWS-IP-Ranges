@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.152.24.128/29",
+    "region": "ap-northeast-3",
+    "service": "CODEBUILD",
+    "network_border_group": "ap-northeast-3"
+  }
+]

@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "15.228.126.200/29",
+    "region": "sa-east-1",
+    "service": "CODEBUILD",
+    "network_border_group": "sa-east-1"
+  },
+  {
     "ip_prefix": "18.231.194.8/29",
     "region": "sa-east-1",
     "service": "CODEBUILD",
