@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "3.68.251.232/29",
+    "region": "eu-central-1",
+    "service": "CODEBUILD",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "35.157.127.248/29",
     "region": "eu-central-1",
     "service": "CODEBUILD",

@@ -4,5 +4,11 @@
     "region": "us-west-1",
     "service": "CODEBUILD",
     "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "3.101.177.48/29",
+    "region": "us-west-1",
+    "service": "CODEBUILD",
+    "network_border_group": "us-west-1"
   }
 ]
