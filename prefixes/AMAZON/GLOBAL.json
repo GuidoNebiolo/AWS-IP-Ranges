@@ -270,6 +270,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "15.197.12.0/22",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "64.252.128.0/18",
     "region": "GLOBAL",
     "service": "AMAZON",
