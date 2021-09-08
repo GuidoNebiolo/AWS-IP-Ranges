@@ -12,6 +12,12 @@
     "network_border_group": "us-gov-west-1"
   },
   {
+    "ip_prefix": "3.30.0.0/15",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
     "ip_prefix": "160.1.0.0/16",
     "region": "us-gov-west-1",
     "service": "EC2",
