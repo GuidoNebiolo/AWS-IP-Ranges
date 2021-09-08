@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "15.220.252.0/22",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2-las-1"
+  },
+  {
     "ip_prefix": "54.148.0.0/15",
     "region": "us-west-2",
     "service": "EC2",
@@ -232,6 +238,12 @@
     "region": "us-west-2",
     "service": "EC2",
     "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "15.220.226.0/24",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2-las-1"
   },
   {
     "ip_prefix": "54.202.0.0/15",
