@@ -1158,6 +1158,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ipv6_prefix": "2406:da70:7000:100::/56",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ipv6_prefix": "2406:da00:ff00::/64",
     "region": "us-east-1",
     "service": "EC2",
