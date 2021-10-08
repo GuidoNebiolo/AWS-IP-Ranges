@@ -6,6 +6,12 @@
     "network_border_group": "us-west-1"
   },
   {
+    "ip_prefix": "52.219.192.0/24",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ip_prefix": "52.219.24.0/21",
     "region": "us-west-1",
     "service": "S3",
@@ -19,6 +25,12 @@
   },
   {
     "ip_prefix": "52.219.112.0/21",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "52.219.193.0/24",
     "region": "us-west-1",
     "service": "S3",
     "network_border_group": "us-west-1"
