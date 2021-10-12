@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "13.124.199.0/24",
+    "region": "ap-northeast-2",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "network_border_group": "ap-northeast-2"
+  }
+]
