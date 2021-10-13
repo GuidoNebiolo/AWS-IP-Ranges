@@ -1,17 +1,5 @@
 [
   {
-    "ip_prefix": "52.219.188.0/22",
-    "region": "ap-southeast-1",
-    "service": "S3",
-    "network_border_group": "ap-southeast-1"
-  },
-  {
-    "ip_prefix": "52.219.184.0/22",
-    "region": "ap-southeast-1",
-    "service": "S3",
-    "network_border_group": "ap-southeast-1"
-  },
-  {
     "ip_prefix": "52.219.32.0/21",
     "region": "ap-southeast-1",
     "service": "S3",
@@ -49,6 +37,12 @@
   },
   {
     "ip_prefix": "52.219.128.0/22",
+    "region": "ap-southeast-1",
+    "service": "S3",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ip_prefix": "52.219.184.0/21",
     "region": "ap-southeast-1",
     "service": "S3",
     "network_border_group": "ap-southeast-1"
