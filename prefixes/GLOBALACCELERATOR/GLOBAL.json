@@ -142,5 +142,11 @@
     "region": "GLOBAL",
     "service": "GLOBALACCELERATOR",
     "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "15.197.20.0/22",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
   }
 ]
