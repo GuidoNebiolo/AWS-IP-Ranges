@@ -690,6 +690,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "15.197.20.0/22",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "15.193.0.0/19",
     "region": "GLOBAL",
     "service": "AMAZON",
