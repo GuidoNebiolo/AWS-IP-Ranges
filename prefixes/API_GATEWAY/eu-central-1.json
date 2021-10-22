@@ -28,5 +28,17 @@
     "region": "eu-central-1",
     "service": "API_GATEWAY",
     "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "3.70.195.64/26",
+    "region": "eu-central-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "3.70.211.0/25",
+    "region": "eu-central-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "eu-central-1"
   }
 ]
