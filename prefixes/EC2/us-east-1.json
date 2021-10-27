@@ -750,6 +750,12 @@
     "network_border_group": "us-east-1-pilot-5"
   },
   {
+    "ip_prefix": "142.4.160.112/29",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1-pilot-6"
+  },
+  {
     "ip_prefix": "3.5.0.0/19",
     "region": "us-east-1",
     "service": "EC2",
