@@ -168,6 +168,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "15.197.18.0/23",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "13.249.0.0/16",
     "region": "GLOBAL",
     "service": "AMAZON",
