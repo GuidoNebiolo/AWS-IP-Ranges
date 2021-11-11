@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "43.224.79.154/31",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "52.93.153.170/32",
     "region": "eu-west-2",
     "service": "AMAZON",
@@ -511,6 +517,12 @@
   },
   {
     "ip_prefix": "13.34.26.224/27",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "43.224.79.100/31",
     "region": "eu-west-2",
     "service": "AMAZON",
     "network_border_group": "eu-west-2"
