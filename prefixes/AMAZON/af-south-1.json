@@ -334,5 +334,11 @@
     "region": "af-south-1",
     "service": "AMAZON",
     "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.245.241.64/26",
+    "region": "af-south-1",
+    "service": "AMAZON",
+    "network_border_group": "af-south-1"
   }
 ]
