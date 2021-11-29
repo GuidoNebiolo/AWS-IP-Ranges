@@ -732,6 +732,12 @@
     "network_border_group": "us-east-1-bos-1"
   },
   {
+    "ip_prefix": "157.241.0.0/16",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ip_prefix": "15.181.112.0/22",
     "region": "us-east-1",
     "service": "EC2",
