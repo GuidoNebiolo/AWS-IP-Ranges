@@ -114,6 +114,12 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ip_prefix": "150.222.217.250/31",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "52.93.126.244/32",
     "region": "ap-south-1",
     "service": "AMAZON",
