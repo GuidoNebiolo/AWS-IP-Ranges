@@ -42,12 +42,6 @@
     "network_border_group": "GLOBAL"
   },
   {
-    "ipv6_prefix": "2600:9000:5300::/40",
-    "region": "GLOBAL",
-    "service": "AMAZON",
-    "network_border_group": "GLOBAL"
-  },
-  {
     "ipv6_prefix": "2600:9000:a700::/40",
     "region": "GLOBAL",
     "service": "AMAZON",
@@ -108,6 +102,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ipv6_prefix": "2600:9000:5380::/41",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ipv6_prefix": "2600:9000:1000::/36",
     "region": "GLOBAL",
     "service": "AMAZON",
@@ -162,6 +162,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ipv6_prefix": "2600:9000:5308::/45",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ipv6_prefix": "2600:9000:f534::/46",
     "region": "GLOBAL",
     "service": "AMAZON",
@@ -186,6 +192,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ipv6_prefix": "2600:9000:5300::/45",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ipv6_prefix": "2600:9000:f520::/44",
     "region": "GLOBAL",
     "service": "AMAZON",
@@ -198,7 +210,25 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ipv6_prefix": "2600:9000:5320::/43",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ipv6_prefix": "2600:9000:5310::/44",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ipv6_prefix": "2600:9000:f580::/41",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ipv6_prefix": "2600:9000:5340::/42",
     "region": "GLOBAL",
     "service": "AMAZON",
     "network_border_group": "GLOBAL"
