@@ -16,5 +16,11 @@
     "region": "eu-north-1",
     "service": "API_GATEWAY",
     "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "16.171.48.0/22",
+    "region": "eu-north-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "eu-north-1"
   }
 ]
