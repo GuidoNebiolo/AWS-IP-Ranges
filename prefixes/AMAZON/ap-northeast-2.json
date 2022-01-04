@@ -192,6 +192,12 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ip_prefix": "52.219.202.0/23",
+    "region": "ap-northeast-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
     "ip_prefix": "52.94.198.64/28",
     "region": "ap-northeast-2",
     "service": "AMAZON",
