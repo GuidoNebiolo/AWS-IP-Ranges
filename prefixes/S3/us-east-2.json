@@ -12,6 +12,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "18.34.72.0/21",
+    "region": "us-east-2",
+    "service": "S3",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "3.5.128.0/22",
     "region": "us-east-2",
     "service": "S3",
@@ -31,6 +37,12 @@
   },
   {
     "ip_prefix": "3.5.132.0/23",
+    "region": "us-east-2",
+    "service": "S3",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.34.252.0/22",
     "region": "us-east-2",
     "service": "S3",
     "network_border_group": "us-east-2"
