@@ -108,6 +108,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ip_prefix": "35.71.72.0/22",
+    "region": "eu-west-1",
+    "service": "EC2",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ip_prefix": "52.208.0.0/13",
     "region": "eu-west-1",
     "service": "EC2",

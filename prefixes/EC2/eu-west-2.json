@@ -90,6 +90,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "35.71.111.0/24",
+    "region": "eu-west-2",
+    "service": "EC2",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "99.150.40.0/21",
     "region": "eu-west-2",
     "service": "EC2",

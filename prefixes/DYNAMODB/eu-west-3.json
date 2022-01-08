@@ -4,5 +4,11 @@
     "region": "eu-west-3",
     "service": "DYNAMODB",
     "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "35.71.101.0/24",
+    "region": "eu-west-3",
+    "service": "DYNAMODB",
+    "network_border_group": "eu-west-3"
   }
 ]

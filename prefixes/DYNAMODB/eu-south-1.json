@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "35.71.113.0/24",
+    "region": "eu-south-1",
+    "service": "DYNAMODB",
+    "network_border_group": "eu-south-1"
+  },
+  {
     "ip_prefix": "52.94.18.0/24",
     "region": "eu-south-1",
     "service": "DYNAMODB",
