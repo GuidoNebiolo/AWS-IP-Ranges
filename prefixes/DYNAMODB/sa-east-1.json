@@ -4,5 +4,11 @@
     "region": "sa-east-1",
     "service": "DYNAMODB",
     "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "35.71.106.0/24",
+    "region": "sa-east-1",
+    "service": "DYNAMODB",
+    "network_border_group": "sa-east-1"
   }
 ]

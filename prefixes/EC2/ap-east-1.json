@@ -42,6 +42,12 @@
     "network_border_group": "ap-east-1"
   },
   {
+    "ip_prefix": "35.71.107.0/24",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
     "ip_prefix": "43.198.0.0/15",
     "region": "ap-east-1",
     "service": "EC2",
