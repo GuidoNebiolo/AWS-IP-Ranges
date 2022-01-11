@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "13.40.204.0/22",
+    "region": "eu-west-2",
+    "service": "API_GATEWAY",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "18.168.133.0/24",
     "region": "eu-west-2",
     "service": "API_GATEWAY",

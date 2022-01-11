@@ -10,5 +10,11 @@
     "region": "me-south-1",
     "service": "API_GATEWAY",
     "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "157.175.255.0/24",
+    "region": "me-south-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "me-south-1"
   }
 ]
