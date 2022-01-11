@@ -10,5 +10,11 @@
     "region": "ap-northeast-2",
     "service": "API_GATEWAY",
     "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "3.38.229.0/25",
+    "region": "ap-northeast-2",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-northeast-2"
   }
 ]
