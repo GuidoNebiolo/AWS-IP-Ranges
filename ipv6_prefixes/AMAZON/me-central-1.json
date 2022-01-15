@@ -30,6 +30,12 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ipv6_prefix": "2406:daf1:7000::/40",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ipv6_prefix": "2406:da17::/36",
     "region": "me-central-1",
     "service": "AMAZON",
