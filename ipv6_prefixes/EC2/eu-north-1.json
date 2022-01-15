@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2a05:d071:6000::/40",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ipv6_prefix": "2a05:d016::/36",
     "region": "eu-north-1",
     "service": "EC2",
