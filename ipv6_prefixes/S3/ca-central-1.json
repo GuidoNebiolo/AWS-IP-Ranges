@@ -1,12 +1,12 @@
 [
   {
-    "ipv6_prefix": "2600:1ff9:1000::/40",
+    "ipv6_prefix": "2600:1f68:1000::/40",
     "region": "ca-central-1",
     "service": "S3",
     "network_border_group": "ca-central-1"
   },
   {
-    "ipv6_prefix": "2600:1f68:10c0::/46",
+    "ipv6_prefix": "2600:1ff9:1000::/40",
     "region": "ca-central-1",
     "service": "S3",
     "network_border_group": "ca-central-1"
@@ -31,12 +31,6 @@
   },
   {
     "ipv6_prefix": "2600:1fa0:1000::/40",
-    "region": "ca-central-1",
-    "service": "S3",
-    "network_border_group": "ca-central-1"
-  },
-  {
-    "ipv6_prefix": "2600:1f68:1020::/46",
     "region": "ca-central-1",
     "service": "S3",
     "network_border_group": "ca-central-1"

@@ -1,5 +1,23 @@
 [
   {
+    "ipv6_prefix": "2600:1fa0:81c0::/44",
+    "region": "us-east-1",
+    "service": "S3",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fa0:8100::/44",
+    "region": "us-east-1",
+    "service": "S3",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fa0:8140::/44",
+    "region": "us-east-1",
+    "service": "S3",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1fa0:8000::/40",
     "region": "us-east-1",
     "service": "S3",
@@ -19,6 +37,12 @@
   },
   {
     "ipv6_prefix": "2600:1fa0:8120::/44",
+    "region": "us-east-1",
+    "service": "S3",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fa0:8180::/44",
     "region": "us-east-1",
     "service": "S3",
     "network_border_group": "us-east-1"
