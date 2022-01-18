@@ -6,13 +6,37 @@
     "network_border_group": "eu-north-1"
   },
   {
+    "ipv6_prefix": "2a05:d050:60c0::/44",
+    "region": "eu-north-1",
+    "service": "S3",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ipv6_prefix": "2a05:d079:6000::/40",
     "region": "eu-north-1",
     "service": "S3",
     "network_border_group": "eu-north-1"
   },
   {
+    "ipv6_prefix": "2a05:d050:6080::/44",
+    "region": "eu-north-1",
+    "service": "S3",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ipv6_prefix": "2a05:d070:6000::/40",
+    "region": "eu-north-1",
+    "service": "S3",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d034:6000::/40",
+    "region": "eu-north-1",
+    "service": "S3",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d050:6040::/44",
     "region": "eu-north-1",
     "service": "S3",
     "network_border_group": "eu-north-1"
