@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "16.12.10.0/23",
+    "region": "eu-north-1",
+    "service": "S3",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ip_prefix": "52.95.169.0/24",
     "region": "eu-north-1",
     "service": "S3",
@@ -7,6 +13,12 @@
   },
   {
     "ip_prefix": "3.5.216.0/22",
+    "region": "eu-north-1",
+    "service": "S3",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "16.12.9.0/24",
     "region": "eu-north-1",
     "service": "S3",
     "network_border_group": "eu-north-1"
