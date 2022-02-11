@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "52.94.250.32/28",
+    "region": "il-central-1",
+    "service": "EC2",
+    "network_border_group": "il-central-1"
+  },
+  {
     "ip_prefix": "51.16.0.0/15",
     "region": "il-central-1",
     "service": "EC2",
