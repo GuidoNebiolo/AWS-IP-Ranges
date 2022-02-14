@@ -510,6 +510,12 @@
     "network_border_group": "sa-east-1"
   },
   {
+    "ip_prefix": "15.230.0.8/31",
+    "region": "sa-east-1",
+    "service": "AMAZON",
+    "network_border_group": "sa-east-1"
+  },
+  {
     "ip_prefix": "150.222.28.118/31",
     "region": "sa-east-1",
     "service": "AMAZON",
