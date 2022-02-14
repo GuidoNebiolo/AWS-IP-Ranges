@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2a01:578:0:7700::/56",
+    "region": "il-central-1",
+    "service": "AMAZON",
+    "network_border_group": "il-central-1"
+  }
+]
