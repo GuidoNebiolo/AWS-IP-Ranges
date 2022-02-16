@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2a05:d015:800::/38",
+    "region": "il-central-1",
+    "service": "EC2",
+    "network_border_group": "il-central-1"
+  },
+  {
     "ipv6_prefix": "2a05:d030:5000::/40",
     "region": "il-central-1",
     "service": "EC2",
@@ -7,6 +13,30 @@
   },
   {
     "ipv6_prefix": "2a05:d070:5000::/40",
+    "region": "il-central-1",
+    "service": "EC2",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d000:5000::/64",
+    "region": "il-central-1",
+    "service": "EC2",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d015:400::/38",
+    "region": "il-central-1",
+    "service": "EC2",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d015::/38",
+    "region": "il-central-1",
+    "service": "EC2",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d015:c00::/38",
     "region": "il-central-1",
     "service": "EC2",
     "network_border_group": "il-central-1"
