@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:1f01:48a0::/47",
+    "region": "us-west-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "us-west-1"
+  }
+]
