@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:1f01:4840::/47",
+    "region": "sa-east-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "sa-east-1"
+  }
+]

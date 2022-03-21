@@ -1,0 +1,14 @@
+[
+  {
+    "ipv6_prefix": "2600:1f01:4802::/47",
+    "region": "eu-west-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f01:4820::/47",
+    "region": "eu-west-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-1"
+  }
+]
