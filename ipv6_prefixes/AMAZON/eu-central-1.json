@@ -72,7 +72,7 @@
     "network_border_group": "eu-central-1"
   },
   {
-    "ipv6_prefix": "2a05:d014::/36",
+    "ipv6_prefix": "2a05:d014::/35",
     "region": "eu-central-1",
     "service": "AMAZON",
     "network_border_group": "eu-central-1"
