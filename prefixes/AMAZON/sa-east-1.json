@@ -48,12 +48,6 @@
     "network_border_group": "sa-east-1"
   },
   {
-    "ip_prefix": "150.222.0.19/32",
-    "region": "sa-east-1",
-    "service": "AMAZON",
-    "network_border_group": "sa-east-1"
-  },
-  {
     "ip_prefix": "150.222.28.108/31",
     "region": "sa-east-1",
     "service": "AMAZON",
@@ -198,12 +192,6 @@
     "network_border_group": "sa-east-1"
   },
   {
-    "ip_prefix": "150.222.0.128/25",
-    "region": "sa-east-1",
-    "service": "AMAZON",
-    "network_border_group": "sa-east-1"
-  },
-  {
     "ip_prefix": "99.151.112.0/21",
     "region": "sa-east-1",
     "service": "AMAZON",
@@ -265,12 +253,6 @@
   },
   {
     "ip_prefix": "15.251.0.20/32",
-    "region": "sa-east-1",
-    "service": "AMAZON",
-    "network_border_group": "sa-east-1"
-  },
-  {
-    "ip_prefix": "150.222.0.16/32",
     "region": "sa-east-1",
     "service": "AMAZON",
     "network_border_group": "sa-east-1"
@@ -373,12 +355,6 @@
   },
   {
     "ip_prefix": "64.252.80.0/24",
-    "region": "sa-east-1",
-    "service": "AMAZON",
-    "network_border_group": "sa-east-1"
-  },
-  {
-    "ip_prefix": "150.222.0.0/32",
     "region": "sa-east-1",
     "service": "AMAZON",
     "network_border_group": "sa-east-1"
@@ -558,12 +534,6 @@
     "network_border_group": "sa-east-1"
   },
   {
-    "ip_prefix": "150.222.0.18/32",
-    "region": "sa-east-1",
-    "service": "AMAZON",
-    "network_border_group": "sa-east-1"
-  },
-  {
     "ip_prefix": "15.221.40.0/21",
     "region": "sa-east-1",
     "service": "AMAZON",
@@ -631,6 +601,12 @@
   },
   {
     "ip_prefix": "15.251.0.24/32",
+    "region": "sa-east-1",
+    "service": "AMAZON",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "150.222.0.0/24",
     "region": "sa-east-1",
     "service": "AMAZON",
     "network_border_group": "sa-east-1"
@@ -727,12 +703,6 @@
   },
   {
     "ip_prefix": "15.230.94.0/24",
-    "region": "sa-east-1",
-    "service": "AMAZON",
-    "network_border_group": "sa-east-1"
-  },
-  {
-    "ip_prefix": "150.222.0.17/32",
     "region": "sa-east-1",
     "service": "AMAZON",
     "network_border_group": "sa-east-1"
