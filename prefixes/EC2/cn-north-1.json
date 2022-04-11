@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "54.222.88.0/24",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
     "ip_prefix": "71.131.192.0/18",
     "region": "cn-north-1",
     "service": "EC2",
