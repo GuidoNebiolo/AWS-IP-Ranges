@@ -135,7 +135,7 @@
     "ip_prefix": "142.4.160.64/29",
     "region": "us-west-2",
     "service": "EC2",
-    "network_border_group": "us-west-2"
+    "network_border_group": "us-west-2-las-1b"
   },
   {
     "ip_prefix": "52.95.230.0/24",
