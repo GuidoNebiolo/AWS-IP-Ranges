@@ -168,6 +168,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "52.94.146.0/24",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "18.194.0.0/15",
     "region": "eu-central-1",
     "service": "EC2",
