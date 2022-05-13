@@ -84,6 +84,12 @@
     "network_border_group": "us-east-1-chi-1"
   },
   {
+    "ip_prefix": "13.34.70.224/27",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "50.16.0.0/15",
     "region": "us-east-1",
     "service": "AMAZON",
@@ -3361,6 +3367,12 @@
   },
   {
     "ip_prefix": "52.93.50.160/31",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "13.34.70.192/27",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
