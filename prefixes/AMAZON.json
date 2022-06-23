@@ -19530,6 +19530,12 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ip_prefix": "63.246.120.0/21",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "99.78.196.0/22",
     "region": "us-west-2",
     "service": "AMAZON",
