@@ -6,12 +6,6 @@
     "network_border_group": "cn-north-1"
   },
   {
-    "ip_prefix": "71.137.8.0/22",
-    "region": "cn-north-1",
-    "service": "S3",
-    "network_border_group": "cn-north-1"
-  },
-  {
     "ip_prefix": "54.222.48.0/22",
     "region": "cn-north-1",
     "service": "S3",
