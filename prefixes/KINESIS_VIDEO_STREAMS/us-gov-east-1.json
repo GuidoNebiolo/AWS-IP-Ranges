@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "18.252.165.140/30",
+    "region": "us-gov-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-gov-east-1"
+  }
+]
