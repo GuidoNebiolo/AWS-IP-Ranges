@@ -240,12 +240,6 @@
     "network_border_group": "cn-northwest-1"
   },
   {
-    "ipv6_prefix": "2600:f00c:8000::/48",
-    "region": "us-west-2",
-    "service": "EC2",
-    "network_border_group": "us-west-2"
-  },
-  {
     "ipv6_prefix": "2400:6500:ff00::/64",
     "region": "ap-southeast-1",
     "service": "EC2",
@@ -1102,6 +1096,12 @@
     "region": "us-east-1",
     "service": "EC2",
     "network_border_group": "us-east-1-wl1-dfw-wlz-1"
+  },
+  {
+    "ipv6_prefix": "2600:f00c:8000::/39",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
   },
   {
     "ipv6_prefix": "2a05:d018::/36",
