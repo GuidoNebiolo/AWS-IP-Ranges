@@ -540,6 +540,12 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ip_prefix": "15.230.194.0/24",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "52.95.96.0/22",
     "region": "ap-south-1",
     "service": "AMAZON",
