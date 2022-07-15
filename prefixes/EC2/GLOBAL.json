@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "3.4.8.0/24",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "15.177.0.0/18",
     "region": "GLOBAL",
     "service": "EC2",
