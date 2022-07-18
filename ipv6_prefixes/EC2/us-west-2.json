@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2600:1ff2:4000::/40",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1f1d:8000::/36",
     "region": "us-west-2",
     "service": "EC2",
@@ -100,6 +106,12 @@
     "region": "us-west-2",
     "service": "EC2",
     "network_border_group": "us-west-2-wl1-sea-wlz-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f61:4000::/40",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
   },
   {
     "ipv6_prefix": "2600:1ffd:8508::/48",
