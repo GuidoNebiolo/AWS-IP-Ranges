@@ -46,5 +46,11 @@
     "region": "ap-south-2",
     "service": "EC2",
     "network_border_group": "ap-south-2"
+  },
+  {
+    "ipv6_prefix": "2406:daf2:b000::/40",
+    "region": "ap-south-2",
+    "service": "EC2",
+    "network_border_group": "ap-south-2"
   }
 ]
