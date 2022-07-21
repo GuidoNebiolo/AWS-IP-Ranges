@@ -6,6 +6,12 @@
     "network_border_group": "us-gov-east-1"
   },
   {
+    "ip_prefix": "3.30.40.84/30",
+    "region": "us-gov-west-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
     "ip_prefix": "35.72.36.140/31",
     "region": "ap-northeast-1",
     "service": "KINESIS_VIDEO_STREAMS",
