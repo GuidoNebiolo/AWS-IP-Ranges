@@ -4344,6 +4344,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ip_prefix": "18.88.128.0/18",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "34.240.0.0/13",
     "region": "eu-west-1",
     "service": "EC2",
