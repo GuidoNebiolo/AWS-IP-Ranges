@@ -192,6 +192,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "18.68.0.0/16",
+    "region": "GLOBAL",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "54.182.156.0/22",
     "region": "GLOBAL",
     "service": "CLOUDFRONT_ORIGIN_FACING",
