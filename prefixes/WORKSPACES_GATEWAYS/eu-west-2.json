@@ -12,6 +12,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "18.134.68.0/22",
+    "region": "eu-west-2",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "35.176.32.0/24",
     "region": "eu-west-2",
     "service": "WORKSPACES_GATEWAYS",

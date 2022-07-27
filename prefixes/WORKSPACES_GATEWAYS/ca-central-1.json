@@ -12,6 +12,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ip_prefix": "3.97.20.0/22",
+    "region": "ca-central-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ip_prefix": "35.183.255.0/24",
     "region": "ca-central-1",
     "service": "WORKSPACES_GATEWAYS",
