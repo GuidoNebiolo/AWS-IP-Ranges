@@ -18,12 +18,6 @@
     "network_border_group": "us-east-1"
   },
   {
-    "ip_prefix": "16.12.64.0/19",
-    "region": "us-east-1",
-    "service": "S3",
-    "network_border_group": "us-east-1"
-  },
-  {
     "ip_prefix": "18.34.232.0/21",
     "region": "us-east-1",
     "service": "S3",
