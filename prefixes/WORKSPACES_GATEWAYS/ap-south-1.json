@@ -4,5 +4,11 @@
     "region": "ap-south-1",
     "service": "WORKSPACES_GATEWAYS",
     "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "65.1.156.0/22",
+    "region": "ap-south-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "ap-south-1"
   }
 ]
