@@ -10,5 +10,11 @@
     "region": "us-gov-east-1",
     "service": "API_GATEWAY",
     "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ip_prefix": "18.254.68.0/23",
+    "region": "us-gov-east-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "us-gov-east-1"
   }
 ]
