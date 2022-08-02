@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "3.2.32.0/26",
+    "region": "ap-southeast-6",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-6"
+  }
+]
