@@ -150,12 +150,6 @@
     "network_border_group": "sa-east-1"
   },
   {
-    "ip_prefix": "15.220.112.0/21",
-    "region": "sa-east-1",
-    "service": "EC2",
-    "network_border_group": "sa-east-1"
-  },
-  {
     "ip_prefix": "177.71.128.0/17",
     "region": "sa-east-1",
     "service": "EC2",
