@@ -2067,7 +2067,7 @@
     "ip_prefix": "104.153.112.0/24",
     "region": "us-east-1",
     "service": "AMAZON",
-    "network_border_group": "us-east-1"
+    "network_border_group": "us-east-1-dfw-2"
   },
   {
     "ip_prefix": "13.34.29.64/27",
@@ -2500,6 +2500,12 @@
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "18.88.0.0/18",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1-dfw-2"
   },
   {
     "ip_prefix": "52.93.254.0/24",
