@@ -16,5 +16,23 @@
     "region": "me-central-1",
     "service": "S3",
     "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "3.28.70.112/28",
+    "region": "me-central-1",
+    "service": "S3",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "3.28.70.48/28",
+    "region": "me-central-1",
+    "service": "S3",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "3.28.70.96/28",
+    "region": "me-central-1",
+    "service": "S3",
+    "network_border_group": "me-central-1"
   }
 ]
