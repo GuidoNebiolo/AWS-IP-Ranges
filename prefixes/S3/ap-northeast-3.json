@@ -28,5 +28,17 @@
     "region": "ap-northeast-3",
     "service": "S3",
     "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "15.152.133.112/28",
+    "region": "ap-northeast-3",
+    "service": "S3",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "15.152.133.128/28",
+    "region": "ap-northeast-3",
+    "service": "S3",
+    "network_border_group": "ap-northeast-3"
   }
 ]
