@@ -108,6 +108,12 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ip_prefix": "3.2.37.0/26",
+    "region": "ap-northeast-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
     "ip_prefix": "13.34.11.192/27",
     "region": "ap-northeast-2",
     "service": "AMAZON",

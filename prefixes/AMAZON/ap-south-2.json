@@ -138,6 +138,12 @@
     "network_border_group": "ap-south-2"
   },
   {
+    "ip_prefix": "3.2.35.192/26",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
     "ip_prefix": "104.255.59.127/32",
     "region": "ap-south-2",
     "service": "AMAZON",
