@@ -204,6 +204,12 @@
     "network_border_group": "eu-west-3"
   },
   {
+    "ip_prefix": "3.2.33.64/26",
+    "region": "eu-west-3",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-3"
+  },
+  {
     "ip_prefix": "15.230.71.64/26",
     "region": "eu-west-3",
     "service": "AMAZON",
