@@ -1,0 +1,104 @@
+[
+  {
+    "ip_prefix": "140.179.36.16/29",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "140.179.36.32/27",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "140.179.36.64/27",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "140.179.57.0/24",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "140.179.58.0/26",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "140.179.59.0/24",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "140.179.79.64/26",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.80.51.200/29",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.80.51.208/29",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.80.51.216/29",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.80.51.224/29",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.80.51.240/29",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.80.51.248/29",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.81.113.32/27",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.81.113.64/27",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.81.113.96/27",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "52.81.151.0/27",
+    "region": "cn-north-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "cn-north-1"
+  }
+]
