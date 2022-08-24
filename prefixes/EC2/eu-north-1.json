@@ -1,11 +1,5 @@
 [
   {
-    "ip_prefix": "15.220.184.0/21",
-    "region": "eu-north-1",
-    "service": "EC2",
-    "network_border_group": "eu-north-1"
-  },
-  {
     "ip_prefix": "99.77.137.0/24",
     "region": "eu-north-1",
     "service": "EC2",
@@ -19,12 +13,6 @@
   },
   {
     "ip_prefix": "13.50.0.0/16",
-    "region": "eu-north-1",
-    "service": "EC2",
-    "network_border_group": "eu-north-1"
-  },
-  {
-    "ip_prefix": "15.220.176.0/21",
     "region": "eu-north-1",
     "service": "EC2",
     "network_border_group": "eu-north-1"
