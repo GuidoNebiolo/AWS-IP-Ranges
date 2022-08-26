@@ -303,7 +303,7 @@
     "ip_prefix": "15.220.136.0/21",
     "region": "ap-south-1",
     "service": "AMAZON",
-    "network_border_group": "ap-south-1"
+    "network_border_group": "ap-south-1-del-1"
   },
   {
     "ip_prefix": "52.93.126.205/32",
@@ -711,7 +711,7 @@
     "ip_prefix": "15.220.128.0/21",
     "region": "ap-south-1",
     "service": "AMAZON",
-    "network_border_group": "ap-south-1"
+    "network_border_group": "ap-south-1-del-1"
   },
   {
     "ip_prefix": "52.93.127.132/32",
