@@ -858,6 +858,18 @@
     "network_border_group": "ap-southeast-1"
   },
   {
+    "ip_prefix": "15.220.192.0/22",
+    "region": "ap-southeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-1-bkk-1"
+  },
+  {
+    "ip_prefix": "15.220.240.0/21",
+    "region": "ap-southeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-1-bkk-1"
+  },
+  {
     "ip_prefix": "52.95.212.0/22",
     "region": "ap-southeast-1",
     "service": "AMAZON",
