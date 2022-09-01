@@ -24,6 +24,12 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ip_prefix": "54.7.0.0/16",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ip_prefix": "15.230.219.0/24",
     "region": "me-central-1",
     "service": "AMAZON",
@@ -109,6 +115,12 @@
   },
   {
     "ip_prefix": "15.230.177.2/31",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "54.6.0.0/16",
     "region": "me-central-1",
     "service": "AMAZON",
     "network_border_group": "me-central-1"
