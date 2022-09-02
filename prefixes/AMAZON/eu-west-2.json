@@ -858,6 +858,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "3.2.48.0/24",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "43.224.77.144/30",
     "region": "eu-west-2",
     "service": "AMAZON",
