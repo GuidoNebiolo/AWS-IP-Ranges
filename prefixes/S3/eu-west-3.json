@@ -12,19 +12,13 @@
     "network_border_group": "eu-west-3"
   },
   {
-    "ip_prefix": "16.12.19.0/24",
-    "region": "eu-west-3",
-    "service": "S3",
-    "network_border_group": "eu-west-3"
-  },
-  {
-    "ip_prefix": "16.12.18.0/24",
-    "region": "eu-west-3",
-    "service": "S3",
-    "network_border_group": "eu-west-3"
-  },
-  {
     "ip_prefix": "52.95.154.0/23",
+    "region": "eu-west-3",
+    "service": "S3",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "16.12.18.0/23",
     "region": "eu-west-3",
     "service": "S3",
     "network_border_group": "eu-west-3"
