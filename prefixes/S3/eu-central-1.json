@@ -12,6 +12,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "16.12.255.0/24",
+    "region": "eu-central-1",
+    "service": "S3",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "3.5.136.0/22",
     "region": "eu-central-1",
     "service": "S3",
@@ -30,6 +36,18 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "16.12.23.0/24",
+    "region": "eu-central-1",
+    "service": "S3",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "16.12.21.0/24",
+    "region": "eu-central-1",
+    "service": "S3",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "52.219.44.0/22",
     "region": "eu-central-1",
     "service": "S3",
@@ -43,6 +61,12 @@
   },
   {
     "ip_prefix": "52.219.140.0/24",
+    "region": "eu-central-1",
+    "service": "S3",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "16.12.22.0/24",
     "region": "eu-central-1",
     "service": "S3",
     "network_border_group": "eu-central-1"
