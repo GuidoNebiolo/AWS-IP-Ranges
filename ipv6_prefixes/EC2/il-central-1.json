@@ -36,6 +36,12 @@
     "network_border_group": "il-central-1"
   },
   {
+    "ipv6_prefix": "2a05:d03a:5000:100::/56",
+    "region": "il-central-1",
+    "service": "EC2",
+    "network_border_group": "il-central-1"
+  },
+  {
     "ipv6_prefix": "2a05:d031:5000::/40",
     "region": "il-central-1",
     "service": "EC2",
