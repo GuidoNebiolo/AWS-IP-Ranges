@@ -144,6 +144,12 @@
     "network_border_group": "ap-south-1-del-1"
   },
   {
+    "ip_prefix": "96.0.60.0/22",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "35.154.0.0/16",
     "region": "ap-south-1",
     "service": "EC2",
@@ -157,6 +163,12 @@
   },
   {
     "ip_prefix": "3.6.0.0/15",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "96.0.64.0/21",
     "region": "ap-south-1",
     "service": "EC2",
     "network_border_group": "ap-south-1"
