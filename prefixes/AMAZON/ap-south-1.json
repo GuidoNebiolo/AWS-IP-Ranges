@@ -612,6 +612,12 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ip_prefix": "96.0.60.0/22",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "35.154.0.0/16",
     "region": "ap-south-1",
     "service": "AMAZON",
@@ -733,6 +739,12 @@
   },
   {
     "ip_prefix": "16.12.40.0/23",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "96.0.64.0/21",
     "region": "ap-south-1",
     "service": "AMAZON",
     "network_border_group": "ap-south-1"
