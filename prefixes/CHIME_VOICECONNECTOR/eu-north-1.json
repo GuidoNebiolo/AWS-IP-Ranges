@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "99.77.246.0/24",
+    "region": "eu-north-1",
+    "service": "CHIME_VOICECONNECTOR",
+    "network_border_group": "eu-north-1"
+  }
+]
