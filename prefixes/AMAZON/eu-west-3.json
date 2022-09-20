@@ -78,6 +78,12 @@
     "network_border_group": "eu-west-3"
   },
   {
+    "ip_prefix": "99.77.248.0/24",
+    "region": "eu-west-3",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-3"
+  },
+  {
     "ip_prefix": "13.34.53.32/27",
     "region": "eu-west-3",
     "service": "AMAZON",

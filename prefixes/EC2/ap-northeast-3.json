@@ -42,6 +42,12 @@
     "network_border_group": "ap-northeast-3"
   },
   {
+    "ip_prefix": "99.77.243.0/24",
+    "region": "ap-northeast-3",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
     "ip_prefix": "99.77.140.0/24",
     "region": "ap-northeast-3",
     "service": "EC2",
