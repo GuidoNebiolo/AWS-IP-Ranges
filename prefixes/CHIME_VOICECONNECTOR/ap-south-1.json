@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "99.77.238.0/24",
+    "region": "ap-south-1",
+    "service": "CHIME_VOICECONNECTOR",
+    "network_border_group": "ap-south-1"
+  }
+]
