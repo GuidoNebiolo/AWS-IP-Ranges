@@ -4404,6 +4404,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ip_prefix": "54.239.103.128/26",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "43.224.79.122/31",
     "region": "us-east-1",
     "service": "AMAZON",
