@@ -117,7 +117,7 @@
     "ip_prefix": "96.0.24.0/21",
     "region": "eu-north-1",
     "service": "EC2",
-    "network_border_group": "eu-north-1"
+    "network_border_group": "eu-north-1-cph-1"
   },
   {
     "ip_prefix": "99.150.64.0/21",
