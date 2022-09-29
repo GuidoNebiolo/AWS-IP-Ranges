@@ -360,12 +360,6 @@
     "network_border_group": "ca-central-1"
   },
   {
-    "ip_prefix": "18.148.0.0/14",
-    "region": "ca-central-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-central-1"
-  },
-  {
     "ip_prefix": "15.193.8.0/24",
     "region": "ca-central-1",
     "service": "AMAZON",

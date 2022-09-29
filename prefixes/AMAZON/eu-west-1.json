@@ -528,12 +528,6 @@
     "network_border_group": "eu-west-1"
   },
   {
-    "ip_prefix": "18.186.0.0/15",
-    "region": "eu-west-1",
-    "service": "AMAZON",
-    "network_border_group": "eu-west-1"
-  },
-  {
     "ip_prefix": "54.239.0.48/28",
     "region": "eu-west-1",
     "service": "AMAZON",
