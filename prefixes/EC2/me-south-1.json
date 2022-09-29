@@ -45,7 +45,7 @@
     "ip_prefix": "15.220.146.0/23",
     "region": "me-south-1",
     "service": "EC2",
-    "network_border_group": "me-south-1"
+    "network_border_group": "me-south-1-mct-1"
   },
   {
     "ip_prefix": "142.4.160.168/29",
@@ -87,6 +87,6 @@
     "ip_prefix": "15.220.160.0/21",
     "region": "me-south-1",
     "service": "EC2",
-    "network_border_group": "me-south-1"
+    "network_border_group": "me-south-1-mct-1"
   }
 ]
