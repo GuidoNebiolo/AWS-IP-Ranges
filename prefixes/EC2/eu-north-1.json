@@ -3,7 +3,7 @@
     "ip_prefix": "96.0.32.0/22",
     "region": "eu-north-1",
     "service": "EC2",
-    "network_border_group": "eu-north-1"
+    "network_border_group": "eu-north-1-cph-1"
   },
   {
     "ip_prefix": "15.220.168.0/21",
