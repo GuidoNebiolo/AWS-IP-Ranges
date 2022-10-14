@@ -348,6 +348,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ip_prefix": "151.148.34.0/24",
+    "region": "eu-west-1",
+    "service": "EC2",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ip_prefix": "162.213.233.0/24",
     "region": "eu-west-1",
     "service": "EC2",
