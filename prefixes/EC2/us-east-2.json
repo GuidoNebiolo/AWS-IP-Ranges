@@ -138,6 +138,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "151.148.32.0/24",
+    "region": "us-east-2",
+    "service": "EC2",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "3.130.0.0/16",
     "region": "us-east-2",
     "service": "EC2",
