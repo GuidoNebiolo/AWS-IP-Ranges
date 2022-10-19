@@ -16,5 +16,11 @@
     "region": "ap-south-2",
     "service": "S3",
     "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "18.60.78.192/28",
+    "region": "ap-south-2",
+    "service": "S3",
+    "network_border_group": "ap-south-2"
   }
 ]
