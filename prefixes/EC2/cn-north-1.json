@@ -66,6 +66,12 @@
     "network_border_group": "cn-north-1"
   },
   {
+    "ip_prefix": "71.137.0.0/18",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
     "ip_prefix": "71.132.0.0/18",
     "region": "cn-north-1",
     "service": "EC2",
@@ -85,12 +91,6 @@
   },
   {
     "ip_prefix": "43.196.0.0/16",
-    "region": "cn-north-1",
-    "service": "EC2",
-    "network_border_group": "cn-north-1"
-  },
-  {
-    "ip_prefix": "71.137.4.0/24",
     "region": "cn-north-1",
     "service": "EC2",
     "network_border_group": "cn-north-1"
