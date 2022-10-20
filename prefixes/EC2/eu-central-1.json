@@ -234,6 +234,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "76.223.128.0/24",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "35.71.105.0/24",
     "region": "eu-central-1",
     "service": "EC2",
