@@ -666,12 +666,6 @@
     "network_border_group": "GLOBAL"
   },
   {
-    "ipv6_prefix": "2606:f40:3::/48",
-    "region": "us-west-2",
-    "service": "AMAZON",
-    "network_border_group": "us-west-2"
-  },
-  {
     "ipv6_prefix": "2a05:d000:9000::/40",
     "region": "eu-central-2",
     "service": "AMAZON",
@@ -1960,6 +1954,12 @@
     "region": "af-south-1",
     "service": "AMAZON",
     "network_border_group": "af-south-1"
+  },
+  {
+    "ipv6_prefix": "2606:f40:2400::/38",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
   },
   {
     "ipv6_prefix": "2600:1fa0:6000::/40",
