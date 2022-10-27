@@ -18,6 +18,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2606:f40:2::/48",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2606:f40:3800::/37",
     "region": "us-east-1",
     "service": "EC2",
