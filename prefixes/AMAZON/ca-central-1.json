@@ -24,6 +24,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ip_prefix": "13.34.85.32/27",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ip_prefix": "52.93.193.199/32",
     "region": "ca-central-1",
     "service": "AMAZON",
@@ -43,6 +49,12 @@
   },
   {
     "ip_prefix": "35.71.119.0/24",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "13.34.85.0/27",
     "region": "ca-central-1",
     "service": "AMAZON",
     "network_border_group": "ca-central-1"
