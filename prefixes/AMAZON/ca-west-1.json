@@ -18,7 +18,19 @@
     "network_border_group": "ca-west-1"
   },
   {
+    "ip_prefix": "15.190.8.0/22",
+    "region": "ca-west-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-west-1"
+  },
+  {
     "ip_prefix": "3.2.42.192/26",
+    "region": "ca-west-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-west-1"
+  },
+  {
+    "ip_prefix": "15.190.48.0/20",
     "region": "ca-west-1",
     "service": "AMAZON",
     "network_border_group": "ca-west-1"
