@@ -30,7 +30,7 @@
     "network_border_group": "us-west-1"
   },
   {
-    "ipv6_prefix": "2620:107:300f::/64",
+    "ipv6_prefix": "2620:107:300f::/48",
     "region": "us-west-1",
     "service": "EC2",
     "network_border_group": "us-west-1"

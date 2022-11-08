@@ -12,7 +12,7 @@
     "network_border_group": "ap-southeast-1"
   },
   {
-    "ipv6_prefix": "2400:6500:ff00::/64",
+    "ipv6_prefix": "2400:6500:ff00::/48",
     "region": "ap-southeast-1",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-1"
