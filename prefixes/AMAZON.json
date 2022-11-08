@@ -8310,6 +8310,12 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ip_prefix": "13.248.73.0/24",
+    "region": "ca-west-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-west-1"
+  },
+  {
     "ip_prefix": "15.220.152.0/21",
     "region": "eu-central-1",
     "service": "AMAZON",
