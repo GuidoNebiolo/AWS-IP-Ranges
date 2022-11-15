@@ -6,6 +6,18 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ipv6_prefix": "2406:da69:7080::/46",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:da69:70c0::/46",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ipv6_prefix": "2406:da60:7000::/40",
     "region": "me-central-1",
     "service": "EC2",
@@ -30,6 +42,30 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ipv6_prefix": "2406:da69:7040::/46",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:da68:7040::/46",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:da68:7080::/46",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:da27::/36",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ipv6_prefix": "2406:da70:7000::/40",
     "region": "me-central-1",
     "service": "EC2",
@@ -37,6 +73,12 @@
   },
   {
     "ipv6_prefix": "2406:da00:7000::/40",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:da68:70c0::/46",
     "region": "me-central-1",
     "service": "EC2",
     "network_border_group": "me-central-1"
