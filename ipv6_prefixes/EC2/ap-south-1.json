@@ -24,6 +24,18 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ipv6_prefix": "2406:da68:a080::/46",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da69:a080::/46",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ipv6_prefix": "2600:1ffd:8285::/48",
     "region": "ap-south-1",
     "service": "EC2",
@@ -42,6 +54,18 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ipv6_prefix": "2406:da68:a0c0::/46",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da68:a040::/46",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ipv6_prefix": "2406:daff:a000::/40",
     "region": "ap-south-1",
     "service": "EC2",
@@ -54,7 +78,25 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ipv6_prefix": "2406:da69:a040::/46",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da2a::/36",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ipv6_prefix": "2406:daf0:a000::/40",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da69:a0c0::/46",
     "region": "ap-south-1",
     "service": "EC2",
     "network_border_group": "ap-south-1"

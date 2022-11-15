@@ -12,6 +12,18 @@
     "network_border_group": "us-gov-west-1"
   },
   {
+    "ipv6_prefix": "2600:1f69:2080::/46",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f69:20c0::/46",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1f12::/36",
     "region": "us-gov-west-1",
     "service": "EC2",
@@ -24,7 +36,19 @@
     "network_border_group": "us-gov-west-1"
   },
   {
+    "ipv6_prefix": "2600:1f68:2040::/46",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1f00:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f69:2040::/46",
     "region": "us-gov-west-1",
     "service": "EC2",
     "network_border_group": "us-gov-west-1"
@@ -36,7 +60,19 @@
     "network_border_group": "us-gov-west-1"
   },
   {
+    "ipv6_prefix": "2600:1f68:2080::/46",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1ff1:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f68:20c0::/46",
     "region": "us-gov-west-1",
     "service": "EC2",
     "network_border_group": "us-gov-west-1"
@@ -49,6 +85,12 @@
   },
   {
     "ipv6_prefix": "2600:1f70:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f22::/36",
     "region": "us-gov-west-1",
     "service": "EC2",
     "network_border_group": "us-gov-west-1"
