@@ -36,6 +36,12 @@
     "network_border_group": "us-west-1"
   },
   {
+    "ip_prefix": "52.219.216.0/23",
+    "region": "us-west-1",
+    "service": "S3",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ip_prefix": "3.101.163.64/28",
     "region": "us-west-1",
     "service": "S3",
