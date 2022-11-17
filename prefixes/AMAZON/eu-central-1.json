@@ -222,6 +222,12 @@
     "network_border_group": "eu-central-1-ham-1"
   },
   {
+    "ip_prefix": "52.219.211.0/24",
+    "region": "eu-central-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "52.93.127.238/32",
     "region": "eu-central-1",
     "service": "AMAZON",
@@ -919,6 +925,12 @@
   },
   {
     "ip_prefix": "150.222.230.126/31",
+    "region": "eu-central-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "52.219.218.0/24",
     "region": "eu-central-1",
     "service": "AMAZON",
     "network_border_group": "eu-central-1"
