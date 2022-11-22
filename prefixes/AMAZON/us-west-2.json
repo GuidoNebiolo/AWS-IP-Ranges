@@ -480,6 +480,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ip_prefix": "13.34.86.224/27",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "54.245.0.0/16",
     "region": "us-west-2",
     "service": "AMAZON",
@@ -1675,6 +1681,12 @@
   },
   {
     "ip_prefix": "13.34.23.160/27",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "13.34.86.192/27",
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2"
