@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "108.136.122.0/26",
+    "region": "ap-southeast-3",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-southeast-3"
+  },
+  {
+    "ip_prefix": "108.136.122.64/26",
+    "region": "ap-southeast-3",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-southeast-3"
+  },
+  {
+    "ip_prefix": "108.136.38.192/26",
+    "region": "ap-southeast-3",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-southeast-3"
+  }
+]
