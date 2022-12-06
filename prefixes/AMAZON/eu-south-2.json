@@ -126,6 +126,18 @@
     "network_border_group": "eu-south-2"
   },
   {
+    "ip_prefix": "18.100.160.0/24",
+    "region": "eu-south-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-south-2"
+  },
+  {
+    "ip_prefix": "18.100.71.128/25",
+    "region": "eu-south-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-south-2"
+  },
+  {
     "ip_prefix": "18.100.74.0/23",
     "region": "eu-south-2",
     "service": "AMAZON",

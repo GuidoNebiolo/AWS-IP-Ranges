@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "18.60.64.192/26",
+    "region": "ap-south-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "18.60.68.0/26",
+    "region": "ap-south-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "18.60.68.64/26",
+    "region": "ap-south-2",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-south-2"
+  }
+]
