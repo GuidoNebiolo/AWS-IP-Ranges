@@ -4866,6 +4866,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "99.151.186.0/23",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "3.20.0.0/14",
     "region": "us-east-2",
     "service": "EC2",
