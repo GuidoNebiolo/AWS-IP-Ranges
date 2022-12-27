@@ -1098,12 +1098,6 @@
     "network_border_group": "us-west-2"
   },
   {
-    "ip_prefix": "3.33.49.24/30",
-    "region": "us-west-2",
-    "service": "AMAZON",
-    "network_border_group": "us-west-2"
-  },
-  {
     "ip_prefix": "13.34.2.32/27",
     "region": "us-west-2",
     "service": "AMAZON",
@@ -1531,12 +1525,6 @@
   },
   {
     "ip_prefix": "150.222.102.0/24",
-    "region": "us-west-2",
-    "service": "AMAZON",
-    "network_border_group": "us-west-2"
-  },
-  {
-    "ip_prefix": "3.33.49.28/30",
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2"
