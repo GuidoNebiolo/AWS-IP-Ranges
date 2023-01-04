@@ -12,12 +12,6 @@
     "network_border_group": "ap-northeast-3"
   },
   {
-    "ipv6_prefix": "2406:da68:6080::/46",
-    "region": "ap-northeast-3",
-    "service": "EC2",
-    "network_border_group": "ap-northeast-3"
-  },
-  {
     "ipv6_prefix": "2406:daf2:6000::/40",
     "region": "ap-northeast-3",
     "service": "EC2",
@@ -30,7 +24,7 @@
     "network_border_group": "ap-northeast-3"
   },
   {
-    "ipv6_prefix": "2406:da68:6040::/46",
+    "ipv6_prefix": "2406:da68:6000::/40",
     "region": "ap-northeast-3",
     "service": "EC2",
     "network_border_group": "ap-northeast-3"
@@ -54,31 +48,13 @@
     "network_border_group": "ap-northeast-3"
   },
   {
-    "ipv6_prefix": "2406:da68:60c0::/46",
-    "region": "ap-northeast-3",
-    "service": "EC2",
-    "network_border_group": "ap-northeast-3"
-  },
-  {
-    "ipv6_prefix": "2406:da69:60c0::/46",
+    "ipv6_prefix": "2406:da69:6000::/40",
     "region": "ap-northeast-3",
     "service": "EC2",
     "network_border_group": "ap-northeast-3"
   },
   {
     "ipv6_prefix": "2406:da26::/36",
-    "region": "ap-northeast-3",
-    "service": "EC2",
-    "network_border_group": "ap-northeast-3"
-  },
-  {
-    "ipv6_prefix": "2406:da69:6040::/46",
-    "region": "ap-northeast-3",
-    "service": "EC2",
-    "network_border_group": "ap-northeast-3"
-  },
-  {
-    "ipv6_prefix": "2406:da69:6080::/46",
     "region": "ap-northeast-3",
     "service": "EC2",
     "network_border_group": "ap-northeast-3"

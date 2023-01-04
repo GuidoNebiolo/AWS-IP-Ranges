@@ -1,12 +1,6 @@
 [
   {
-    "ipv6_prefix": "2600:1f69:1020::/46",
-    "region": "ca-central-1",
-    "service": "EC2",
-    "network_border_group": "ca-central-1"
-  },
-  {
-    "ipv6_prefix": "2600:1f68:1040::/46",
+    "ipv6_prefix": "2600:1f68:1000::/40",
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"
@@ -24,25 +18,13 @@
     "network_border_group": "ca-central-1"
   },
   {
-    "ipv6_prefix": "2600:1f68:1080::/46",
-    "region": "ca-central-1",
-    "service": "EC2",
-    "network_border_group": "ca-central-1"
-  },
-  {
-    "ipv6_prefix": "2600:1f69:1080::/46",
+    "ipv6_prefix": "2600:1f69:1000::/40",
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"
   },
   {
     "ipv6_prefix": "2600:1f70:1000::/40",
-    "region": "ca-central-1",
-    "service": "EC2",
-    "network_border_group": "ca-central-1"
-  },
-  {
-    "ipv6_prefix": "2600:1f69:1040::/46",
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"
@@ -84,12 +66,6 @@
     "network_border_group": "ca-central-1"
   },
   {
-    "ipv6_prefix": "2600:1f68:10c0::/46",
-    "region": "ca-central-1",
-    "service": "EC2",
-    "network_border_group": "ca-central-1"
-  },
-  {
     "ipv6_prefix": "2600:1ffd:819f::/48",
     "region": "ca-central-1",
     "service": "EC2",
@@ -126,19 +102,7 @@
     "network_border_group": "ca-central-1"
   },
   {
-    "ipv6_prefix": "2600:1f69:10c0::/46",
-    "region": "ca-central-1",
-    "service": "EC2",
-    "network_border_group": "ca-central-1"
-  },
-  {
     "ipv6_prefix": "2600:1f21::/36",
-    "region": "ca-central-1",
-    "service": "EC2",
-    "network_border_group": "ca-central-1"
-  },
-  {
-    "ipv6_prefix": "2600:1f68:1020::/46",
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"
