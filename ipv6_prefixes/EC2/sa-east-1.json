@@ -1,18 +1,6 @@
 [
   {
-    "ipv6_prefix": "2600:1f69:e0c0::/46",
-    "region": "sa-east-1",
-    "service": "EC2",
-    "network_border_group": "sa-east-1"
-  },
-  {
     "ipv6_prefix": "2600:1f2e::/36",
-    "region": "sa-east-1",
-    "service": "EC2",
-    "network_border_group": "sa-east-1"
-  },
-  {
-    "ipv6_prefix": "2600:1f69:e080::/46",
     "region": "sa-east-1",
     "service": "EC2",
     "network_border_group": "sa-east-1"
@@ -30,12 +18,6 @@
     "network_border_group": "sa-east-1"
   },
   {
-    "ipv6_prefix": "2600:1f68:e0c0::/46",
-    "region": "sa-east-1",
-    "service": "EC2",
-    "network_border_group": "sa-east-1"
-  },
-  {
     "ipv6_prefix": "2804:800:ff00::/48",
     "region": "sa-east-1",
     "service": "EC2",
@@ -43,12 +25,6 @@
   },
   {
     "ipv6_prefix": "2600:1f61:e000::/40",
-    "region": "sa-east-1",
-    "service": "EC2",
-    "network_border_group": "sa-east-1"
-  },
-  {
-    "ipv6_prefix": "2600:1f68:e080::/46",
     "region": "sa-east-1",
     "service": "EC2",
     "network_border_group": "sa-east-1"
@@ -78,19 +54,7 @@
     "network_border_group": "sa-east-1"
   },
   {
-    "ipv6_prefix": "2600:1f69:e040::/46",
-    "region": "sa-east-1",
-    "service": "EC2",
-    "network_border_group": "sa-east-1"
-  },
-  {
     "ipv6_prefix": "2600:1ff2:e000::/40",
-    "region": "sa-east-1",
-    "service": "EC2",
-    "network_border_group": "sa-east-1"
-  },
-  {
-    "ipv6_prefix": "2600:1f68:e040::/46",
     "region": "sa-east-1",
     "service": "EC2",
     "network_border_group": "sa-east-1"
@@ -103,6 +67,18 @@
   },
   {
     "ipv6_prefix": "2600:1f00:e000::/40",
+    "region": "sa-east-1",
+    "service": "EC2",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f69:e000::/40",
+    "region": "sa-east-1",
+    "service": "EC2",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f68:e000::/40",
     "region": "sa-east-1",
     "service": "EC2",
     "network_border_group": "sa-east-1"
