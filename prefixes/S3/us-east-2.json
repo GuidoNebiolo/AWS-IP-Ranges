@@ -48,6 +48,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "52.219.232.0/22",
+    "region": "us-east-2",
+    "service": "S3",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "18.34.252.0/22",
     "region": "us-east-2",
     "service": "S3",
@@ -60,7 +66,19 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "52.219.224.0/22",
+    "region": "us-east-2",
+    "service": "S3",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "52.219.80.0/20",
+    "region": "us-east-2",
+    "service": "S3",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "52.219.228.0/22",
     "region": "us-east-2",
     "service": "S3",
     "network_border_group": "us-east-2"
