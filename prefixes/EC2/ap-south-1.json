@@ -214,11 +214,5 @@
     "region": "ap-south-1",
     "service": "EC2",
     "network_border_group": "ap-south-1-del-1"
-  },
-  {
-    "ip_prefix": "142.4.177.0/24",
-    "region": "ap-south-1",
-    "service": "EC2",
-    "network_border_group": "ap-south-1"
   }
 ]
