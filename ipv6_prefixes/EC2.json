@@ -444,6 +444,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ipv6_prefix": "2600:f0f0:0:300::/56",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1f70:4000::/40",
     "region": "us-west-2",
     "service": "EC2",
