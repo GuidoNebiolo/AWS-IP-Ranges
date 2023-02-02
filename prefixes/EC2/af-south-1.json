@@ -6,6 +6,12 @@
     "network_border_group": "af-south-1"
   },
   {
+    "ip_prefix": "142.4.161.40/29",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1-los-1"
+  },
+  {
     "ip_prefix": "13.247.0.0/16",
     "region": "af-south-1",
     "service": "EC2",
