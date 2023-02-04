@@ -282,6 +282,12 @@
     "network_border_group": "eu-north-1-hel-1"
   },
   {
+    "ip_prefix": "15.230.97.0/24",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ip_prefix": "15.248.32.0/22",
     "region": "eu-north-1",
     "service": "AMAZON",
