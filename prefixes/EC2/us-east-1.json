@@ -996,6 +996,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ip_prefix": "96.0.132.0/24",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1-scl-1"
+  },
+  {
     "ip_prefix": "15.181.244.0/24",
     "region": "us-east-1",
     "service": "EC2",
