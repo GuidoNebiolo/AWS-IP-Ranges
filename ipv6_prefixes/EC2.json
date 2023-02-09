@@ -1812,6 +1812,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ipv6_prefix": "2605:9cc0:1ff0:3d00::/56",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2a05:d07f:c000::/40",
     "region": "eu-west-2",
     "service": "EC2",
