@@ -348,6 +348,12 @@
     "network_border_group": "us-east-1-wl1-bos-wlz-1"
   },
   {
+    "ipv6_prefix": "2605:9cc0:1ff0::/56",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2620:107:4007::/64",
     "region": "us-east-1",
     "service": "EC2",
