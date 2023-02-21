@@ -270,6 +270,12 @@
     "network_border_group": "us-east-1-pilot-5"
   },
   {
+    "ipv6_prefix": "2605:9cc0:1ff2::/48",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1f17:8000::/36",
     "region": "us-east-1",
     "service": "EC2",
