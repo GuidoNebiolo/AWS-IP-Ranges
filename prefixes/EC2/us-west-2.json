@@ -426,6 +426,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ip_prefix": "99.77.232.0/24",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "142.4.160.104/29",
     "region": "us-west-2",
     "service": "EC2",
