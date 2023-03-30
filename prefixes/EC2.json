@@ -1260,6 +1260,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ip_prefix": "3.4.9.0/24",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "15.168.0.0/16",
     "region": "ap-northeast-3",
     "service": "EC2",
@@ -2088,6 +2094,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ip_prefix": "142.4.179.0/24",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "151.148.33.0/24",
     "region": "us-west-2",
     "service": "EC2",
@@ -2331,7 +2343,7 @@
     "ip_prefix": "96.0.144.0/21",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1"
+    "network_border_group": "ap-southeast-1-mnl-1"
   },
   {
     "ip_prefix": "99.78.238.251/32",
@@ -2892,6 +2904,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ip_prefix": "142.4.161.104/29",
+    "region": "ap-southeast-1",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-1-mnl-1"
+  },
+  {
     "ip_prefix": "18.189.0.0/16",
     "region": "us-east-2",
     "service": "EC2",
@@ -3400,6 +3418,12 @@
     "region": "us-east-1",
     "service": "EC2",
     "network_border_group": "us-east-1-phl-1"
+  },
+  {
+    "ip_prefix": "142.4.161.112/29",
+    "region": "ap-southeast-1",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-1-sggov-sin-1a"
   },
   {
     "ip_prefix": "18.136.0.0/16",
@@ -4758,6 +4782,12 @@
     "network_border_group": "ca-west-1"
   },
   {
+    "ip_prefix": "142.4.178.0/24",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "64.252.98.0/24",
     "region": "ap-south-1",
     "service": "EC2",
@@ -5752,6 +5782,12 @@
     "region": "us-east-1",
     "service": "EC2",
     "network_border_group": "us-east-1-chi-1"
+  },
+  {
+    "ip_prefix": "142.4.161.120/29",
+    "region": "ap-southeast-1",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-1-sggov-sin-1b"
   },
   {
     "ip_prefix": "3.4.24.0/21",
