@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "18.60.78.240/28",
+    "region": "ap-south-2",
+    "service": "CODEBUILD",
+    "network_border_group": "ap-south-2"
+  }
+]
