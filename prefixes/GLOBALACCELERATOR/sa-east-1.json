@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "3.2.49.0/24",
+    "region": "sa-east-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "sa-east-1"
+  },
+  {
     "ip_prefix": "99.82.164.0/24",
     "region": "sa-east-1",
     "service": "GLOBALACCELERATOR",

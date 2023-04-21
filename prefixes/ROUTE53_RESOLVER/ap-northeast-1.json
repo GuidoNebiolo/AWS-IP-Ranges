@@ -144,7 +144,19 @@
     "network_border_group": "ap-northeast-1"
   },
   {
+    "ip_prefix": "35.73.0.0/22",
+    "region": "ap-northeast-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
     "ip_prefix": "35.73.4.0/24",
+    "region": "ap-northeast-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "35.73.8.0/22",
     "region": "ap-northeast-1",
     "service": "ROUTE53_RESOLVER",
     "network_border_group": "ap-northeast-1"
