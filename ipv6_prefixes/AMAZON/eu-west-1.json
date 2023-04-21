@@ -6,6 +6,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:1:1a00::/56",
+    "region": "eu-west-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1f01:4802::/47",
     "region": "eu-west-1",
     "service": "AMAZON",

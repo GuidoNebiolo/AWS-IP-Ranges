@@ -106,5 +106,23 @@
     "region": "eu-central-1",
     "service": "ROUTE53_RESOLVER",
     "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "3.65.124.0/22",
+    "region": "eu-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "3.65.128.0/22",
+    "region": "eu-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "3.65.132.0/22",
+    "region": "eu-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "eu-central-1"
   }
 ]
