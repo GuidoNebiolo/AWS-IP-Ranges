@@ -12,6 +12,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "3.2.48.0/24",
+    "region": "eu-west-2",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "13.248.101.0/24",
     "region": "eu-west-2",
     "service": "GLOBALACCELERATOR",
