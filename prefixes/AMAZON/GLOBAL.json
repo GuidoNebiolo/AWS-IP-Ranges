@@ -426,6 +426,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "216.39.168.0/21",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "13.34.45.32/27",
     "region": "GLOBAL",
     "service": "AMAZON",
