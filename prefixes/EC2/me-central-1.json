@@ -46,5 +46,11 @@
     "region": "me-central-1",
     "service": "EC2",
     "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "51.0.80.0/21",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
   }
 ]

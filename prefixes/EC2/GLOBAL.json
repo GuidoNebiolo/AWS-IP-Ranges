@@ -6,6 +6,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "216.39.168.0/21",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "15.177.0.0/18",
     "region": "GLOBAL",
     "service": "EC2",
