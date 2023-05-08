@@ -96,6 +96,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ip_prefix": "161.193.128.0/18",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ip_prefix": "15.193.8.0/24",
     "region": "ca-central-1",
     "service": "EC2",
