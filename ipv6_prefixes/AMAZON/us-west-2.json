@@ -21,7 +21,7 @@
     "ipv6_prefix": "2600:1f1d:8000::/36",
     "region": "us-west-2",
     "service": "AMAZON",
-    "network_border_group": "us-west-2-pilot-2"
+    "network_border_group": "us-west-2"
   },
   {
     "ipv6_prefix": "2600:1f22:8000::/36",
@@ -57,7 +57,7 @@
     "ipv6_prefix": "2600:1f2c:4000::/36",
     "region": "us-west-2",
     "service": "AMAZON",
-    "network_border_group": "us-west-2-phx-2"
+    "network_border_group": "us-west-2"
   },
   {
     "ipv6_prefix": "2600:f0f0:1:ff00::/56",
@@ -177,7 +177,7 @@
     "ipv6_prefix": "2600:1f2d:8000::/36",
     "region": "us-west-2",
     "service": "AMAZON",
-    "network_border_group": "us-west-2-pilot-2"
+    "network_border_group": "us-west-2"
   },
   {
     "ipv6_prefix": "2600:1ff8:4000::/40",

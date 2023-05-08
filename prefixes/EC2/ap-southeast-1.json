@@ -123,7 +123,7 @@
     "ip_prefix": "15.220.96.0/20",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-han-1"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "52.220.0.0/15",
@@ -153,7 +153,7 @@
     "ip_prefix": "96.0.144.0/21",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-mnl-1"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "99.151.104.0/21",
@@ -189,7 +189,7 @@
     "ip_prefix": "142.4.161.104/29",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-mnl-1"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "54.151.128.0/17",
@@ -201,7 +201,7 @@
     "ip_prefix": "142.4.161.112/29",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-sggov-sin-1a"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "18.136.0.0/16",
@@ -219,7 +219,7 @@
     "ip_prefix": "96.0.112.0/21",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-sggov-sin-1a"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "3.5.146.0/23",
@@ -285,19 +285,19 @@
     "ip_prefix": "96.0.94.0/23",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-sggov-sin-1a"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "96.0.108.0/24",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-sggov-sin-1a"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "96.0.120.0/21",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-sggov-sin-1b"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "3.5.148.0/22",
@@ -327,13 +327,13 @@
     "ip_prefix": "15.220.44.0/22",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-han-1"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "96.0.130.0/24",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-sggov-sin-1b"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "54.251.0.0/16",
@@ -351,7 +351,7 @@
     "ip_prefix": "142.4.161.120/29",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-sggov-sin-1b"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "3.0.0.0/15",
@@ -369,7 +369,7 @@
     "ip_prefix": "96.0.128.0/23",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1-sggov-sin-1b"
+    "network_border_group": "ap-southeast-1"
   },
   {
     "ip_prefix": "151.148.38.0/24",
