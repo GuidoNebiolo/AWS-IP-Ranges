@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "3.145.246.48/29",
+    "region": "us-east-2",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.145.246.56/29",
+    "region": "us-east-2",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "us-east-2"
+  }
+]

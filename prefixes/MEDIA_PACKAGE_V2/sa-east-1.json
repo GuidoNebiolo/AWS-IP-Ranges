@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "15.229.120.48/29",
+    "region": "sa-east-1",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.229.120.56/29",
+    "region": "sa-east-1",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "sa-east-1"
+  }
+]
