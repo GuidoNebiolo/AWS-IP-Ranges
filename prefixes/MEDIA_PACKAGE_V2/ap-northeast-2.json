@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "43.201.155.152/29",
+    "region": "ap-northeast-2",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "43.201.155.160/29",
+    "region": "ap-northeast-2",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "ap-northeast-2"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "13.200.7.128/29",
+    "region": "ap-south-1",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "13.200.7.136/29",
+    "region": "ap-south-1",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "ap-south-1"
+  }
+]
