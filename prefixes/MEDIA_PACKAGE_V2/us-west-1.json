@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "3.101.226.80/29",
+    "region": "us-west-1",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "3.101.226.88/29",
+    "region": "us-west-1",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "us-west-1"
+  }
+]

@@ -1,12 +1,12 @@
 [
   {
-    "ipv6_prefix": "2600:1fa0:4000::/40",
+    "ipv6_prefix": "2600:1f68:4000::/39",
     "region": "us-west-2",
     "service": "S3",
     "network_border_group": "us-west-2"
   },
   {
-    "ipv6_prefix": "2600:1f68:4000::/40",
+    "ipv6_prefix": "2600:1fa0:4000::/39",
     "region": "us-west-2",
     "service": "S3",
     "network_border_group": "us-west-2"
@@ -24,7 +24,7 @@
     "network_border_group": "us-west-2"
   },
   {
-    "ipv6_prefix": "2600:1ff0:4000::/40",
+    "ipv6_prefix": "2600:1ff0:4000::/39",
     "region": "us-west-2",
     "service": "S3",
     "network_border_group": "us-west-2"

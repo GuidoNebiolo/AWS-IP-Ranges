@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "3.253.189.64/29",
+    "region": "eu-west-1",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "3.253.189.72/29",
+    "region": "eu-west-1",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "eu-west-1"
+  }
+]
