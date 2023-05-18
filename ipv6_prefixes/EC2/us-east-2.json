@@ -72,12 +72,6 @@
     "network_border_group": "us-east-2"
   },
   {
-    "ipv6_prefix": "2605:9cc0:1ff0:f000::/56",
-    "region": "us-east-2",
-    "service": "EC2",
-    "network_border_group": "us-east-2"
-  },
-  {
     "ipv6_prefix": "2600:1ffb:60c1::/48",
     "region": "us-east-2",
     "service": "EC2",
@@ -103,12 +97,6 @@
   },
   {
     "ipv6_prefix": "2600:1ffd:831b::/48",
-    "region": "us-east-2",
-    "service": "EC2",
-    "network_border_group": "us-east-2"
-  },
-  {
-    "ipv6_prefix": "2605:9cc0:1ff0:f800::/56",
     "region": "us-east-2",
     "service": "EC2",
     "network_border_group": "us-east-2"

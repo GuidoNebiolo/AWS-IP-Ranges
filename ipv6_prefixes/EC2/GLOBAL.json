@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2605:9cc0:1ff0:1200::/56",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ipv6_prefix": "2605:9cc0:1ff0:2900::/56",
     "region": "GLOBAL",
     "service": "EC2",
@@ -25,12 +31,6 @@
   },
   {
     "ipv6_prefix": "2605:9cc0:1ff0:2800::/56",
-    "region": "GLOBAL",
-    "service": "EC2",
-    "network_border_group": "GLOBAL"
-  },
-  {
-    "ipv6_prefix": "2605:9cc0:1ff0:1d00::/56",
     "region": "GLOBAL",
     "service": "EC2",
     "network_border_group": "GLOBAL"
