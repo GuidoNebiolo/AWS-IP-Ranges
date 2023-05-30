@@ -112,5 +112,17 @@
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f1e:4000::/36",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f2e:4000::/36",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
   }
 ]
