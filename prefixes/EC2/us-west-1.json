@@ -126,6 +126,12 @@
     "network_border_group": "us-west-1"
   },
   {
+    "ip_prefix": "173.83.209.0/24",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ip_prefix": "184.72.0.0/18",
     "region": "us-west-1",
     "service": "EC2",
