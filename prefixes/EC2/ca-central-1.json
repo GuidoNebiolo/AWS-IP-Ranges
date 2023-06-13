@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "130.171.0.128/26",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ip_prefix": "15.222.0.0/15",
     "region": "ca-central-1",
     "service": "EC2",
@@ -31,6 +37,18 @@
   },
   {
     "ip_prefix": "3.5.252.0/22",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "130.171.0.0/26",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "130.171.0.64/26",
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"

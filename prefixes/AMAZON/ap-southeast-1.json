@@ -1119,7 +1119,7 @@
     "ip_prefix": "96.0.120.0/21",
     "region": "ap-southeast-1",
     "service": "AMAZON",
-    "network_border_group": "ap-southeast-1"
+    "network_border_group": "ap-southeast-1-sggov-sin-1b"
   },
   {
     "ip_prefix": "150.222.219.0/24",
@@ -1281,7 +1281,7 @@
     "ip_prefix": "96.0.130.0/24",
     "region": "ap-southeast-1",
     "service": "AMAZON",
-    "network_border_group": "ap-southeast-1"
+    "network_border_group": "ap-southeast-1-sggov-sin-1b"
   },
   {
     "ip_prefix": "13.34.44.96/27",
@@ -1317,7 +1317,7 @@
     "ip_prefix": "142.4.161.120/29",
     "region": "ap-southeast-1",
     "service": "AMAZON",
-    "network_border_group": "ap-southeast-1"
+    "network_border_group": "ap-southeast-1-sggov-sin-1b"
   },
   {
     "ip_prefix": "3.0.0.0/15",
@@ -1347,7 +1347,7 @@
     "ip_prefix": "96.0.128.0/23",
     "region": "ap-southeast-1",
     "service": "AMAZON",
-    "network_border_group": "ap-southeast-1"
+    "network_border_group": "ap-southeast-1-sggov-sin-1b"
   },
   {
     "ip_prefix": "150.222.14.10/32",

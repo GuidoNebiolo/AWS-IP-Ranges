@@ -1590,6 +1590,18 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "3.146.12.0/22",
+    "region": "us-east-2",
+    "service": "AMAZON",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.146.8.0/22",
+    "region": "us-east-2",
+    "service": "AMAZON",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "3.15.36.64/26",
     "region": "us-east-2",
     "service": "AMAZON",
