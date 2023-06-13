@@ -108,6 +108,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "15.230.106.0/24",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "13.34.79.128/27",
     "region": "eu-west-2",
     "service": "AMAZON",
