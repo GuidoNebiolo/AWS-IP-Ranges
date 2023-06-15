@@ -162,6 +162,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "76.223.169.0/24",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "15.197.3.0/24",
     "region": "GLOBAL",
     "service": "GLOBALACCELERATOR",

@@ -726,6 +726,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ip_prefix": "173.83.200.0/22",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "3.2.2.0/24",
     "region": "us-east-1",
     "service": "EC2",
