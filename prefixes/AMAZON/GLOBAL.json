@@ -714,6 +714,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "76.223.169.0/24",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "15.177.0.0/18",
     "region": "GLOBAL",
     "service": "AMAZON",
