@@ -3,7 +3,7 @@
     "ip_prefix": "142.4.161.216/29",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1"
+    "network_border_group": "ap-southeast-1-mnl-1"
   },
   {
     "ip_prefix": "15.193.2.0/24",
@@ -147,7 +147,7 @@
     "ip_prefix": "96.0.144.0/21",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1"
+    "network_border_group": "ap-southeast-1-mnl-1"
   },
   {
     "ip_prefix": "99.151.104.0/21",
@@ -183,7 +183,7 @@
     "ip_prefix": "142.4.161.104/29",
     "region": "ap-southeast-1",
     "service": "EC2",
-    "network_border_group": "ap-southeast-1"
+    "network_border_group": "ap-southeast-1-mnl-1"
   },
   {
     "ip_prefix": "54.151.128.0/17",

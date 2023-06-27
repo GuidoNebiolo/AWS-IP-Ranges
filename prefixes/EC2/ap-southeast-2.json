@@ -198,12 +198,6 @@
     "network_border_group": "ap-southeast-2"
   },
   {
-    "ip_prefix": "3.33.41.0/24",
-    "region": "ap-southeast-2",
-    "service": "EC2",
-    "network_border_group": "ap-southeast-2"
-  },
-  {
     "ip_prefix": "54.253.0.0/16",
     "region": "ap-southeast-2",
     "service": "EC2",
