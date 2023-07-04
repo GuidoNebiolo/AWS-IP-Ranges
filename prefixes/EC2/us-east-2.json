@@ -262,5 +262,11 @@
     "region": "us-east-2",
     "service": "EC2",
     "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "173.83.192.0/22",
+    "region": "us-east-2",
+    "service": "EC2",
+    "network_border_group": "us-east-2"
   }
 ]
