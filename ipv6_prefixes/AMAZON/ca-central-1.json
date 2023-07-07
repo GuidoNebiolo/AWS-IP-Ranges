@@ -12,6 +12,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ipv6_prefix": "2620:107:4000:9015::/64",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1fff:1000::/40",
     "region": "ca-central-1",
     "service": "AMAZON",
@@ -36,7 +42,19 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ipv6_prefix": "2620:107:4000:a::/64",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1ffc:1000::/40",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2620:107:4000:4800::/62",
     "region": "ca-central-1",
     "service": "AMAZON",
     "network_border_group": "ca-central-1"
@@ -55,6 +73,12 @@
   },
   {
     "ipv6_prefix": "2600:1ffd:8188::/48",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2620:107:4000:9014::/64",
     "region": "ca-central-1",
     "service": "AMAZON",
     "network_border_group": "ca-central-1"
