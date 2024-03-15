@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "15.157.167.134/31",
+    "region": "ca-central-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "15.157.167.136/30",
+    "region": "ca-central-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ca-central-1"
+  }
+]

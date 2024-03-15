@@ -10,5 +10,17 @@
     "region": "me-south-1",
     "service": "EBS",
     "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "16.24.65.180/31",
+    "region": "me-south-1",
+    "service": "EBS",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "16.24.65.184/30",
+    "region": "me-south-1",
+    "service": "EBS",
+    "network_border_group": "me-south-1"
   }
 ]

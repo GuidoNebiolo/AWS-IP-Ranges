@@ -24,7 +24,19 @@
     "network_border_group": "us-west-2-wl1-las-wlz-1"
   },
   {
+    "ipv6_prefix": "2600:1ff7:4020::/48",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2620:107:4000:a080::/58",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:1ff7:4021::/48",
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2"
@@ -96,6 +108,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2600:1ff7:4080::/48",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1ffb:4041::/48",
     "region": "us-west-2",
     "service": "AMAZON",
@@ -144,6 +162,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2620:107:4000:9900:50:81::/96",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2620:107:4000:4208::/64",
     "region": "us-west-2",
     "service": "AMAZON",
@@ -174,6 +198,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2620:107:4000:9900:50:80::/96",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1f61:4000::/39",
     "region": "us-west-2",
     "service": "AMAZON",
@@ -190,6 +220,12 @@
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2-wl1-den-wlz-1"
+  },
+  {
+    "ipv6_prefix": "2620:107:4000:9900:50:82::/96",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
   },
   {
     "ipv6_prefix": "2600:1f00:4000::/40",
@@ -211,6 +247,12 @@
   },
   {
     "ipv6_prefix": "2600:1ffb:4040::/48",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:30e::/48",
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2"
@@ -264,6 +306,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2620:107:4000:9900:50:83::/96",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1f12:8000::/36",
     "region": "us-west-2",
     "service": "AMAZON",
@@ -280,6 +328,18 @@
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2-lax-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:300:100::/56",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:82:600::/56",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
   },
   {
     "ipv6_prefix": "2600:1f1e:8000::/36",
@@ -372,6 +432,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2600:1ff7:40c1::/48",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1ff9:4000::/40",
     "region": "us-west-2",
     "service": "AMAZON",
@@ -384,13 +450,31 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2600:1ff7:4081::/48",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2620:107:4000:7200::/56",
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2600:1ff7:40c0::/48",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2620:107:4005::/48",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2620:107:4000:9900:50:84::/96",
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2"

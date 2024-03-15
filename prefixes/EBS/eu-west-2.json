@@ -10,5 +10,17 @@
     "region": "eu-west-2",
     "service": "EBS",
     "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "18.171.35.212/31",
+    "region": "eu-west-2",
+    "service": "EBS",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "18.171.63.32/30",
+    "region": "eu-west-2",
+    "service": "EBS",
+    "network_border_group": "eu-west-2"
   }
 ]

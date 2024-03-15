@@ -10,5 +10,17 @@
     "region": "us-east-1",
     "service": "EBS",
     "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.222.159.166/31",
+    "region": "us-east-1",
+    "service": "EBS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.222.159.176/28",
+    "region": "us-east-1",
+    "service": "EBS",
+    "network_border_group": "us-east-1"
   }
 ]

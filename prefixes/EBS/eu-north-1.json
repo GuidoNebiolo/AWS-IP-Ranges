@@ -10,5 +10,17 @@
     "region": "eu-north-1",
     "service": "EBS",
     "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "13.60.1.84/31",
+    "region": "eu-north-1",
+    "service": "EBS",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "13.60.1.88/30",
+    "region": "eu-north-1",
+    "service": "EBS",
+    "network_border_group": "eu-north-1"
   }
 ]

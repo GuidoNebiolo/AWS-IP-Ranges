@@ -1,5 +1,17 @@
 [
   {
+    "ip_prefix": "13.200.142.112/30",
+    "region": "ap-south-1",
+    "service": "EBS",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "13.200.142.82/31",
+    "region": "ap-south-1",
+    "service": "EBS",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "65.1.103.192/29",
     "region": "ap-south-1",
     "service": "EBS",

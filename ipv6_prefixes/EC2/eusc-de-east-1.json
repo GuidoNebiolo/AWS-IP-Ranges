@@ -1,0 +1,14 @@
+[
+  {
+    "ipv6_prefix": "2a05:d013::/36",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d023::/36",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  }
+]

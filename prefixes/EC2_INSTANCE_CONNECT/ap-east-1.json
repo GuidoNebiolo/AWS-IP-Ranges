@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "43.198.192.104/29",
+    "region": "ap-east-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-east-1"
+  }
+]

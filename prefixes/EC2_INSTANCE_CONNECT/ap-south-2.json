@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "18.60.252.248/29",
+    "region": "ap-south-2",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-south-2"
+  }
+]

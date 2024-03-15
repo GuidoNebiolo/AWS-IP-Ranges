@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "51.17.72.0/22",
+    "region": "il-central-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "il-central-1"
+  }
+]
