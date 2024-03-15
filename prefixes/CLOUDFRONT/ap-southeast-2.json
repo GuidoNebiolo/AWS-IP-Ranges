@@ -10,5 +10,23 @@
     "region": "ap-southeast-2",
     "service": "CLOUDFRONT",
     "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ip_prefix": "3.107.43.128/25",
+    "region": "ap-southeast-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ip_prefix": "3.107.44.0/25",
+    "region": "ap-southeast-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ip_prefix": "3.107.44.128/25",
+    "region": "ap-southeast-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "ap-southeast-2"
   }
 ]

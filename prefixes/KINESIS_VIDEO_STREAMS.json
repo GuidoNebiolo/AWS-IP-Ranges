@@ -1,5 +1,17 @@
 [
   {
+    "ip_prefix": "43.196.24.4/31",
+    "region": "cn-north-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "43.196.24.8/30",
+    "region": "cn-north-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "cn-north-1"
+  },
+  {
     "ip_prefix": "18.252.165.140/30",
     "region": "us-gov-east-1",
     "service": "KINESIS_VIDEO_STREAMS",
@@ -10,6 +22,30 @@
     "region": "us-gov-west-1",
     "service": "KINESIS_VIDEO_STREAMS",
     "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "13.247.76.100/30",
+    "region": "af-south-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.247.76.96/31",
+    "region": "af-south-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "43.199.26.124/31",
+    "region": "ap-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "43.199.26.128/30",
+    "region": "ap-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-east-1"
   },
   {
     "ip_prefix": "35.72.36.140/31",
@@ -34,6 +70,390 @@
     "region": "ap-northeast-1",
     "service": "KINESIS_VIDEO_STREAMS",
     "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "57.181.142.224/31",
+    "region": "ap-northeast-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "57.181.142.228/30",
+    "region": "ap-northeast-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "43.202.213.132/31",
+    "region": "ap-northeast-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "43.202.213.136/30",
+    "region": "ap-northeast-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ip_prefix": "13.200.142.116/31",
+    "region": "ap-south-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "13.201.195.64/30",
+    "region": "ap-south-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "47.128.82.102/31",
+    "region": "ap-southeast-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ip_prefix": "47.129.23.132/30",
+    "region": "ap-southeast-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ip_prefix": "3.107.30.180/31",
+    "region": "ap-southeast-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ip_prefix": "3.107.30.184/30",
+    "region": "ap-southeast-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ip_prefix": "15.157.167.134/31",
+    "region": "ca-central-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "15.157.167.136/30",
+    "region": "ca-central-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ip_prefix": "18.153.184.142/31",
+    "region": "eu-central-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "18.153.184.148/30",
+    "region": "eu-central-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "54.247.243.134/31",
+    "region": "eu-west-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "54.247.243.136/30",
+    "region": "eu-west-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "18.171.35.214/31",
+    "region": "eu-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "18.171.63.36/30",
+    "region": "eu-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "15.188.210.206/31",
+    "region": "eu-west-3",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "15.237.162.40/30",
+    "region": "eu-west-3",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "15.229.206.224/31",
+    "region": "sa-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.229.206.228/30",
+    "region": "sa-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.16/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.20/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.44/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.46/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.48/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.52/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.56/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.58/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.60/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.64/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.68/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.70/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.72/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.76/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.80/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.82/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.84/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.88/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.92/31",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.189.96/30",
+    "region": "us-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "3.146.42.74/31",
+    "region": "us-east-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.146.42.80/30",
+    "region": "us-east-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "18.246.224.200/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.202/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.204/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.208/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.212/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.214/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.216/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.220/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.224/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.226/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.228/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.232/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.236/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.238/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.240/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.244/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.248/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "18.246.224.252/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.93.175.4/31",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.93.175.8/30",
+    "region": "us-west-2",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "us-west-2"
   },
   {
     "ip_prefix": "44.242.143.180/31",

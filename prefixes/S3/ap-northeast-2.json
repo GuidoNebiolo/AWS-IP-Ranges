@@ -24,6 +24,12 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ip_prefix": "3.5.184.0/21",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
     "ip_prefix": "52.219.202.0/23",
     "region": "ap-northeast-2",
     "service": "S3",

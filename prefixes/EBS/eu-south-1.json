@@ -1,5 +1,17 @@
 [
   {
+    "ip_prefix": "18.102.189.204/31",
+    "region": "eu-south-1",
+    "service": "EBS",
+    "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "18.102.189.208/30",
+    "region": "eu-south-1",
+    "service": "EBS",
+    "network_border_group": "eu-south-1"
+  },
+  {
     "ip_prefix": "35.152.74.128/29",
     "region": "eu-south-1",
     "service": "EBS",

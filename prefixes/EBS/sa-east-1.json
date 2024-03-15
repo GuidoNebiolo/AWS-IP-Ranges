@@ -10,5 +10,17 @@
     "region": "sa-east-1",
     "service": "EBS",
     "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.229.206.194/31",
+    "region": "sa-east-1",
+    "service": "EBS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.229.206.196/30",
+    "region": "sa-east-1",
+    "service": "EBS",
+    "network_border_group": "sa-east-1"
   }
 ]

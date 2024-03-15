@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "43.196.24.4/31",
+    "region": "cn-north-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "43.196.24.8/30",
+    "region": "cn-north-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "cn-north-1"
+  }
+]

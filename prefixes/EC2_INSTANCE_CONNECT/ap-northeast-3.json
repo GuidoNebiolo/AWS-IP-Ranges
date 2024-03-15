@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.168.105.160/29",
+    "region": "ap-northeast-3",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-northeast-3"
+  }
+]

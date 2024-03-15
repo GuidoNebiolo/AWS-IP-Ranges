@@ -36,12 +36,6 @@
     "network_border_group": "eu-south-2"
   },
   {
-    "ip_prefix": "3.2.43.0/26",
-    "region": "eu-south-2",
-    "service": "EC2",
-    "network_border_group": "eu-south-2"
-  },
-  {
     "ip_prefix": "99.77.55.14/32",
     "region": "eu-south-2",
     "service": "EC2",
@@ -79,6 +73,12 @@
   },
   {
     "ip_prefix": "99.77.55.1/32",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
+    "ip_prefix": "51.92.0.0/16",
     "region": "eu-south-2",
     "service": "EC2",
     "network_border_group": "eu-south-2"

@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "15.229.206.224/31",
+    "region": "sa-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.229.206.228/30",
+    "region": "sa-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "sa-east-1"
+  }
+]

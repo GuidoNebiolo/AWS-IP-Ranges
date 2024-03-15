@@ -30,6 +30,18 @@
     "network_border_group": "ap-south-2"
   },
   {
+    "ip_prefix": "40.194.0.0/16",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "40.193.0.0/16",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
     "ip_prefix": "13.34.6.224/27",
     "region": "ap-south-2",
     "service": "AMAZON",
@@ -43,6 +55,12 @@
   },
   {
     "ip_prefix": "52.94.249.208/28",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "150.222.50.160/27",
     "region": "ap-south-2",
     "service": "AMAZON",
     "network_border_group": "ap-south-2"
@@ -84,6 +102,12 @@
     "network_border_group": "ap-south-2"
   },
   {
+    "ip_prefix": "150.222.50.192/27",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
     "ip_prefix": "104.255.59.122/32",
     "region": "ap-south-2",
     "service": "AMAZON",
@@ -103,6 +127,12 @@
   },
   {
     "ip_prefix": "104.255.59.126/32",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "40.192.0.0/16",
     "region": "ap-south-2",
     "service": "AMAZON",
     "network_border_group": "ap-south-2"
@@ -139,12 +169,6 @@
   },
   {
     "ip_prefix": "54.239.1.160/28",
-    "region": "ap-south-2",
-    "service": "AMAZON",
-    "network_border_group": "ap-south-2"
-  },
-  {
-    "ip_prefix": "3.2.35.192/26",
     "region": "ap-south-2",
     "service": "AMAZON",
     "network_border_group": "ap-south-2"
@@ -205,6 +229,18 @@
   },
   {
     "ip_prefix": "99.87.8.0/21",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "150.222.50.128/27",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "40.195.0.0/16",
     "region": "ap-south-2",
     "service": "AMAZON",
     "network_border_group": "ap-south-2"

@@ -1,5 +1,17 @@
 [
   {
+    "ip_prefix": "43.196.20.40/29",
+    "region": "cn-north-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ip_prefix": "43.192.155.8/29",
+    "region": "cn-northwest-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
     "ip_prefix": "18.252.4.0/30",
     "region": "us-gov-east-1",
     "service": "EC2_INSTANCE_CONNECT",
@@ -18,6 +30,12 @@
     "network_border_group": "af-south-1"
   },
   {
+    "ip_prefix": "43.198.192.104/29",
+    "region": "ap-east-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-east-1"
+  },
+  {
     "ip_prefix": "3.112.23.0/29",
     "region": "ap-northeast-1",
     "service": "EC2_INSTANCE_CONNECT",
@@ -30,10 +48,22 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ip_prefix": "15.168.105.160/29",
+    "region": "ap-northeast-3",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
     "ip_prefix": "13.233.177.0/29",
     "region": "ap-south-1",
     "service": "EC2_INSTANCE_CONNECT",
     "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "18.60.252.248/29",
+    "region": "ap-south-2",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-south-2"
   },
   {
     "ip_prefix": "3.0.5.32/29",
@@ -48,6 +78,18 @@
     "network_border_group": "ap-southeast-2"
   },
   {
+    "ip_prefix": "43.218.193.64/29",
+    "region": "ap-southeast-3",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-southeast-3"
+  },
+  {
+    "ip_prefix": "16.50.248.80/29",
+    "region": "ap-southeast-4",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-southeast-4"
+  },
+  {
     "ip_prefix": "35.183.92.176/29",
     "region": "ca-central-1",
     "service": "EC2_INSTANCE_CONNECT",
@@ -60,6 +102,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "16.63.77.8/29",
+    "region": "eu-central-2",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "eu-central-2"
+  },
+  {
     "ip_prefix": "13.48.4.200/30",
     "region": "eu-north-1",
     "service": "EC2_INSTANCE_CONNECT",
@@ -70,6 +118,12 @@
     "region": "eu-south-1",
     "service": "EC2_INSTANCE_CONNECT",
     "network_border_group": "eu-south-1"
+  },
+  {
+    "ip_prefix": "18.101.90.48/29",
+    "region": "eu-south-2",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "eu-south-2"
   },
   {
     "ip_prefix": "18.202.216.48/29",
@@ -88,6 +142,24 @@
     "region": "eu-west-3",
     "service": "EC2_INSTANCE_CONNECT",
     "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "51.16.183.224/29",
+    "region": "il-central-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ip_prefix": "3.29.147.40/29",
+    "region": "me-central-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ip_prefix": "16.24.46.56/29",
+    "region": "me-south-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "me-south-1"
   },
   {
     "ip_prefix": "18.228.70.32/29",

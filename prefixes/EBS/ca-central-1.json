@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "15.157.167.28/30",
+    "region": "ca-central-1",
+    "service": "EBS",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ip_prefix": "3.97.192.112/29",
     "region": "ca-central-1",
     "service": "EBS",

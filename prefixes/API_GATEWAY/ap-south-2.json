@@ -1,0 +1,26 @@
+[
+  {
+    "ip_prefix": "18.60.65.0/24",
+    "region": "ap-south-2",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "18.61.189.0/24",
+    "region": "ap-south-2",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "18.61.26.0/25",
+    "region": "ap-south-2",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-south-2"
+  },
+  {
+    "ip_prefix": "18.61.26.128/25",
+    "region": "ap-south-2",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-south-2"
+  }
+]

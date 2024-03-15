@@ -82,5 +82,17 @@
     "region": "us-east-1",
     "service": "API_GATEWAY",
     "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.218.96.0/23",
+    "region": "us-east-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "44.220.28.0/22",
+    "region": "us-east-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "us-east-1"
   }
 ]

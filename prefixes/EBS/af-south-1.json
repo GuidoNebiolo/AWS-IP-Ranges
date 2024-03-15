@@ -10,5 +10,17 @@
     "region": "af-south-1",
     "service": "EBS",
     "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.247.50.244/31",
+    "region": "af-south-1",
+    "service": "EBS",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ip_prefix": "13.247.50.248/30",
+    "region": "af-south-1",
+    "service": "EBS",
+    "network_border_group": "af-south-1"
   }
 ]

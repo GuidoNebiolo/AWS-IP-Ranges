@@ -4,5 +4,17 @@
     "region": "us-west-1",
     "service": "EBS",
     "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "3.101.239.34/31",
+    "region": "us-west-1",
+    "service": "EBS",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ip_prefix": "3.101.239.36/30",
+    "region": "us-west-1",
+    "service": "EBS",
+    "network_border_group": "us-west-1"
   }
 ]

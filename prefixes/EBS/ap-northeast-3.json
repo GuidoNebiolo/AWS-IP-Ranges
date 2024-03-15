@@ -10,5 +10,17 @@
     "region": "ap-northeast-3",
     "service": "EBS",
     "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "15.152.133.252/31",
+    "region": "ap-northeast-3",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "15.168.105.168/30",
+    "region": "ap-northeast-3",
+    "service": "EBS",
+    "network_border_group": "ap-northeast-3"
   }
 ]

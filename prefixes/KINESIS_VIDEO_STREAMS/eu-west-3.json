@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "15.188.210.206/31",
+    "region": "eu-west-3",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "15.237.162.40/30",
+    "region": "eu-west-3",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "eu-west-3"
+  }
+]

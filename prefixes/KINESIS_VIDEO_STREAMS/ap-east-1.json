@@ -1,0 +1,14 @@
+[
+  {
+    "ip_prefix": "43.199.26.124/31",
+    "region": "ap-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "43.199.26.128/30",
+    "region": "ap-east-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "ap-east-1"
+  }
+]

@@ -1,5 +1,17 @@
 [
   {
+    "ip_prefix": "43.192.155.130/31",
+    "region": "cn-northwest-1",
+    "service": "EBS",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "43.192.155.140/30",
+    "region": "cn-northwest-1",
+    "service": "EBS",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
     "ip_prefix": "68.79.2.244/30",
     "region": "cn-northwest-1",
     "service": "EBS",
