@@ -70,5 +70,11 @@
     "region": "eu-west-1",
     "service": "API_GATEWAY",
     "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "3.255.16.0/22",
+    "region": "eu-west-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "eu-west-1"
   }
 ]

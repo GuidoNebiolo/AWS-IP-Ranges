@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "43.192.155.8/29",
+    "region": "cn-northwest-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "cn-northwest-1"
+  }
+]

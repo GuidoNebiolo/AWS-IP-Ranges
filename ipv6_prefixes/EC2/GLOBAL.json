@@ -22,5 +22,11 @@
     "region": "GLOBAL",
     "service": "EC2",
     "network_border_group": "GLOBAL"
+  },
+  {
+    "ipv6_prefix": "2605:9cc0:1ff0:2300::/56",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
   }
 ]

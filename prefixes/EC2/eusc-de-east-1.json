@@ -1,0 +1,26 @@
+[
+  {
+    "ip_prefix": "51.0.28.0/22",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
+    "ip_prefix": "51.0.128.0/23",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
+    "ip_prefix": "51.224.0.0/15",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
+    "ip_prefix": "83.118.240.0/22",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  }
+]

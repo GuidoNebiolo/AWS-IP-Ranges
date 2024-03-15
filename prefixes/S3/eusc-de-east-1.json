@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "83.118.240.0/21",
+    "region": "eusc-de-east-1",
+    "service": "S3",
+    "network_border_group": "eusc-de-east-1"
+  }
+]

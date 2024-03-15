@@ -30,6 +30,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ip_prefix": "15.197.64.0/19",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "13.248.100.0/24",
     "region": "eu-north-1",
     "service": "GLOBALACCELERATOR",
@@ -58,6 +64,12 @@
     "region": "GLOBAL",
     "service": "GLOBALACCELERATOR",
     "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.2.53.0/24",
+    "region": "eu-central-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-central-1"
   },
   {
     "ip_prefix": "99.83.102.0/24",
@@ -228,6 +240,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "3.2.54.0/24",
+    "region": "us-west-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ip_prefix": "15.197.12.0/22",
     "region": "GLOBAL",
     "service": "GLOBALACCELERATOR",
@@ -282,6 +300,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "3.2.4.0/23",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "13.248.103.0/24",
     "region": "us-east-1",
     "service": "GLOBALACCELERATOR",
@@ -324,6 +348,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "99.83.104.0/24",
+    "region": "ap-southeast-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
     "ip_prefix": "99.82.160.0/24",
     "region": "ap-south-1",
     "service": "GLOBALACCELERATOR",
@@ -364,6 +394,12 @@
     "region": "GLOBAL",
     "service": "GLOBALACCELERATOR",
     "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.2.52.0/24",
+    "region": "us-east-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "us-east-1"
   },
   {
     "ip_prefix": "3.2.48.0/24",
@@ -444,6 +480,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ip_prefix": "192.157.72.0/23",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "3.3.0.0/23",
     "region": "GLOBAL",
     "service": "GLOBALACCELERATOR",
@@ -514,6 +556,12 @@
     "region": "eu-west-2",
     "service": "GLOBALACCELERATOR",
     "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "99.83.103.0/24",
+    "region": "eu-central-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-central-1"
   },
   {
     "ip_prefix": "15.197.24.0/22",

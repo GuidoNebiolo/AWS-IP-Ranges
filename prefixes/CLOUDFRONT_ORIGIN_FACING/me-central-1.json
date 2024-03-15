@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "3.29.57.0/26",
+    "region": "me-central-1",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "network_border_group": "me-central-1"
+  }
+]

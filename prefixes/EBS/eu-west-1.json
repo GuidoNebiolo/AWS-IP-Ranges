@@ -1,5 +1,17 @@
 [
   {
+    "ip_prefix": "18.200.73.58/31",
+    "region": "eu-west-1",
+    "service": "EBS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "18.200.73.60/30",
+    "region": "eu-west-1",
+    "service": "EBS",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ip_prefix": "3.251.109.92/30",
     "region": "eu-west-1",
     "service": "EBS",
@@ -7,6 +19,18 @@
   },
   {
     "ip_prefix": "3.251.144.0/29",
+    "region": "eu-west-1",
+    "service": "EBS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "3.251.220.215/32",
+    "region": "eu-west-1",
+    "service": "EBS",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "54.247.241.96/29",
     "region": "eu-west-1",
     "service": "EBS",
     "network_border_group": "eu-west-1"

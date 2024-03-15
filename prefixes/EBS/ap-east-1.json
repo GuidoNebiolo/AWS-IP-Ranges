@@ -10,5 +10,17 @@
     "region": "ap-east-1",
     "service": "EBS",
     "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "43.199.26.42/31",
+    "region": "ap-east-1",
+    "service": "EBS",
+    "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "43.199.26.44/30",
+    "region": "ap-east-1",
+    "service": "EBS",
+    "network_border_group": "ap-east-1"
   }
 ]

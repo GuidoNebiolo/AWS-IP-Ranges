@@ -48,6 +48,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ip_prefix": "3.2.52.0/24",
+    "region": "us-east-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "3.2.50.0/24",
     "region": "us-east-1",
     "service": "GLOBALACCELERATOR",

@@ -24,13 +24,13 @@
     "network_border_group": "ap-southeast-4"
   },
   {
-    "ip_prefix": "70.232.80.0/21",
+    "ip_prefix": "56.99.0.0/16",
     "region": "ap-southeast-4",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-4"
   },
   {
-    "ip_prefix": "16.26.0.0/15",
+    "ip_prefix": "70.232.80.0/21",
     "region": "ap-southeast-4",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-4"
@@ -43,6 +43,12 @@
   },
   {
     "ip_prefix": "13.34.37.0/27",
+    "region": "ap-southeast-4",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-4"
+  },
+  {
+    "ip_prefix": "56.97.0.0/16",
     "region": "ap-southeast-4",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-4"
@@ -84,12 +90,6 @@
     "network_border_group": "ap-southeast-4"
   },
   {
-    "ip_prefix": "3.2.38.128/26",
-    "region": "ap-southeast-4",
-    "service": "AMAZON",
-    "network_border_group": "ap-southeast-4"
-  },
-  {
     "ip_prefix": "104.255.59.134/32",
     "region": "ap-southeast-4",
     "service": "AMAZON",
@@ -97,6 +97,12 @@
   },
   {
     "ip_prefix": "104.255.59.130/32",
+    "region": "ap-southeast-4",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-4"
+  },
+  {
+    "ip_prefix": "16.26.0.0/16",
     "region": "ap-southeast-4",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-4"
@@ -126,7 +132,19 @@
     "network_border_group": "ap-southeast-4"
   },
   {
+    "ip_prefix": "56.98.0.0/16",
+    "region": "ap-southeast-4",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-4"
+  },
+  {
     "ip_prefix": "99.151.72.0/21",
+    "region": "ap-southeast-4",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-4"
+  },
+  {
+    "ip_prefix": "16.27.0.0/16",
     "region": "ap-southeast-4",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-4"
@@ -199,6 +217,12 @@
   },
   {
     "ip_prefix": "15.230.249.0/24",
+    "region": "ap-southeast-4",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-4"
+  },
+  {
+    "ip_prefix": "56.96.0.0/16",
     "region": "ap-southeast-4",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-4"
