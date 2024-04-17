@@ -12,12 +12,6 @@
     "network_border_group": "ap-southeast-2"
   },
   {
-    "ipv6_prefix": "2600:f0f0:82:100::/56",
-    "region": "ap-southeast-2",
-    "service": "EC2",
-    "network_border_group": "ap-southeast-2"
-  },
-  {
     "ipv6_prefix": "2406:da60:c000::/40",
     "region": "ap-southeast-2",
     "service": "EC2",
@@ -97,6 +91,12 @@
   },
   {
     "ipv6_prefix": "2406:daf2:c000::/40",
+    "region": "ap-southeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ipv6_prefix": "2600:9000:5209::/48",
     "region": "ap-southeast-2",
     "service": "EC2",
     "network_border_group": "ap-southeast-2"
