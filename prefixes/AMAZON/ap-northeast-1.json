@@ -516,6 +516,12 @@
     "network_border_group": "ap-northeast-1"
   },
   {
+    "ip_prefix": "13.34.116.192/27",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
     "ip_prefix": "13.248.98.0/24",
     "region": "ap-northeast-1",
     "service": "AMAZON",
@@ -655,6 +661,12 @@
   },
   {
     "ip_prefix": "13.34.69.96/27",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "13.34.116.224/27",
     "region": "ap-northeast-1",
     "service": "AMAZON",
     "network_border_group": "ap-northeast-1"
