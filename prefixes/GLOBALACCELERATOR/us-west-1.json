@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "99.83.97.0/24",
+    "region": "us-west-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ip_prefix": "99.82.172.0/24",
     "region": "us-west-1",
     "service": "GLOBALACCELERATOR",
