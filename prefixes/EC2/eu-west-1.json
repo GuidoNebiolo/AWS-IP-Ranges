@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "18.97.192.0/18",
+    "region": "eu-west-1",
+    "service": "EC2",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ip_prefix": "54.247.0.0/16",
     "region": "eu-west-1",
     "service": "EC2",

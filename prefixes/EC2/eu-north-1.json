@@ -84,6 +84,12 @@
     "network_border_group": "eu-north-1"
   },
   {
+    "ip_prefix": "18.99.96.0/20",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ip_prefix": "16.170.0.0/15",
     "region": "eu-north-1",
     "service": "EC2",

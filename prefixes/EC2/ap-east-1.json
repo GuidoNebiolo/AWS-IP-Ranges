@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "18.99.176.0/20",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
     "ip_prefix": "52.95.226.0/24",
     "region": "ap-east-1",
     "service": "EC2",
