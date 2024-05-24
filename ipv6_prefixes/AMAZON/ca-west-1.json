@@ -12,19 +12,13 @@
     "network_border_group": "ca-west-1"
   },
   {
-    "ipv6_prefix": "2600:1ff9:a480::/46",
-    "region": "ca-west-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-west-1"
-  },
-  {
     "ipv6_prefix": "2600:1f70:a400:500::/56",
     "region": "ca-west-1",
     "service": "AMAZON",
     "network_border_group": "ca-west-1"
   },
   {
-    "ipv6_prefix": "2600:1ffe:a480::/48",
+    "ipv6_prefix": "2600:1ffe:a400::/40",
     "region": "ca-west-1",
     "service": "AMAZON",
     "network_border_group": "ca-west-1"
@@ -37,18 +31,6 @@
   },
   {
     "ipv6_prefix": "2600:1f61:a400::/40",
-    "region": "ca-west-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-west-1"
-  },
-  {
-    "ipv6_prefix": "2600:1ffc:a440::/46",
-    "region": "ca-west-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-west-1"
-  },
-  {
-    "ipv6_prefix": "2600:1ffc:a4c0::/46",
     "region": "ca-west-1",
     "service": "AMAZON",
     "network_border_group": "ca-west-1"
@@ -84,19 +66,7 @@
     "network_border_group": "ca-west-1"
   },
   {
-    "ipv6_prefix": "2600:1ffe:a4c0::/48",
-    "region": "ca-west-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-west-1"
-  },
-  {
-    "ipv6_prefix": "2600:1ffc:a480::/46",
-    "region": "ca-west-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-west-1"
-  },
-  {
-    "ipv6_prefix": "2600:1ffe:a440::/48",
+    "ipv6_prefix": "2600:1ffc:a400::/40",
     "region": "ca-west-1",
     "service": "AMAZON",
     "network_border_group": "ca-west-1"
@@ -138,18 +108,6 @@
     "network_border_group": "ca-west-1"
   },
   {
-    "ipv6_prefix": "2600:1ff9:a4c0::/46",
-    "region": "ca-west-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-west-1"
-  },
-  {
-    "ipv6_prefix": "2600:1ff9:a440::/46",
-    "region": "ca-west-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-west-1"
-  },
-  {
     "ipv6_prefix": "2600:1f1a:4000::/36",
     "region": "ca-west-1",
     "service": "AMAZON",
@@ -163,6 +121,12 @@
   },
   {
     "ipv6_prefix": "2600:1f70:a400::/56",
+    "region": "ca-west-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ff9:a400::/40",
     "region": "ca-west-1",
     "service": "AMAZON",
     "network_border_group": "ca-west-1"
