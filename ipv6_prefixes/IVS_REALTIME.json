@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2402:2a80::/32",
+    "region": "GLOBAL",
+    "service": "IVS_REALTIME",
+    "network_border_group": "GLOBAL"
+  }
+]
