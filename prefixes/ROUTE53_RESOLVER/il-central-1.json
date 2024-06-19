@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "51.16.96.192/26",
+    "region": "il-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ip_prefix": "51.16.97.0/26",
+    "region": "il-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ip_prefix": "51.16.97.64/26",
+    "region": "il-central-1",
+    "service": "ROUTE53_RESOLVER",
+    "network_border_group": "il-central-1"
+  }
+]
