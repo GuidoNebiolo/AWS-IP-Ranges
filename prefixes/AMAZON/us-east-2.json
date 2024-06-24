@@ -624,6 +624,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "168.185.5.0/24",
+    "region": "us-east-2",
+    "service": "AMAZON",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "15.230.39.4/31",
     "region": "us-east-2",
     "service": "AMAZON",

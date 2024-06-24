@@ -78,6 +78,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "168.185.5.0/24",
+    "region": "us-east-2",
+    "service": "EC2",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "18.190.0.0/16",
     "region": "us-east-2",
     "service": "EC2",

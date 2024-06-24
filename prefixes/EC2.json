@@ -1566,6 +1566,12 @@
     "network_border_group": "us-west-2-wl1-sea-wlz-1"
   },
   {
+    "ip_prefix": "168.185.5.0/24",
+    "region": "us-east-2",
+    "service": "EC2",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "3.5.252.0/22",
     "region": "ca-central-1",
     "service": "EC2",
@@ -3100,6 +3106,12 @@
     "region": "ap-east-1",
     "service": "EC2",
     "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.99.240.0/20",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
   },
   {
     "ip_prefix": "18.188.0.0/16",
@@ -4642,6 +4654,12 @@
     "region": "us-west-2",
     "service": "EC2",
     "network_border_group": "us-west-2-wl1-den-wlz-1"
+  },
+  {
+    "ip_prefix": "168.185.4.0/24",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
   },
   {
     "ip_prefix": "15.181.242.0/24",
@@ -6412,6 +6430,12 @@
     "region": "ap-east-1",
     "service": "EC2",
     "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "18.99.112.0/20",
+    "region": "us-gov-east-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-east-1"
   },
   {
     "ip_prefix": "96.0.130.0/24",
