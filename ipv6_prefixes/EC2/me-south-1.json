@@ -30,6 +30,12 @@
     "network_border_group": "me-south-1"
   },
   {
+    "ipv6_prefix": "2a05:d075:e000::/40",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ipv6_prefix": "2a05:d035:e000::/40",
     "region": "me-south-1",
     "service": "EC2",
@@ -43,6 +49,12 @@
   },
   {
     "ipv6_prefix": "2a05:d038:e000::/40",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d058:e000::/40",
     "region": "me-south-1",
     "service": "EC2",
     "network_border_group": "me-south-1"

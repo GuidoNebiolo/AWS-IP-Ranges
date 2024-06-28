@@ -396,6 +396,12 @@
     "network_border_group": "eu-west-3"
   },
   {
+    "ip_prefix": "35.96.64.0/20",
+    "region": "eu-west-3",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-3"
+  },
+  {
     "ip_prefix": "52.46.64.0/20",
     "region": "eu-west-3",
     "service": "AMAZON",
