@@ -6,6 +6,12 @@
     "network_border_group": "eu-north-1-cph-1"
   },
   {
+    "ip_prefix": "54.25.72.0/24",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ip_prefix": "15.220.168.0/21",
     "region": "eu-north-1",
     "service": "EC2",
