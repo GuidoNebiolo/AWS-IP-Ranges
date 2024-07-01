@@ -60,12 +60,6 @@
     "network_border_group": "eu-north-1"
   },
   {
-    "ip_prefix": "54.25.72.0/24",
-    "region": "eu-north-1",
-    "service": "AMAZON",
-    "network_border_group": "eu-north-1"
-  },
-  {
     "ip_prefix": "54.239.1.96/28",
     "region": "eu-north-1",
     "service": "AMAZON",

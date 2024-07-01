@@ -114,12 +114,6 @@
     "network_border_group": "us-east-2"
   },
   {
-    "ip_prefix": "54.25.71.0/24",
-    "region": "us-east-2",
-    "service": "EC2",
-    "network_border_group": "us-east-2"
-  },
-  {
     "ip_prefix": "35.71.102.0/24",
     "region": "us-east-2",
     "service": "EC2",
