@@ -24,6 +24,12 @@
     "network_border_group": "af-south-1"
   },
   {
+    "ip_prefix": "54.25.77.0/24",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
     "ip_prefix": "99.77.235.0/24",
     "region": "af-south-1",
     "service": "EC2",
