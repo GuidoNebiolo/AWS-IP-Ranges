@@ -4,5 +4,11 @@
     "region": "us-west-2",
     "service": "GLOBALACCELERATOR",
     "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "3.2.55.0/24",
+    "region": "us-west-2",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "us-west-2"
   }
 ]
