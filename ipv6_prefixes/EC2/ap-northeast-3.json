@@ -42,6 +42,12 @@
     "network_border_group": "ap-northeast-3"
   },
   {
+    "ipv6_prefix": "2406:da38:6000::/40",
+    "region": "ap-northeast-3",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
     "ipv6_prefix": "2406:daff:6000::/40",
     "region": "ap-northeast-3",
     "service": "EC2",
