@@ -78,6 +78,12 @@
     "network_border_group": "ap-south-2"
   },
   {
+    "ipv6_prefix": "2406:da38:b000::/40",
+    "region": "ap-south-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-2"
+  },
+  {
     "ipv6_prefix": "2406:da2b::/36",
     "region": "ap-south-2",
     "service": "AMAZON",

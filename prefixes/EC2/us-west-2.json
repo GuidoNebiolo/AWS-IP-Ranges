@@ -15,7 +15,7 @@
     "ip_prefix": "54.25.74.0/24",
     "region": "us-west-2",
     "service": "EC2",
-    "network_border_group": "us-west-2-den-1"
+    "network_border_group": "us-west-2"
   },
   {
     "ip_prefix": "54.148.0.0/15",
@@ -195,7 +195,7 @@
     "ip_prefix": "54.25.75.0/24",
     "region": "us-west-2",
     "service": "EC2",
-    "network_border_group": "us-west-2"
+    "network_border_group": "us-west-2-pdx-1"
   },
   {
     "ip_prefix": "151.148.33.0/24",
