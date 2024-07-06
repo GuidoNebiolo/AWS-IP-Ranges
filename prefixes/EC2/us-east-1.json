@@ -168,12 +168,6 @@
     "network_border_group": "us-east-1-lim-1"
   },
   {
-    "ip_prefix": "54.25.68.0/24",
-    "region": "us-east-1",
-    "service": "EC2",
-    "network_border_group": "us-east-1-iah-1"
-  },
-  {
     "ip_prefix": "155.146.192.0/20",
     "region": "us-east-1",
     "service": "EC2",

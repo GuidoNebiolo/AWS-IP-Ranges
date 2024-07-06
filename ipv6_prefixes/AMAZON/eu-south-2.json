@@ -114,6 +114,12 @@
     "network_border_group": "eu-south-2"
   },
   {
+    "ipv6_prefix": "2a05:d038:1000::/40",
+    "region": "eu-south-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-south-2"
+  },
+  {
     "ipv6_prefix": "2a01:578:0:7800::/56",
     "region": "eu-south-2",
     "service": "AMAZON",

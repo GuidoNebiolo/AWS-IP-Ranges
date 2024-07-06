@@ -66,6 +66,12 @@
     "network_border_group": "sa-east-1"
   },
   {
+    "ipv6_prefix": "2600:1f38:e000::/40",
+    "region": "sa-east-1",
+    "service": "EC2",
+    "network_border_group": "sa-east-1"
+  },
+  {
     "ipv6_prefix": "2600:9000:520e::/48",
     "region": "sa-east-1",
     "service": "EC2",

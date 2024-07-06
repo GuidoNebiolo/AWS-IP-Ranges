@@ -84,6 +84,12 @@
     "network_border_group": "ca-west-1"
   },
   {
+    "ipv6_prefix": "2600:1f38:a400::/40",
+    "region": "ca-west-1",
+    "service": "EC2",
+    "network_border_group": "ca-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1f00:a400::/40",
     "region": "ca-west-1",
     "service": "EC2",
