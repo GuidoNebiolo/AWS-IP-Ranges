@@ -12,6 +12,12 @@
     "network_border_group": "eusc-de-east-1"
   },
   {
+    "ip_prefix": "51.0.29.128/28",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
     "ip_prefix": "83.118.240.0/22",
     "region": "eusc-de-east-1",
     "service": "EC2",
