@@ -672,6 +672,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ip_prefix": "209.92.6.0/24",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "16.56.128.0/18",
     "region": "us-east-1",
     "service": "EC2",
