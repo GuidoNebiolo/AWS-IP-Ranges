@@ -132,12 +132,6 @@
     "network_border_group": "ap-south-1"
   },
   {
-    "ip_prefix": "173.82.10.0/24",
-    "region": "ap-south-1",
-    "service": "EC2",
-    "network_border_group": "ap-south-1-del-1"
-  },
-  {
     "ip_prefix": "13.200.0.0/15",
     "region": "ap-south-1",
     "service": "EC2",
