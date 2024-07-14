@@ -1488,6 +1488,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ip_prefix": "173.82.7.0/24",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2-pdx-1"
+  },
+  {
     "ip_prefix": "64.252.70.0/24",
     "region": "us-west-2",
     "service": "AMAZON",
