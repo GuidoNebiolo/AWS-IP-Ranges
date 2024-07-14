@@ -222,6 +222,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "173.82.13.0/24",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1-waw-1"
+  },
+  {
     "ip_prefix": "35.156.0.0/14",
     "region": "eu-central-1",
     "service": "EC2",
