@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.193.5.0/24",
+    "region": "eu-west-2",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "eu-west-2"
+  }
+]

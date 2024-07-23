@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.193.9.0/24",
+    "region": "ap-northeast-2",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "ap-northeast-2"
+  }
+]
