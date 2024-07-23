@@ -90,19 +90,13 @@
     "network_border_group": "eu-west-1"
   },
   {
-    "ipv6_prefix": "2a05:d018::/36",
+    "ipv6_prefix": "2a05:d018::/35",
     "region": "eu-west-1",
     "service": "EC2",
     "network_border_group": "eu-west-1"
   },
   {
     "ipv6_prefix": "2a05:d000:8000::/40",
-    "region": "eu-west-1",
-    "service": "EC2",
-    "network_border_group": "eu-west-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d018:1000::/36",
     "region": "eu-west-1",
     "service": "EC2",
     "network_border_group": "eu-west-1"

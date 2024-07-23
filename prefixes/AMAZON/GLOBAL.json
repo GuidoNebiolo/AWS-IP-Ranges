@@ -1032,12 +1032,6 @@
     "network_border_group": "GLOBAL"
   },
   {
-    "ip_prefix": "52.129.128.0/17",
-    "region": "GLOBAL",
-    "service": "AMAZON",
-    "network_border_group": "GLOBAL"
-  },
-  {
     "ip_prefix": "15.197.30.0/23",
     "region": "GLOBAL",
     "service": "AMAZON",
