@@ -30,6 +30,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "52.129.131.0/24",
+    "region": "eu-west-3",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-west-3"
+  },
+  {
     "ip_prefix": "23.160.0.0/24",
     "region": "GLOBAL",
     "service": "IVS_REALTIME",
@@ -42,6 +48,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "52.129.130.0/24",
+    "region": "eu-west-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ip_prefix": "52.223.192.0/18",
     "region": "GLOBAL",
     "service": "IVS_REALTIME",
@@ -49,12 +61,6 @@
   },
   {
     "ip_prefix": "199.9.248.0/21",
-    "region": "GLOBAL",
-    "service": "IVS_REALTIME",
-    "network_border_group": "GLOBAL"
-  },
-  {
-    "ip_prefix": "52.129.128.0/17",
     "region": "GLOBAL",
     "service": "IVS_REALTIME",
     "network_border_group": "GLOBAL"

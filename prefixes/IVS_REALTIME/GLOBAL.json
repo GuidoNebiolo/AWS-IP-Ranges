@@ -52,11 +52,5 @@
     "region": "GLOBAL",
     "service": "IVS_REALTIME",
     "network_border_group": "GLOBAL"
-  },
-  {
-    "ip_prefix": "52.129.128.0/17",
-    "region": "GLOBAL",
-    "service": "IVS_REALTIME",
-    "network_border_group": "GLOBAL"
   }
 ]
