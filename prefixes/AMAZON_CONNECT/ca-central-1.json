@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.193.8.0/24",
+    "region": "ca-central-1",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "ca-central-1"
+  }
+]
