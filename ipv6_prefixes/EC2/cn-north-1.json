@@ -18,6 +18,12 @@
     "network_border_group": "cn-north-1"
   },
   {
+    "ipv6_prefix": "2400:7fc0:a000::/36",
+    "region": "cn-north-1",
+    "service": "EC2",
+    "network_border_group": "cn-north-1"
+  },
+  {
     "ipv6_prefix": "240f:80ff:8000::/40",
     "region": "cn-north-1",
     "service": "EC2",

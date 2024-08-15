@@ -30,6 +30,12 @@
     "network_border_group": "eu-south-2"
   },
   {
+    "ipv6_prefix": "2a05:d076:1000::/40",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
     "ipv6_prefix": "2600:f00e:400::/40",
     "region": "eu-south-2",
     "service": "EC2",
@@ -43,6 +49,12 @@
   },
   {
     "ipv6_prefix": "2a05:d071:1000::/40",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
+    "ipv6_prefix": "2a05:d077:1000::/40",
     "region": "eu-south-2",
     "service": "EC2",
     "network_border_group": "eu-south-2"
@@ -66,7 +78,25 @@
     "network_border_group": "eu-south-2"
   },
   {
+    "ipv6_prefix": "2a05:d075:1000::/40",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
     "ipv6_prefix": "2606:f40:2100::/40",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
+    "ipv6_prefix": "2a05:d07b:1000::/40",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
+    "ipv6_prefix": "2a05:d058:1000::/40",
     "region": "eu-south-2",
     "service": "EC2",
     "network_border_group": "eu-south-2"
@@ -97,6 +127,12 @@
   },
   {
     "ipv6_prefix": "2a05:d038:1000::/40",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
+    "ipv6_prefix": "2a05:d074:1000::/40",
     "region": "eu-south-2",
     "service": "EC2",
     "network_border_group": "eu-south-2"

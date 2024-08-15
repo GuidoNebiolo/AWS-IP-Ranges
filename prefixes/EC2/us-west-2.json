@@ -96,6 +96,12 @@
     "network_border_group": "us-west-2-phx-1"
   },
   {
+    "ip_prefix": "35.96.1.0/24",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "54.245.0.0/16",
     "region": "us-west-2",
     "service": "EC2",
@@ -357,7 +363,7 @@
     "ip_prefix": "15.181.64.0/20",
     "region": "us-west-2",
     "service": "EC2",
-    "network_border_group": "us-west-2"
+    "network_border_group": "us-west-2-las-1b"
   },
   {
     "ip_prefix": "3.33.40.0/24",
@@ -451,6 +457,12 @@
   },
   {
     "ip_prefix": "3.5.80.0/21",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.96.2.0/24",
     "region": "us-west-2",
     "service": "EC2",
     "network_border_group": "us-west-2"

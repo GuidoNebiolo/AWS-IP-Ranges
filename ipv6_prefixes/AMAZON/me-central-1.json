@@ -60,7 +60,31 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ipv6_prefix": "2406:daf5:7000::/40",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ipv6_prefix": "2406:da68:7000::/40",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:dafb:7000::/40",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:daf6:7000::/40",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:daf7:7000::/40",
     "region": "me-central-1",
     "service": "AMAZON",
     "network_border_group": "me-central-1"
@@ -84,6 +108,12 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ipv6_prefix": "2406:dab8:7000::/40",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ipv6_prefix": "2406:da38:7000::/40",
     "region": "me-central-1",
     "service": "AMAZON",
@@ -91,6 +121,12 @@
   },
   {
     "ipv6_prefix": "2406:da69:7000::/40",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2406:daf4:7000::/40",
     "region": "me-central-1",
     "service": "AMAZON",
     "network_border_group": "me-central-1"
