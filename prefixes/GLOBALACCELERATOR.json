@@ -366,6 +366,12 @@
     "network_border_group": "ap-southeast-1"
   },
   {
+    "ip_prefix": "93.77.128.0/19",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "99.82.160.0/24",
     "region": "ap-south-1",
     "service": "GLOBALACCELERATOR",
@@ -502,6 +508,12 @@
     "region": "GLOBAL",
     "service": "GLOBALACCELERATOR",
     "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.2.57.0/24",
+    "region": "eu-west-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-1"
   },
   {
     "ip_prefix": "76.223.169.0/24",

@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "15.177.102.0/24",
+    "region": "mx-central-1",
+    "service": "ROUTE53_HEALTHCHECKS_PUBLISHING",
+    "network_border_group": "mx-central-1"
+  }
+]

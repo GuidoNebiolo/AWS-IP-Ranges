@@ -30,6 +30,12 @@
     "network_border_group": "eu-central-2"
   },
   {
+    "ipv6_prefix": "2a05:d032:9000::/40",
+    "region": "eu-central-2",
+    "service": "EC2",
+    "network_border_group": "eu-central-2"
+  },
+  {
     "ipv6_prefix": "2a05:d07b:9000::/40",
     "region": "eu-central-2",
     "service": "EC2",
@@ -109,6 +115,12 @@
   },
   {
     "ipv6_prefix": "2a05:d03a:9000::/40",
+    "region": "eu-central-2",
+    "service": "EC2",
+    "network_border_group": "eu-central-2"
+  },
+  {
+    "ipv6_prefix": "2a05:d036:9000::/40",
     "region": "eu-central-2",
     "service": "EC2",
     "network_border_group": "eu-central-2"

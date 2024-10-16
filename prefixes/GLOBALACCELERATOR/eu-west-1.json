@@ -34,5 +34,11 @@
     "region": "eu-west-1",
     "service": "GLOBALACCELERATOR",
     "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "3.2.57.0/24",
+    "region": "eu-west-1",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "eu-west-1"
   }
 ]

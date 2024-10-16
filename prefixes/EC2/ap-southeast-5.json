@@ -34,5 +34,11 @@
     "region": "ap-southeast-5",
     "service": "EC2",
     "network_border_group": "ap-southeast-5"
+  },
+  {
+    "ip_prefix": "56.68.0.0/17",
+    "region": "ap-southeast-5",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-5"
   }
 ]

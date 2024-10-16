@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2a05:d019:1d6:2100::/56",
+    "region": "eu-central-2",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "eu-central-2"
+  }
+]

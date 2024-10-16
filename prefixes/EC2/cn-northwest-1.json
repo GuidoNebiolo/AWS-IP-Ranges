@@ -100,5 +100,11 @@
     "region": "cn-northwest-1",
     "service": "EC2",
     "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ip_prefix": "43.193.64.0/24",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
   }
 ]

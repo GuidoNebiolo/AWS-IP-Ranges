@@ -588,6 +588,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "93.77.128.0/19",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "54.239.128.0/18",
     "region": "GLOBAL",
     "service": "AMAZON",
@@ -979,6 +985,12 @@
   },
   {
     "ip_prefix": "52.46.166.0/23",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "3.173.128.0/18",
     "region": "GLOBAL",
     "service": "AMAZON",
     "network_border_group": "GLOBAL"

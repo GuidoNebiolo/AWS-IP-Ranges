@@ -138,6 +138,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "93.77.128.0/19",
+    "region": "GLOBAL",
+    "service": "GLOBALACCELERATOR",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "99.77.190.0/24",
     "region": "GLOBAL",
     "service": "GLOBALACCELERATOR",

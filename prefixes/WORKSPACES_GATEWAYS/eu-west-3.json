@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "51.44.72.0/22",
+    "region": "eu-west-3",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "eu-west-3"
+  }
+]

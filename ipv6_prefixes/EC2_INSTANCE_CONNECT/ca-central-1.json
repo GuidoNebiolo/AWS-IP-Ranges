@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:1f11:ae3:700::/56",
+    "region": "ca-central-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ca-central-1"
+  }
+]

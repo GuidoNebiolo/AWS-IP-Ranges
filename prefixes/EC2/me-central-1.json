@@ -48,6 +48,12 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ip_prefix": "64.252.97.0/24",
+    "region": "me-central-1",
+    "service": "EC2",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ip_prefix": "15.177.93.0/24",
     "region": "me-central-1",
     "service": "EC2",

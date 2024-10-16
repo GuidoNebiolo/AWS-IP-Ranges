@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2406:da1b:d1d:8800::/56",
+    "region": "ap-south-2",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "ap-south-2"
+  }
+]

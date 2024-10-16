@@ -1,0 +1,20 @@
+[
+  {
+    "ipv6_prefix": "2600:1ff0:7400::/40",
+    "region": "mx-central-1",
+    "service": "S3",
+    "network_border_group": "mx-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f68:7400::/40",
+    "region": "mx-central-1",
+    "service": "S3",
+    "network_border_group": "mx-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fa0:7400::/40",
+    "region": "mx-central-1",
+    "service": "S3",
+    "network_border_group": "mx-central-1"
+  }
+]

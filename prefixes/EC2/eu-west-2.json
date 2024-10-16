@@ -18,6 +18,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "83.119.64.0/18",
+    "region": "eu-west-2",
+    "service": "EC2",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "35.176.0.0/15",
     "region": "eu-west-2",
     "service": "EC2",

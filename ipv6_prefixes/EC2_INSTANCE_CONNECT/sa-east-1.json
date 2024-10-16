@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:1f1e:d1d:e700::/56",
+    "region": "sa-east-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "sa-east-1"
+  }
+]

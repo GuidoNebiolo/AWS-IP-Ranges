@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2406:da17:1db:b00::/56",
+    "region": "me-central-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "me-central-1"
+  }
+]

@@ -120,12 +120,6 @@
     "network_border_group": "GLOBAL"
   },
   {
-    "ipv6_prefix": "2402:2a80::/32",
-    "region": "GLOBAL",
-    "service": "AMAZON",
-    "network_border_group": "GLOBAL"
-  },
-  {
     "ipv6_prefix": "2600:f0f2:7000::/44",
     "region": "GLOBAL",
     "service": "AMAZON",
