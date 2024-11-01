@@ -258,6 +258,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "192.189.197.0/24",
+    "region": "us-east-2",
+    "service": "EC2",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "3.20.0.0/14",
     "region": "us-east-2",
     "service": "EC2",
