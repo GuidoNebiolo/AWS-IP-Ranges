@@ -378,12 +378,6 @@
     "network_border_group": "eu-north-1"
   },
   {
-    "ip_prefix": "204.87.185.0/24",
-    "region": "eu-north-1",
-    "service": "AMAZON",
-    "network_border_group": "eu-north-1"
-  },
-  {
     "ip_prefix": "15.230.68.128/26",
     "region": "eu-north-1",
     "service": "AMAZON",
