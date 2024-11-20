@@ -6,6 +6,12 @@
     "network_border_group": "me-south-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:552e::/48",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ipv6_prefix": "2a05:d036:e000::/40",
     "region": "me-south-1",
     "service": "EC2",
@@ -42,13 +48,31 @@
     "network_border_group": "me-south-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:552c::/48",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ipv6_prefix": "2a05:d031:e000::/40",
     "region": "me-south-1",
     "service": "EC2",
     "network_border_group": "me-south-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:552f::/48",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ipv6_prefix": "2a05:d07b:e000::/40",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552b::/48",
     "region": "me-south-1",
     "service": "EC2",
     "network_border_group": "me-south-1"
@@ -67,6 +91,12 @@
   },
   {
     "ipv6_prefix": "2a05:d074:e000::/40",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552d::/48",
     "region": "me-south-1",
     "service": "EC2",
     "network_border_group": "me-south-1"
@@ -91,6 +121,12 @@
   },
   {
     "ipv6_prefix": "2a05:d058:e000::/40",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552a::/48",
     "region": "me-south-1",
     "service": "EC2",
     "network_border_group": "me-south-1"

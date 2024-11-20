@@ -1,0 +1,20 @@
+[
+  {
+    "ipv6_prefix": "2600:f0f0:551e::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5520::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551f::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
+  }
+]

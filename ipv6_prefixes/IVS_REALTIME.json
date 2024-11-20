@@ -1,8 +1,290 @@
 [
   {
-    "ipv6_prefix": "2402:2a80::/32",
-    "region": "GLOBAL",
+    "ipv6_prefix": "2600:f0f0:5536::/48",
+    "region": "ap-northeast-1",
     "service": "IVS_REALTIME",
-    "network_border_group": "GLOBAL"
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5523::/48",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552e::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5527::/48",
+    "region": "eu-west-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5519::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5516::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5512::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5528::/48",
+    "region": "eu-west-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5534::/48",
+    "region": "ap-northeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:553f::/48",
+    "region": "ap-southeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5539::/48",
+    "region": "ap-northeast-3",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552c::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551c::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5530::/48",
+    "region": "me-central-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:553a::/48",
+    "region": "ap-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552f::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551d::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5531::/48",
+    "region": "me-central-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5529::/48",
+    "region": "eu-west-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552b::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5521::/48",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5533::/48",
+    "region": "ap-northeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551a::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5514::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551e::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5522::/48",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5538::/48",
+    "region": "ap-northeast-3",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5518::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5537::/48",
+    "region": "ap-northeast-3",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552d::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5517::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5520::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5535::/48",
+    "region": "ap-northeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:552a::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5525::/48",
+    "region": "eu-central-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5510::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5513::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:553b::/48",
+    "region": "ap-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5524::/48",
+    "region": "eu-central-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551f::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:553c::/48",
+    "region": "ap-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5511::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551b::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5532::/48",
+    "region": "me-central-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:553e::/48",
+    "region": "ap-southeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5515::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5526::/48",
+    "region": "eu-central-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:553d::/48",
+    "region": "ap-southeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-southeast-1"
   }
 ]

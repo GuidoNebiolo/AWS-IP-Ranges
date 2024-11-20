@@ -30,6 +30,12 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ip_prefix": "35.50.233.0/24",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "15.220.232.0/24",
     "region": "ap-south-1",
     "service": "EC2",

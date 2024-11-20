@@ -1,24 +1,18 @@
 [
   {
-    "ip_prefix": "35.50.197.0/24",
+    "ipv6_prefix": "2600:f0f0:5527::/48",
     "region": "eu-west-1",
     "service": "IVS_REALTIME",
     "network_border_group": "eu-west-1"
   },
   {
-    "ip_prefix": "35.50.195.0/24",
+    "ipv6_prefix": "2600:f0f0:5528::/48",
     "region": "eu-west-1",
     "service": "IVS_REALTIME",
     "network_border_group": "eu-west-1"
   },
   {
-    "ip_prefix": "35.50.196.0/24",
-    "region": "eu-west-1",
-    "service": "IVS_REALTIME",
-    "network_border_group": "eu-west-1"
-  },
-  {
-    "ip_prefix": "52.129.130.0/24",
+    "ipv6_prefix": "2600:f0f0:5529::/48",
     "region": "eu-west-1",
     "service": "IVS_REALTIME",
     "network_border_group": "eu-west-1"

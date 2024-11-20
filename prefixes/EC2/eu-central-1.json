@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "35.50.192.0/24",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "18.96.32.0/19",
     "region": "eu-central-1",
     "service": "EC2",
@@ -162,6 +168,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "35.50.194.0/24",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "3.64.0.0/12",
     "region": "eu-central-1",
     "service": "EC2",
@@ -187,6 +199,12 @@
   },
   {
     "ip_prefix": "64.252.88.0/24",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "35.50.193.0/24",
     "region": "eu-central-1",
     "service": "EC2",
     "network_border_group": "eu-central-1"

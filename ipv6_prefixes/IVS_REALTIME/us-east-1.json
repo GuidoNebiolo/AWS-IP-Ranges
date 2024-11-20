@@ -1,0 +1,38 @@
+[
+  {
+    "ipv6_prefix": "2600:f0f0:5519::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551c::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551d::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551a::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5518::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:551b::/48",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  }
+]

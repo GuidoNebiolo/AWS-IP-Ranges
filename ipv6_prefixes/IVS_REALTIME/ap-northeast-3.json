@@ -1,0 +1,20 @@
+[
+  {
+    "ipv6_prefix": "2600:f0f0:5539::/48",
+    "region": "ap-northeast-3",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5538::/48",
+    "region": "ap-northeast-3",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5537::/48",
+    "region": "ap-northeast-3",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-northeast-3"
+  }
+]

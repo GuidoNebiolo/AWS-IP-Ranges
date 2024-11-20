@@ -136,5 +136,17 @@
     "region": "ap-southeast-7",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-7"
+  },
+  {
+    "ip_prefix": "43.208.56.0/23",
+    "region": "ap-southeast-7",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-7"
+  },
+  {
+    "ip_prefix": "43.208.76.0/23",
+    "region": "ap-southeast-7",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-7"
   }
 ]

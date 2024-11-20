@@ -1,0 +1,44 @@
+[
+  {
+    "ip_prefix": "35.50.133.0/24",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.50.132.0/24",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.50.129.0/24",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.50.134.0/24",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.50.130.0/24",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.50.128.0/24",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.50.131.0/24",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  }
+]
