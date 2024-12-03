@@ -252,6 +252,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2602:f7db::/44",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1f2f:4000::/36",
     "region": "us-east-1",
     "service": "EC2",

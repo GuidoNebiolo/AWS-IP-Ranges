@@ -36,6 +36,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ip_prefix": "16.52.0.0/16",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ip_prefix": "173.83.217.0/24",
     "region": "ca-central-1",
     "service": "EC2",
