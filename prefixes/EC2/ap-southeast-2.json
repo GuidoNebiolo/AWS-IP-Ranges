@@ -96,6 +96,12 @@
     "network_border_group": "ap-southeast-2"
   },
   {
+    "ip_prefix": "43.220.0.0/16",
+    "region": "ap-southeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
     "ip_prefix": "3.5.164.0/22",
     "region": "ap-southeast-2",
     "service": "EC2",
