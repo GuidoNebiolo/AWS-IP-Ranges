@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "78.12.16.0/24",
+    "region": "mx-central-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "mx-central-1"
+  }
+]

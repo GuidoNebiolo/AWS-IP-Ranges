@@ -354,6 +354,12 @@
     "network_border_group": "eu-south-1"
   },
   {
+    "ip_prefix": "54.25.0.0/21",
+    "region": "eu-south-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-south-1"
+  },
+  {
     "ip_prefix": "173.83.208.0/24",
     "region": "eu-south-1",
     "service": "AMAZON",

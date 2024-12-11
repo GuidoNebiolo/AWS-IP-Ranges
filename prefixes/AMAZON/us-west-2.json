@@ -90,6 +90,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ip_prefix": "35.96.11.0/24",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "18.236.0.0/15",
     "region": "us-west-2",
     "service": "AMAZON",
@@ -1225,6 +1231,12 @@
   },
   {
     "ip_prefix": "176.32.125.0/25",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "35.96.13.0/24",
     "region": "us-west-2",
     "service": "AMAZON",
     "network_border_group": "us-west-2"
