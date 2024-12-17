@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:1f32:8000::/39",
+    "region": "us-east-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "us-east-1"
+  }
+]

@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:1f32:1000::/40",
+    "region": "ca-central-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "ca-central-1"
+  }
+]

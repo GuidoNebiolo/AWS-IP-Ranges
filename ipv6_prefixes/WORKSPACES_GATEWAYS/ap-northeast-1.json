@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2406:da32:4000::/40",
+    "region": "ap-northeast-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "ap-northeast-1"
+  }
+]
