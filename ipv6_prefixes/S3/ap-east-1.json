@@ -12,6 +12,12 @@
     "network_border_group": "ap-east-1"
   },
   {
+    "ipv6_prefix": "2406:da60:e000::/40",
+    "region": "ap-east-1",
+    "service": "S3",
+    "network_border_group": "ap-east-1"
+  },
+  {
     "ipv6_prefix": "2406:daa0:e000::/40",
     "region": "ap-east-1",
     "service": "S3",

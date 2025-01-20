@@ -34,5 +34,11 @@
     "region": "me-south-1",
     "service": "S3",
     "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d030:e000::/40",
+    "region": "me-south-1",
+    "service": "S3",
+    "network_border_group": "me-south-1"
   }
 ]

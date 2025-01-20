@@ -6,6 +6,12 @@
     "network_border_group": "il-central-1"
   },
   {
+    "ipv6_prefix": "2a05:d030:5000::/40",
+    "region": "il-central-1",
+    "service": "S3",
+    "network_border_group": "il-central-1"
+  },
+  {
     "ipv6_prefix": "2a05:d079:5000::/40",
     "region": "il-central-1",
     "service": "S3",

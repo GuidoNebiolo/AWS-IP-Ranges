@@ -18,6 +18,24 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2600:1f60:4020::/48",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:1f60:4040::/48",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:1f60:40c0::/48",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1ff8:4000::/40",
     "region": "us-west-2",
     "service": "S3",
@@ -30,7 +48,19 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2600:1f60:4000::/56",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1ff9:4000::/40",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:1f60:4080::/48",
     "region": "us-west-2",
     "service": "S3",
     "network_border_group": "us-west-2"
