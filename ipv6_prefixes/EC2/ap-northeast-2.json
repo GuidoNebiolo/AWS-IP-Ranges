@@ -6,12 +6,6 @@
     "network_border_group": "ap-northeast-2"
   },
   {
-    "ipv6_prefix": "2406:daf5:2000::/40",
-    "region": "ap-northeast-2",
-    "service": "EC2",
-    "network_border_group": "ap-northeast-2"
-  },
-  {
     "ipv6_prefix": "2406:da25::/36",
     "region": "ap-northeast-2",
     "service": "EC2",
@@ -42,12 +36,6 @@
     "network_border_group": "ap-northeast-2"
   },
   {
-    "ipv6_prefix": "2406:dab8:2000::/40",
-    "region": "ap-northeast-2",
-    "service": "EC2",
-    "network_border_group": "ap-northeast-2"
-  },
-  {
     "ipv6_prefix": "2406:daf2:2000::/40",
     "region": "ap-northeast-2",
     "service": "EC2",
@@ -55,6 +43,12 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:1:1000::/56",
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5401::/48",
     "region": "ap-northeast-2",
     "service": "EC2",
     "network_border_group": "ap-northeast-2"
@@ -90,6 +84,18 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ipv6_prefix": "2406:daef:2000::/40",
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ipv6_prefix": "2406:da30:2000::/40",
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
     "ipv6_prefix": "2406:da69:2000::/40",
     "region": "ap-northeast-2",
     "service": "EC2",
@@ -97,6 +103,12 @@
   },
   {
     "ipv6_prefix": "2406:da61:2000::/40",
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5400::/48",
     "region": "ap-northeast-2",
     "service": "EC2",
     "network_border_group": "ap-northeast-2"
@@ -120,7 +132,7 @@
     "network_border_group": "ap-northeast-2"
   },
   {
-    "ipv6_prefix": "2406:daf1:2000::/40",
+    "ipv6_prefix": "2600:f0f0:5402::/48",
     "region": "ap-northeast-2",
     "service": "EC2",
     "network_border_group": "ap-northeast-2"

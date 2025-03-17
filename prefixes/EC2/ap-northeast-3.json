@@ -1,6 +1,18 @@
 [
   {
+    "ip_prefix": "15.193.11.0/24",
+    "region": "ap-northeast-3",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
     "ip_prefix": "13.208.0.0/16",
+    "region": "ap-northeast-3",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "35.50.229.0/24",
     "region": "ap-northeast-3",
     "service": "EC2",
     "network_border_group": "ap-northeast-3"
@@ -60,6 +72,12 @@
     "network_border_group": "ap-northeast-3"
   },
   {
+    "ip_prefix": "35.50.228.0/24",
+    "region": "ap-northeast-3",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
     "ip_prefix": "56.155.0.0/17",
     "region": "ap-northeast-3",
     "service": "EC2",
@@ -84,7 +102,19 @@
     "network_border_group": "ap-northeast-3"
   },
   {
+    "ip_prefix": "35.50.230.0/24",
+    "region": "ap-northeast-3",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
     "ip_prefix": "99.150.96.0/21",
+    "region": "ap-northeast-3",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-3"
+  },
+  {
+    "ip_prefix": "56.155.128.0/17",
     "region": "ap-northeast-3",
     "service": "EC2",
     "network_border_group": "ap-northeast-3"

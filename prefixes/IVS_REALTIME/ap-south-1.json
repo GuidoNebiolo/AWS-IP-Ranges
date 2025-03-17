@@ -4,5 +4,17 @@
     "region": "ap-south-1",
     "service": "IVS_REALTIME",
     "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "35.50.231.0/24",
+    "region": "ap-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-south-1"
+  },
+  {
+    "ip_prefix": "35.50.232.0/24",
+    "region": "ap-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-south-1"
   }
 ]

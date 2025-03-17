@@ -66,6 +66,12 @@
     "network_border_group": "ap-east-2"
   },
   {
+    "ip_prefix": "35.71.127.0/24",
+    "region": "ap-east-2",
+    "service": "AMAZON",
+    "network_border_group": "ap-east-2"
+  },
+  {
     "ip_prefix": "13.248.78.0/24",
     "region": "ap-east-2",
     "service": "AMAZON",

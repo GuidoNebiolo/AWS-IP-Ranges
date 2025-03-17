@@ -1,6 +1,6 @@
 [
   {
-    "ipv6_prefix": "2a05:d071:6000::/40",
+    "ipv6_prefix": "2a05:d040:6000::/40",
     "region": "eu-north-1",
     "service": "AMAZON",
     "network_border_group": "eu-north-1"
@@ -49,12 +49,6 @@
   },
   {
     "ipv6_prefix": "2a05:d031:6000::/40",
-    "region": "eu-north-1",
-    "service": "AMAZON",
-    "network_border_group": "eu-north-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d058:6000::/40",
     "region": "eu-north-1",
     "service": "AMAZON",
     "network_border_group": "eu-north-1"
@@ -138,12 +132,6 @@
     "network_border_group": "eu-north-1"
   },
   {
-    "ipv6_prefix": "2a05:d075:6000::/40",
-    "region": "eu-north-1",
-    "service": "AMAZON",
-    "network_border_group": "eu-north-1"
-  },
-  {
     "ipv6_prefix": "2a05:d036:6000::/40",
     "region": "eu-north-1",
     "service": "AMAZON",
@@ -169,6 +157,12 @@
   },
   {
     "ipv6_prefix": "2a05:d07c:6000::/40",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d06f:6000::/40",
     "region": "eu-north-1",
     "service": "AMAZON",
     "network_border_group": "eu-north-1"

@@ -4,5 +4,11 @@
     "region": "us-gov-west-1",
     "service": "WORKSPACES_GATEWAYS",
     "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f22:28::/48",
+    "region": "us-gov-west-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "us-gov-west-1"
   }
 ]

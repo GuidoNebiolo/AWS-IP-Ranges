@@ -36,6 +36,12 @@
     "network_border_group": "eu-north-1"
   },
   {
+    "ip_prefix": "13.62.0.0/15",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ip_prefix": "51.21.0.0/16",
     "region": "eu-north-1",
     "service": "EC2",
@@ -154,6 +160,12 @@
     "region": "eu-north-1",
     "service": "EC2",
     "network_border_group": "eu-north-1-cph-1"
+  },
+  {
+    "ip_prefix": "13.154.0.0/16",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
   },
   {
     "ip_prefix": "99.150.64.0/21",

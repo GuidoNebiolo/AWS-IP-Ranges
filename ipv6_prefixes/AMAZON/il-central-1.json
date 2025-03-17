@@ -54,12 +54,6 @@
     "network_border_group": "il-central-1"
   },
   {
-    "ipv6_prefix": "2a05:d075:5000::/40",
-    "region": "il-central-1",
-    "service": "AMAZON",
-    "network_border_group": "il-central-1"
-  },
-  {
     "ipv6_prefix": "2a05:d03a:5000::/40",
     "region": "il-central-1",
     "service": "AMAZON",
@@ -67,6 +61,12 @@
   },
   {
     "ipv6_prefix": "2a05:d025:1000::/36",
+    "region": "il-central-1",
+    "service": "AMAZON",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d06f:5000::/40",
     "region": "il-central-1",
     "service": "AMAZON",
     "network_border_group": "il-central-1"
@@ -96,13 +96,13 @@
     "network_border_group": "il-central-1"
   },
   {
-    "ipv6_prefix": "2a01:578:0:7700::/56",
+    "ipv6_prefix": "2a05:d040:5000::/40",
     "region": "il-central-1",
     "service": "AMAZON",
     "network_border_group": "il-central-1"
   },
   {
-    "ipv6_prefix": "2a05:d071:5000::/40",
+    "ipv6_prefix": "2a01:578:0:7700::/56",
     "region": "il-central-1",
     "service": "AMAZON",
     "network_border_group": "il-central-1"
@@ -133,12 +133,6 @@
   },
   {
     "ipv6_prefix": "2a05:d07c:5000::/40",
-    "region": "il-central-1",
-    "service": "AMAZON",
-    "network_border_group": "il-central-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d058:5000::/40",
     "region": "il-central-1",
     "service": "AMAZON",
     "network_border_group": "il-central-1"

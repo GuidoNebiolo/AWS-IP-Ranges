@@ -4,5 +4,11 @@
     "region": "ap-northeast-2",
     "service": "WORKSPACES_GATEWAYS",
     "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ipv6_prefix": "2406:da22:4::/48",
+    "region": "ap-northeast-2",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "ap-northeast-2"
   }
 ]

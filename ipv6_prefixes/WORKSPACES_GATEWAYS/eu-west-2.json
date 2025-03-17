@@ -4,5 +4,11 @@
     "region": "eu-west-2",
     "service": "WORKSPACES_GATEWAYS",
     "network_border_group": "eu-west-2"
+  },
+  {
+    "ipv6_prefix": "2a05:d02c:8::/48",
+    "region": "eu-west-2",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "eu-west-2"
   }
 ]

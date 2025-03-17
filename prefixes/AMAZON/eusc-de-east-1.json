@@ -6,6 +6,12 @@
     "network_border_group": "eusc-de-east-1"
   },
   {
+    "ip_prefix": "150.222.54.0/27",
+    "region": "eusc-de-east-1",
+    "service": "AMAZON",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
     "ip_prefix": "51.0.128.0/21",
     "region": "eusc-de-east-1",
     "service": "AMAZON",
@@ -48,7 +54,19 @@
     "network_border_group": "eusc-de-east-1"
   },
   {
+    "ip_prefix": "150.222.54.32/27",
+    "region": "eusc-de-east-1",
+    "service": "AMAZON",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
     "ip_prefix": "51.0.24.0/22",
+    "region": "eusc-de-east-1",
+    "service": "AMAZON",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
+    "ip_prefix": "150.222.54.64/27",
     "region": "eusc-de-east-1",
     "service": "AMAZON",
     "network_border_group": "eusc-de-east-1"

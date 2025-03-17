@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "160.1.55.0/25",
+    "region": "us-gov-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "160.1.55.128/25",
+    "region": "us-gov-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
+    "ip_prefix": "160.1.56.0/25",
+    "region": "us-gov-west-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "us-gov-west-1"
+  }
+]

@@ -66,6 +66,18 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ipv6_prefix": "2a05:d040:8000::/40",
+    "region": "eu-west-1",
+    "service": "EC2",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d06f:8000::/40",
+    "region": "eu-west-1",
+    "service": "EC2",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ipv6_prefix": "2606:f40:fff2::/48",
     "region": "eu-west-1",
     "service": "EC2",
@@ -79,12 +91,6 @@
   },
   {
     "ipv6_prefix": "2a05:d07f:8000::/40",
-    "region": "eu-west-1",
-    "service": "EC2",
-    "network_border_group": "eu-west-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d071:8000::/40",
     "region": "eu-west-1",
     "service": "EC2",
     "network_border_group": "eu-west-1"
@@ -109,12 +115,6 @@
   },
   {
     "ipv6_prefix": "2600:1ffd:838e::/48",
-    "region": "eu-west-1",
-    "service": "EC2",
-    "network_border_group": "eu-west-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d075:8000::/40",
     "region": "eu-west-1",
     "service": "EC2",
     "network_border_group": "eu-west-1"
@@ -193,12 +193,6 @@
   },
   {
     "ipv6_prefix": "2a01:578:3::/48",
-    "region": "eu-west-1",
-    "service": "EC2",
-    "network_border_group": "eu-west-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d058:8000::/40",
     "region": "eu-west-1",
     "service": "EC2",
     "network_border_group": "eu-west-1"

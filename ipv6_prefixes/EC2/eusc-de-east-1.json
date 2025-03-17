@@ -18,6 +18,12 @@
     "network_border_group": "eusc-de-east-1"
   },
   {
+    "ipv6_prefix": "2001:3fc4:800::/40",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
     "ipv6_prefix": "2001:3fc7:5800::/40",
     "region": "eusc-de-east-1",
     "service": "EC2",
@@ -25,12 +31,6 @@
   },
   {
     "ipv6_prefix": "2001:3fc3:4800::/40",
-    "region": "eusc-de-east-1",
-    "service": "EC2",
-    "network_border_group": "eusc-de-east-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d013::/36",
     "region": "eusc-de-east-1",
     "service": "EC2",
     "network_border_group": "eusc-de-east-1"
@@ -109,12 +109,6 @@
   },
   {
     "ipv6_prefix": "2001:3fc3:800::/40",
-    "region": "eusc-de-east-1",
-    "service": "EC2",
-    "network_border_group": "eusc-de-east-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d023::/36",
     "region": "eusc-de-east-1",
     "service": "EC2",
     "network_border_group": "eusc-de-east-1"

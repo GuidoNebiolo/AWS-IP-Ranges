@@ -126,6 +126,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "35.96.246.0/24",
+    "region": "us-east-2",
+    "service": "EC2",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "52.94.248.160/28",
     "region": "us-east-2",
     "service": "EC2",

@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2a05:d022:1c::/48",
+    "region": "eu-west-3",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "eu-west-3"
+  }
+]

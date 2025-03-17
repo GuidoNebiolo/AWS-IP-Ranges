@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "15.103.0.0/16",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
     "ip_prefix": "18.99.144.0/20",
     "region": "af-south-1",
     "service": "EC2",

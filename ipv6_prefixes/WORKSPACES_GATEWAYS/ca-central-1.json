@@ -4,5 +4,11 @@
     "region": "ca-central-1",
     "service": "WORKSPACES_GATEWAYS",
     "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f21:8::/48",
+    "region": "ca-central-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "ca-central-1"
   }
 ]

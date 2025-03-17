@@ -4,5 +4,11 @@
     "region": "sa-east-1",
     "service": "WORKSPACES_GATEWAYS",
     "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f2e:14::/48",
+    "region": "sa-east-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "sa-east-1"
   }
 ]

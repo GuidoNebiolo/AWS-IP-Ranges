@@ -4,5 +4,11 @@
     "region": "af-south-1",
     "service": "WORKSPACES_GATEWAYS",
     "network_border_group": "af-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:da21:c::/48",
+    "region": "af-south-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "af-south-1"
   }
 ]
