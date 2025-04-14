@@ -18,6 +18,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2001:3fc6:100::/48",
+    "region": "eusc-de-east-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
     "ipv6_prefix": "2400:7fc0:83cc:cc00::/56",
     "region": "cn-north-1",
     "service": "ROUTE53_HEALTHCHECKS",

@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "43.212.16.0/24",
+    "region": "ap-east-2",
+    "service": "API_GATEWAY",
+    "network_border_group": "ap-east-2"
+  }
+]

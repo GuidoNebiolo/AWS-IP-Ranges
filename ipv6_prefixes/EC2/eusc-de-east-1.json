@@ -108,6 +108,12 @@
     "network_border_group": "eusc-de-east-1"
   },
   {
+    "ipv6_prefix": "2001:3fc6:100::/48",
+    "region": "eusc-de-east-1",
+    "service": "EC2",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
     "ipv6_prefix": "2001:3fc3:800::/40",
     "region": "eusc-de-east-1",
     "service": "EC2",

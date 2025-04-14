@@ -114,6 +114,12 @@
     "network_border_group": "af-south-1"
   },
   {
+    "ipv6_prefix": "2606:7b40:1b08::/56",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
     "ipv6_prefix": "2406:da68:1000::/40",
     "region": "af-south-1",
     "service": "EC2",

@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2001:3fc6:100::/48",
+    "region": "eusc-de-east-1",
+    "service": "ROUTE53_HEALTHCHECKS",
+    "network_border_group": "eusc-de-east-1"
+  }
+]

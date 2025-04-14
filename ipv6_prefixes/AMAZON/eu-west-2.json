@@ -60,6 +60,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ipv6_prefix": "2606:f40:9400::/40",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ipv6_prefix": "2a05:d077:c000::/40",
     "region": "eu-west-2",
     "service": "AMAZON",
@@ -174,6 +180,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ipv6_prefix": "2606:f40:1400::/40",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ipv6_prefix": "2a05:d070:c000::/40",
     "region": "eu-west-2",
     "service": "AMAZON",
@@ -187,6 +199,12 @@
   },
   {
     "ipv6_prefix": "2a05:d02c::/36",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f002:8000::/40",
     "region": "eu-west-2",
     "service": "AMAZON",
     "network_border_group": "eu-west-2"
