@@ -504,6 +504,12 @@
     "network_border_group": "us-west-2-den-1"
   },
   {
+    "ip_prefix": "35.96.244.0/24",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "162.222.148.0/22",
     "region": "us-west-2",
     "service": "EC2",
