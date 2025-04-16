@@ -204,6 +204,12 @@
     "network_border_group": "eu-west-2-wl2-man-wlz-1"
   },
   {
+    "ip_prefix": "15.193.144.0/22",
+    "region": "eu-west-2",
+    "service": "EC2",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "18.130.0.0/16",
     "region": "eu-west-2",
     "service": "EC2",

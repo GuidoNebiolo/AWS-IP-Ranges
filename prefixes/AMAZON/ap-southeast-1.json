@@ -186,6 +186,12 @@
     "network_border_group": "ap-southeast-1"
   },
   {
+    "ip_prefix": "15.193.160.0/22",
+    "region": "ap-southeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
     "ip_prefix": "54.255.0.0/16",
     "region": "ap-southeast-1",
     "service": "AMAZON",

@@ -18,6 +18,12 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ip_prefix": "15.193.176.0/22",
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
     "ip_prefix": "35.50.239.0/24",
     "region": "ap-northeast-2",
     "service": "EC2",

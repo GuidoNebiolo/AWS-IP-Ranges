@@ -190,5 +190,11 @@
     "region": "sa-east-1",
     "service": "EC2",
     "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2606:f40:ffed::/48",
+    "region": "sa-east-1",
+    "service": "EC2",
+    "network_border_group": "sa-east-1"
   }
 ]
