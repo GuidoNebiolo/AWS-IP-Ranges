@@ -468,6 +468,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "1.178.72.0/21",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "166.117.0.0/16",
     "region": "GLOBAL",
     "service": "AMAZON",

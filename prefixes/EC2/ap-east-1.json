@@ -78,6 +78,12 @@
     "network_border_group": "ap-east-1"
   },
   {
+    "ip_prefix": "95.40.0.0/15",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
     "ip_prefix": "15.177.85.0/24",
     "region": "ap-east-1",
     "service": "EC2",
