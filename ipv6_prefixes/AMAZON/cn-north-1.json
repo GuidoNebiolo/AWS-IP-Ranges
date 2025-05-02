@@ -120,7 +120,19 @@
     "network_border_group": "cn-north-1"
   },
   {
+    "ipv6_prefix": "2400:7fc0:bb00::/40",
+    "region": "cn-north-1",
+    "service": "AMAZON",
+    "network_border_group": "cn-north-1"
+  },
+  {
     "ipv6_prefix": "2400:7fc0:8000::/36",
+    "region": "cn-north-1",
+    "service": "AMAZON",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ipv6_prefix": "2400:7fc0:ee00::/40",
     "region": "cn-north-1",
     "service": "AMAZON",
     "network_border_group": "cn-north-1"

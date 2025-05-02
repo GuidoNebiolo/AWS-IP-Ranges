@@ -984,6 +984,12 @@
     "network_border_group": "cn-northwest-1"
   },
   {
+    "ipv6_prefix": "2404:c2c0:bb00::/40",
+    "region": "cn-northwest-1",
+    "service": "AMAZON",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
     "ipv6_prefix": "2406:da1c:8000::/36",
     "region": "ap-east-2",
     "service": "AMAZON",
@@ -6894,6 +6900,12 @@
     "network_border_group": "us-west-1"
   },
   {
+    "ipv6_prefix": "2400:7fc0:bb00::/40",
+    "region": "cn-north-1",
+    "service": "AMAZON",
+    "network_border_group": "cn-north-1"
+  },
+  {
     "ipv6_prefix": "2406:dafc:c800::/40",
     "region": "ap-east-2",
     "service": "AMAZON",
@@ -6931,6 +6943,12 @@
   },
   {
     "ipv6_prefix": "2400:7fc0:8000::/36",
+    "region": "cn-north-1",
+    "service": "AMAZON",
+    "network_border_group": "cn-north-1"
+  },
+  {
+    "ipv6_prefix": "2400:7fc0:ee00::/40",
     "region": "cn-north-1",
     "service": "AMAZON",
     "network_border_group": "cn-north-1"
@@ -9838,6 +9856,12 @@
     "region": "eu-south-1",
     "service": "AMAZON",
     "network_border_group": "eu-south-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:ee00::/40",
+    "region": "cn-northwest-1",
+    "service": "AMAZON",
+    "network_border_group": "cn-northwest-1"
   },
   {
     "ipv6_prefix": "2406:da30:6000::/40",
