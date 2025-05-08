@@ -270,6 +270,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "35.128.127.128/25",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "35.50.230.0/24",
     "region": "ap-northeast-3",
     "service": "IVS_REALTIME",

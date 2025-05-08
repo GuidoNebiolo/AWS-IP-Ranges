@@ -744,6 +744,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "35.96.24.0/23",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "52.144.213.64/26",
     "region": "eu-west-2",
     "service": "AMAZON",

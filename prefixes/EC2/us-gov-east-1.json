@@ -24,6 +24,12 @@
     "network_border_group": "us-gov-east-1"
   },
   {
+    "ip_prefix": "16.65.0.0/16",
+    "region": "us-gov-east-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
     "ip_prefix": "18.252.0.0/16",
     "region": "us-gov-east-1",
     "service": "EC2",

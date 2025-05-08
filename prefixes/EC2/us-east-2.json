@@ -30,6 +30,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "35.96.26.0/23",
+    "region": "us-east-2",
+    "service": "EC2",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "64.252.76.0/24",
     "region": "us-east-2",
     "service": "EC2",
@@ -73,12 +79,6 @@
   },
   {
     "ip_prefix": "3.131.0.0/16",
-    "region": "us-east-2",
-    "service": "EC2",
-    "network_border_group": "us-east-2"
-  },
-  {
-    "ip_prefix": "168.185.5.0/24",
     "region": "us-east-2",
     "service": "EC2",
     "network_border_group": "us-east-2"
