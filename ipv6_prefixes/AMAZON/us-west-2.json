@@ -318,6 +318,12 @@
     "network_border_group": "us-west-2-las-1b"
   },
   {
+    "ipv6_prefix": "2600:f0fb:f021::/48",
+    "region": "us-west-2",
+    "service": "AMAZON",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2620:107:4000:9900:50:81::/96",
     "region": "us-west-2",
     "service": "AMAZON",

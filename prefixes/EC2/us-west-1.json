@@ -204,12 +204,6 @@
     "network_border_group": "us-west-1"
   },
   {
-    "ip_prefix": "198.41.97.0/24",
-    "region": "us-west-1",
-    "service": "EC2",
-    "network_border_group": "us-west-1"
-  },
-  {
     "ip_prefix": "52.9.0.0/16",
     "region": "us-west-1",
     "service": "EC2",

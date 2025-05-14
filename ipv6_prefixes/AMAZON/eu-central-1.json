@@ -318,6 +318,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ipv6_prefix": "2600:f0fb:f023::/48",
+    "region": "eu-central-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ipv6_prefix": "2a05:d050:b000::/40",
     "region": "eu-central-1",
     "service": "AMAZON",

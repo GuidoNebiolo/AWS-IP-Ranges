@@ -264,6 +264,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ipv6_prefix": "2600:f0fb:f023::/48",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ipv6_prefix": "2600:f00e:600::/40",
     "region": "eu-central-1",
     "service": "EC2",
