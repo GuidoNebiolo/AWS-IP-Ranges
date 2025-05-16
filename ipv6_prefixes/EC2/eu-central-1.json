@@ -402,6 +402,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ipv6_prefix": "2606:f40:d800::/40",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ipv6_prefix": "2a05:d036:b000::/40",
     "region": "eu-central-1",
     "service": "EC2",
