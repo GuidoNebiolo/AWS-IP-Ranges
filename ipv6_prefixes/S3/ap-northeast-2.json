@@ -30,6 +30,12 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ipv6_prefix": "2406:daed:2000::/40",
+    "region": "ap-northeast-2",
+    "service": "S3",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
     "ipv6_prefix": "2406:daf9:2000::/40",
     "region": "ap-northeast-2",
     "service": "S3",

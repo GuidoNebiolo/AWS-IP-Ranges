@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2a05:d018:b3d:8200::/56",
+    "region": "eu-west-1",
+    "service": "AURORA_DSQL",
+    "network_border_group": "eu-west-1"
+  }
+]

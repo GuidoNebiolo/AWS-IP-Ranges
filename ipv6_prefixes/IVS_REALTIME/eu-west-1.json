@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2600:f0f0:1112::/48",
+    "region": "eu-west-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:5527::/48",
     "region": "eu-west-1",
     "service": "IVS_REALTIME",

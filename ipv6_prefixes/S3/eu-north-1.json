@@ -36,6 +36,12 @@
     "network_border_group": "eu-north-1"
   },
   {
+    "ipv6_prefix": "2a05:d06d:6000::/40",
+    "region": "eu-north-1",
+    "service": "S3",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ipv6_prefix": "2a05:d078:6000::/40",
     "region": "eu-north-1",
     "service": "S3",

@@ -12,6 +12,12 @@
     "network_border_group": "us-gov-east-1"
   },
   {
+    "ipv6_prefix": "2600:1fed:5000::/40",
+    "region": "us-gov-east-1",
+    "service": "S3",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1ff9:5000::/40",
     "region": "us-gov-east-1",
     "service": "S3",

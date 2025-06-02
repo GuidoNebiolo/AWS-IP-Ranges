@@ -66,6 +66,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ipv6_prefix": "2a05:d06d:c000::/40",
+    "region": "eu-west-2",
+    "service": "EC2",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ipv6_prefix": "2a05:d072:c000::/40",
     "region": "eu-west-2",
     "service": "EC2",
@@ -181,6 +187,12 @@
   },
   {
     "ipv6_prefix": "2a05:d032:c000::/40",
+    "region": "eu-west-2",
+    "service": "EC2",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ipv6_prefix": "2a05:d059:c000::/40",
     "region": "eu-west-2",
     "service": "EC2",
     "network_border_group": "eu-west-2"

@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2406:dab9:1000::/40",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
     "ipv6_prefix": "2406:daef:1000::/40",
     "region": "af-south-1",
     "service": "EC2",
@@ -61,6 +67,12 @@
   },
   {
     "ipv6_prefix": "2406:da11::/36",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
+    "ipv6_prefix": "2406:daed:1000::/40",
     "region": "af-south-1",
     "service": "EC2",
     "network_border_group": "af-south-1"

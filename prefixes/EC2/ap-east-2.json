@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "5.60.0.0/20",
+    "region": "ap-east-2",
+    "service": "EC2",
+    "network_border_group": "ap-east-2"
+  },
+  {
     "ip_prefix": "3.5.196.0/22",
     "region": "ap-east-2",
     "service": "EC2",

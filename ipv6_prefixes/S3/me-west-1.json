@@ -18,6 +18,12 @@
     "network_border_group": "me-west-1"
   },
   {
+    "ipv6_prefix": "2a05:d06d:800::/40",
+    "region": "me-west-1",
+    "service": "S3",
+    "network_border_group": "me-west-1"
+  },
+  {
     "ipv6_prefix": "2a05:d070:800::/40",
     "region": "me-west-1",
     "service": "S3",

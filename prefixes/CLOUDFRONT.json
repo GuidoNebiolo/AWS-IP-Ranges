@@ -816,6 +816,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "13.134.94.0/23",
+    "region": "eu-west-2",
+    "service": "CLOUDFRONT",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "18.175.65.0/24",
     "region": "eu-west-2",
     "service": "CLOUDFRONT",
@@ -853,6 +859,24 @@
   },
   {
     "ip_prefix": "15.188.184.0/24",
+    "region": "eu-west-3",
+    "service": "CLOUDFRONT",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "51.44.234.0/23",
+    "region": "eu-west-3",
+    "service": "CLOUDFRONT",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "51.44.236.0/23",
+    "region": "eu-west-3",
+    "service": "CLOUDFRONT",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "51.44.238.0/23",
     "region": "eu-west-3",
     "service": "CLOUDFRONT",
     "network_border_group": "eu-west-3"

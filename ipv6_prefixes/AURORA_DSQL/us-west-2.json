@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:1f14:802:7300::/56",
+    "region": "us-west-2",
+    "service": "AURORA_DSQL",
+    "network_border_group": "us-west-2"
+  }
+]

@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2600:1fed:6000::/40",
+    "region": "us-east-2",
+    "service": "S3",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ipv6_prefix": "2600:1ff9:6000::/40",
     "region": "us-east-2",
     "service": "S3",

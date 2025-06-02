@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2406:da16:c46:6600::/56",
+    "region": "ap-northeast-3",
+    "service": "AURORA_DSQL",
+    "network_border_group": "ap-northeast-3"
+  }
+]

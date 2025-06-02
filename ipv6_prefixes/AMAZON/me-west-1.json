@@ -36,6 +36,12 @@
     "network_border_group": "me-west-1"
   },
   {
+    "ipv6_prefix": "2a05:d059:800::/40",
+    "region": "me-west-1",
+    "service": "AMAZON",
+    "network_border_group": "me-west-1"
+  },
+  {
     "ipv6_prefix": "2a05:d050:800::/40",
     "region": "me-west-1",
     "service": "AMAZON",
@@ -67,6 +73,12 @@
   },
   {
     "ipv6_prefix": "2a05:d030:800::/40",
+    "region": "me-west-1",
+    "service": "AMAZON",
+    "network_border_group": "me-west-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d06d:800::/40",
     "region": "me-west-1",
     "service": "AMAZON",
     "network_border_group": "me-west-1"
