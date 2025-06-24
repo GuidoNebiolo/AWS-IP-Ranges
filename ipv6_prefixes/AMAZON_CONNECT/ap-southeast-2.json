@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:f0f2:7105::/48",
+    "region": "ap-southeast-2",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "ap-southeast-2"
+  }
+]

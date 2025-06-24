@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:f0f2:7101::/48",
+    "region": "us-east-1",
+    "service": "AMAZON_CONNECT",
+    "network_border_group": "us-east-1"
+  }
+]

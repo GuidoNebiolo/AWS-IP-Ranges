@@ -228,6 +228,12 @@
     "network_border_group": "us-west-1"
   },
   {
+    "ip_prefix": "35.96.33.0/24",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ip_prefix": "54.241.0.0/16",
     "region": "us-west-1",
     "service": "EC2",

@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2600:1ff4:a400::/40",
+    "region": "ca-west-1",
+    "service": "S3",
+    "network_border_group": "ca-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1f68:a400::/40",
     "region": "ca-west-1",
     "service": "S3",
@@ -25,6 +31,12 @@
   },
   {
     "ipv6_prefix": "2600:1fed:a400::/40",
+    "region": "ca-west-1",
+    "service": "S3",
+    "network_border_group": "ca-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fb9:a400::/40",
     "region": "ca-west-1",
     "service": "S3",
     "network_border_group": "ca-west-1"

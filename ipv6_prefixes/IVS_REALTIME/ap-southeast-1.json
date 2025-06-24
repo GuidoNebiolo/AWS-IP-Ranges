@@ -1,6 +1,24 @@
 [
   {
+    "ipv6_prefix": "2600:f0f0:1108::/48",
+    "region": "ap-southeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:553f::/48",
+    "region": "ap-southeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:1107::/48",
+    "region": "ap-southeast-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "ap-southeast-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:1106::/48",
     "region": "ap-southeast-1",
     "service": "IVS_REALTIME",
     "network_border_group": "ap-southeast-1"

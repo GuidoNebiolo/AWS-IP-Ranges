@@ -24,7 +24,19 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ip_prefix": "35.55.21.0/24",
+    "region": "eu-west-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ip_prefix": "52.129.130.0/24",
+    "region": "eu-west-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "eu-west-1"
+  },
+  {
+    "ip_prefix": "35.55.20.0/24",
     "region": "eu-west-1",
     "service": "IVS_REALTIME",
     "network_border_group": "eu-west-1"

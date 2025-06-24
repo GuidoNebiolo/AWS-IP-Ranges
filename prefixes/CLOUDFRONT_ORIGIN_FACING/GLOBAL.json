@@ -72,12 +72,6 @@
     "network_border_group": "GLOBAL"
   },
   {
-    "ip_prefix": "52.46.0.0/22",
-    "region": "GLOBAL",
-    "service": "CLOUDFRONT_ORIGIN_FACING",
-    "network_border_group": "GLOBAL"
-  },
-  {
     "ip_prefix": "130.176.96.0/19",
     "region": "GLOBAL",
     "service": "CLOUDFRONT_ORIGIN_FACING",
@@ -109,12 +103,6 @@
   },
   {
     "ip_prefix": "205.251.218.0/24",
-    "region": "GLOBAL",
-    "service": "CLOUDFRONT_ORIGIN_FACING",
-    "network_border_group": "GLOBAL"
-  },
-  {
-    "ip_prefix": "52.46.4.0/23",
     "region": "GLOBAL",
     "service": "CLOUDFRONT_ORIGIN_FACING",
     "network_border_group": "GLOBAL"

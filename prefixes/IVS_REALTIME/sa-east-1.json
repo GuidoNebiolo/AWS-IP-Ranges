@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "35.55.26.0/24",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
     "ip_prefix": "35.50.176.0/24",
     "region": "sa-east-1",
     "service": "IVS_REALTIME",
@@ -7,6 +13,18 @@
   },
   {
     "ip_prefix": "35.50.177.0/24",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "35.55.27.0/24",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "35.55.25.0/24",
     "region": "sa-east-1",
     "service": "IVS_REALTIME",
     "network_border_group": "sa-east-1"

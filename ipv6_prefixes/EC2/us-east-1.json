@@ -54,6 +54,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:111c::/48",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1f36:8000::/39",
     "region": "us-east-1",
     "service": "EC2",
@@ -114,6 +120,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:111e::/48",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2606:f40:fffe::/48",
     "region": "us-east-1",
     "service": "EC2",
@@ -150,6 +162,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:111b::/48",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1f1a:8000::/36",
     "region": "us-east-1",
     "service": "EC2",
@@ -175,6 +193,18 @@
   },
   {
     "ipv6_prefix": "2600:1f61:8000::/39",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:111f::/48",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f2:7101::/48",
     "region": "us-east-1",
     "service": "EC2",
     "network_border_group": "us-east-1"
@@ -228,7 +258,19 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2600:1ff3:8000::/39",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:9000:5210::/48",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f2a:c000::/36",
     "region": "us-east-1",
     "service": "EC2",
     "network_border_group": "us-east-1"
@@ -504,6 +546,12 @@
     "network_border_group": "us-east-1-chi-2"
   },
   {
+    "ipv6_prefix": "2600:1f1a:c000::/36",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1f1c:c000::/36",
     "region": "us-east-1",
     "service": "EC2",
@@ -702,6 +750,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2600:f0f2:7010::/46",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1f1f:4000::/36",
     "region": "us-east-1",
     "service": "EC2",
@@ -787,6 +841,12 @@
   },
   {
     "ipv6_prefix": "2600:1fef:8000::/39",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:111d::/48",
     "region": "us-east-1",
     "service": "EC2",
     "network_border_group": "us-east-1"

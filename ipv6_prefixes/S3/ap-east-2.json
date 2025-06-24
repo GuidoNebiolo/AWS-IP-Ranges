@@ -6,6 +6,12 @@
     "network_border_group": "ap-east-2"
   },
   {
+    "ipv6_prefix": "2406:dab9:c800::/40",
+    "region": "ap-east-2",
+    "service": "S3",
+    "network_border_group": "ap-east-2"
+  },
+  {
     "ipv6_prefix": "2406:daf0:c800::/40",
     "region": "ap-east-2",
     "service": "S3",
@@ -19,6 +25,12 @@
   },
   {
     "ipv6_prefix": "2406:daa0:c800::/40",
+    "region": "ap-east-2",
+    "service": "S3",
+    "network_border_group": "ap-east-2"
+  },
+  {
+    "ipv6_prefix": "2406:daf4:c800::/40",
     "region": "ap-east-2",
     "service": "S3",
     "network_border_group": "ap-east-2"

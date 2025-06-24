@@ -36,12 +36,6 @@
     "network_border_group": "cn-northwest-1"
   },
   {
-    "ipv6_prefix": "2404:c2c0:bb00::/40",
-    "region": "cn-northwest-1",
-    "service": "AMAZON",
-    "network_border_group": "cn-northwest-1"
-  },
-  {
     "ipv6_prefix": "2404:c2c0:2f00::/40",
     "region": "cn-northwest-1",
     "service": "AMAZON",
@@ -102,6 +96,12 @@
     "network_border_group": "cn-northwest-1"
   },
   {
+    "ipv6_prefix": "2404:c2c0:ef00::/40",
+    "region": "cn-northwest-1",
+    "service": "AMAZON",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
     "ipv6_prefix": "240f:80fa:4000::/40",
     "region": "cn-northwest-1",
     "service": "AMAZON",
@@ -127,6 +127,12 @@
   },
   {
     "ipv6_prefix": "2404:c2c0:3000::/40",
+    "region": "cn-northwest-1",
+    "service": "AMAZON",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:6000::/40",
     "region": "cn-northwest-1",
     "service": "AMAZON",
     "network_border_group": "cn-northwest-1"

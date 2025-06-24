@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2a05:d059:800::/40",
+    "region": "me-west-1",
+    "service": "S3",
+    "network_border_group": "me-west-1"
+  },
+  {
     "ipv6_prefix": "2a05:d050:800::/40",
     "region": "me-west-1",
     "service": "S3",
@@ -19,6 +25,12 @@
   },
   {
     "ipv6_prefix": "2a05:d06d:800::/40",
+    "region": "me-west-1",
+    "service": "S3",
+    "network_border_group": "me-west-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d074:800::/40",
     "region": "me-west-1",
     "service": "S3",
     "network_border_group": "me-west-1"
