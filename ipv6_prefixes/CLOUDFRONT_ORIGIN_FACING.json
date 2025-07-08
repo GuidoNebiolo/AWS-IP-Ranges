@@ -4,5 +4,35 @@
     "region": "GLOBAL",
     "service": "CLOUDFRONT_ORIGIN_FACING",
     "network_border_group": "GLOBAL"
+  },
+  {
+    "ipv6_prefix": "2600:9000:101e::/48",
+    "region": "GLOBAL",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ipv6_prefix": "2600:9000:101c::/48",
+    "region": "GLOBAL",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ipv6_prefix": "2600:9000:100e::/48",
+    "region": "GLOBAL",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ipv6_prefix": "2600:9000:1000::/48",
+    "region": "GLOBAL",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ipv6_prefix": "2600:9000:101b::/48",
+    "region": "GLOBAL",
+    "service": "CLOUDFRONT_ORIGIN_FACING",
+    "network_border_group": "GLOBAL"
   }
 ]
