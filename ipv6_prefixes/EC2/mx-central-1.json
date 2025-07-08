@@ -84,6 +84,12 @@
     "network_border_group": "mx-central-1"
   },
   {
+    "ipv6_prefix": "2600:1ff3:7400::/40",
+    "region": "mx-central-1",
+    "service": "EC2",
+    "network_border_group": "mx-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1fef:7400::/40",
     "region": "mx-central-1",
     "service": "EC2",

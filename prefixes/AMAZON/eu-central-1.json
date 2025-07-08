@@ -312,6 +312,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "1.178.10.0/24",
+    "region": "eu-central-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "15.230.15.136/31",
     "region": "eu-central-1",
     "service": "AMAZON",

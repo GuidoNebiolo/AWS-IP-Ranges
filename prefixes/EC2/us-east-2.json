@@ -270,6 +270,12 @@
     "network_border_group": "us-east-2"
   },
   {
+    "ip_prefix": "1.178.8.0/24",
+    "region": "us-east-2",
+    "service": "EC2",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ip_prefix": "3.16.0.0/14",
     "region": "us-east-2",
     "service": "EC2",

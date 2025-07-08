@@ -60,6 +60,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ip_prefix": "1.178.7.0/24",
+    "region": "eu-west-1",
+    "service": "EC2",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ip_prefix": "52.30.0.0/15",
     "region": "eu-west-1",
     "service": "EC2",

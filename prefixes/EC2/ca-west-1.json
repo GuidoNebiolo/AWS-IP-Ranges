@@ -36,6 +36,12 @@
     "network_border_group": "ca-west-1"
   },
   {
+    "ip_prefix": "35.96.251.0/24",
+    "region": "ca-west-1",
+    "service": "EC2",
+    "network_border_group": "ca-west-1"
+  },
+  {
     "ip_prefix": "35.96.44.0/24",
     "region": "ca-west-1",
     "service": "EC2",
