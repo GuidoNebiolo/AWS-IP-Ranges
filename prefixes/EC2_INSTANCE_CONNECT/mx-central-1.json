@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "78.12.207.8/29",
+    "region": "mx-central-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "mx-central-1"
+  }
+]

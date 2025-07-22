@@ -58,5 +58,11 @@
     "region": "ap-southeast-2",
     "service": "S3",
     "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f2:7019::/48",
+    "region": "ap-southeast-2",
+    "service": "S3",
+    "network_border_group": "ap-southeast-2"
   }
 ]

@@ -1,0 +1,8 @@
+[
+  {
+    "ipv6_prefix": "2600:1f17:4ee0:b800::/56",
+    "region": "mx-central-1",
+    "service": "EC2_INSTANCE_CONNECT",
+    "network_border_group": "mx-central-1"
+  }
+]

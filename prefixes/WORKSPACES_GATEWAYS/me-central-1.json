@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "51.112.196.0/22",
+    "region": "me-central-1",
+    "service": "WORKSPACES_GATEWAYS",
+    "network_border_group": "me-central-1"
+  }
+]

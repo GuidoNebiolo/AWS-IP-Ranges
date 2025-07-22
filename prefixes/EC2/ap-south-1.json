@@ -210,6 +210,12 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ip_prefix": "216.244.3.0/24",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "96.0.60.0/22",
     "region": "ap-south-1",
     "service": "EC2",

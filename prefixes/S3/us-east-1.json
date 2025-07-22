@@ -48,6 +48,24 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ip_prefix": "1.178.4.0/24",
+    "region": "us-east-1",
+    "service": "S3",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "1.178.5.0/24",
+    "region": "us-east-1",
+    "service": "S3",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "1.178.6.0/24",
+    "region": "us-east-1",
+    "service": "S3",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "44.192.134.240/28",
     "region": "us-east-1",
     "service": "S3",

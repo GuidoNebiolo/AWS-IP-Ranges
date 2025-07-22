@@ -18,6 +18,12 @@
     "network_border_group": "ap-east-1"
   },
   {
+    "ip_prefix": "216.244.6.0/24",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
     "ip_prefix": "15.177.86.0/24",
     "region": "ap-east-1",
     "service": "EC2",
