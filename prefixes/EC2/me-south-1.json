@@ -66,6 +66,12 @@
     "network_border_group": "me-south-1"
   },
   {
+    "ip_prefix": "3.43.192.0/18",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ip_prefix": "18.99.224.0/20",
     "region": "me-south-1",
     "service": "EC2",
@@ -115,6 +121,12 @@
   },
   {
     "ip_prefix": "35.50.214.0/24",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "3.2.85.0/24",
     "region": "me-south-1",
     "service": "EC2",
     "network_border_group": "me-south-1"

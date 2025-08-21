@@ -132,6 +132,12 @@
     "network_border_group": "me-south-1"
   },
   {
+    "ip_prefix": "3.43.192.0/18",
+    "region": "me-south-1",
+    "service": "AMAZON",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ip_prefix": "3.2.56.0/24",
     "region": "me-south-1",
     "service": "AMAZON",
@@ -367,6 +373,12 @@
   },
   {
     "ip_prefix": "35.50.214.0/24",
+    "region": "me-south-1",
+    "service": "AMAZON",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ip_prefix": "3.2.85.0/24",
     "region": "me-south-1",
     "service": "AMAZON",
     "network_border_group": "me-south-1"

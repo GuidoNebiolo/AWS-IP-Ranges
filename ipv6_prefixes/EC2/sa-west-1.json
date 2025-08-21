@@ -1,0 +1,14 @@
+[
+  {
+    "ipv6_prefix": "2600:1f2e:c000::/36",
+    "region": "sa-west-1",
+    "service": "EC2",
+    "network_border_group": "sa-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f1e:c000::/36",
+    "region": "sa-west-1",
+    "service": "EC2",
+    "network_border_group": "sa-west-1"
+  }
+]

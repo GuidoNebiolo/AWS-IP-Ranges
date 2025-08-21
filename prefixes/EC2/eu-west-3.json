@@ -18,6 +18,12 @@
     "network_border_group": "eu-west-3"
   },
   {
+    "ip_prefix": "3.2.89.0/24",
+    "region": "eu-west-3",
+    "service": "EC2",
+    "network_border_group": "eu-west-3"
+  },
+  {
     "ip_prefix": "15.188.0.0/16",
     "region": "eu-west-3",
     "service": "EC2",
@@ -151,6 +157,12 @@
   },
   {
     "ip_prefix": "35.96.250.0/24",
+    "region": "eu-west-3",
+    "service": "EC2",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ip_prefix": "3.2.84.0/24",
     "region": "eu-west-3",
     "service": "EC2",
     "network_border_group": "eu-west-3"

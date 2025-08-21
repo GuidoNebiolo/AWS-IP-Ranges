@@ -138,6 +138,12 @@
     "network_border_group": "me-central-1"
   },
   {
+    "ip_prefix": "3.2.73.0/24",
+    "region": "me-central-1",
+    "service": "AMAZON",
+    "network_border_group": "me-central-1"
+  },
+  {
     "ip_prefix": "54.239.1.176/28",
     "region": "me-central-1",
     "service": "AMAZON",

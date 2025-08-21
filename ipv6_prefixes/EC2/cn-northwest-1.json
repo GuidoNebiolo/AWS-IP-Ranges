@@ -12,19 +12,7 @@
     "network_border_group": "cn-northwest-1"
   },
   {
-    "ipv6_prefix": "2404:c2c0:2300::/40",
-    "region": "cn-northwest-1",
-    "service": "EC2",
-    "network_border_group": "cn-northwest-1"
-  },
-  {
     "ipv6_prefix": "2404:c2c0:2f00::/40",
-    "region": "cn-northwest-1",
-    "service": "EC2",
-    "network_border_group": "cn-northwest-1"
-  },
-  {
-    "ipv6_prefix": "2404:c2c0:2000::/40",
     "region": "cn-northwest-1",
     "service": "EC2",
     "network_border_group": "cn-northwest-1"
@@ -67,6 +55,12 @@
   },
   {
     "ipv6_prefix": "2404:c2c0:3100::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:4100::/48",
     "region": "cn-northwest-1",
     "service": "EC2",
     "network_border_group": "cn-northwest-1"

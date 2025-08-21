@@ -42,6 +42,12 @@
     "network_border_group": "eu-south-1"
   },
   {
+    "ip_prefix": "3.2.93.0/24",
+    "region": "eu-south-1",
+    "service": "EC2",
+    "network_border_group": "eu-south-1"
+  },
+  {
     "ip_prefix": "15.161.0.0/16",
     "region": "eu-south-1",
     "service": "EC2",

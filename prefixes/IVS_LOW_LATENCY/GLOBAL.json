@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "35.55.0.0/17",
+    "region": "GLOBAL",
+    "service": "IVS_LOW_LATENCY",
+    "network_border_group": "GLOBAL"
+  }
+]

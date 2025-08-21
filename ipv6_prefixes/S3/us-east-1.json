@@ -24,12 +24,6 @@
     "network_border_group": "us-east-1-dfw-2"
   },
   {
-    "ipv6_prefix": "2600:1f68:8000::/39",
-    "region": "us-east-1",
-    "service": "S3",
-    "network_border_group": "us-east-1"
-  },
-  {
     "ipv6_prefix": "2600:1ff8:8000::/40",
     "region": "us-east-1",
     "service": "S3",
@@ -43,12 +37,6 @@
   },
   {
     "ipv6_prefix": "2600:1f60:8000::/39",
-    "region": "us-east-1",
-    "service": "S3",
-    "network_border_group": "us-east-1"
-  },
-  {
-    "ipv6_prefix": "2600:1fed:8000::/39",
     "region": "us-east-1",
     "service": "S3",
     "network_border_group": "us-east-1"

@@ -702,6 +702,12 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ip_prefix": "3.2.69.0/24",
+    "region": "ap-south-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ip_prefix": "99.83.72.0/22",
     "region": "ap-south-1",
     "service": "AMAZON",

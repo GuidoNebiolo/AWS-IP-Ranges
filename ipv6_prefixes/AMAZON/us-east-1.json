@@ -36,12 +36,6 @@
     "network_border_group": "us-east-1"
   },
   {
-    "ipv6_prefix": "2600:1f69:8000::/39",
-    "region": "us-east-1",
-    "service": "AMAZON",
-    "network_border_group": "us-east-1"
-  },
-  {
     "ipv6_prefix": "2600:1ffe:8000::/39",
     "region": "us-east-1",
     "service": "AMAZON",
@@ -73,6 +67,12 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:111c::/48",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:90:1400::/56",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
@@ -168,12 +168,6 @@
     "network_border_group": "us-east-1"
   },
   {
-    "ipv6_prefix": "2600:f0f0:111e::/48",
-    "region": "us-east-1",
-    "service": "AMAZON",
-    "network_border_group": "us-east-1"
-  },
-  {
     "ipv6_prefix": "2606:f40:fffe::/48",
     "region": "us-east-1",
     "service": "AMAZON",
@@ -223,12 +217,6 @@
   },
   {
     "ipv6_prefix": "2600:1f22:c000::/36",
-    "region": "us-east-1",
-    "service": "AMAZON",
-    "network_border_group": "us-east-1"
-  },
-  {
-    "ipv6_prefix": "2600:f0f0:111b::/48",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
@@ -354,6 +342,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:6100::/48",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f2:7011::/48",
     "region": "us-east-1",
     "service": "AMAZON",
@@ -463,12 +457,6 @@
   },
   {
     "ipv6_prefix": "2605:9cc0:1ff0:600::/56",
-    "region": "us-east-1",
-    "service": "AMAZON",
-    "network_border_group": "us-east-1"
-  },
-  {
-    "ipv6_prefix": "2600:1ff7:8000::/39",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
@@ -624,12 +612,6 @@
     "network_border_group": "us-east-1"
   },
   {
-    "ipv6_prefix": "2600:1f68:8000::/39",
-    "region": "us-east-1",
-    "service": "AMAZON",
-    "network_border_group": "us-east-1"
-  },
-  {
     "ipv6_prefix": "2600:1f38:8000::/39",
     "region": "us-east-1",
     "service": "AMAZON",
@@ -738,6 +720,12 @@
     "network_border_group": "us-east-1"
   },
   {
+    "ipv6_prefix": "2600:1fff:2c80::/48",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ipv6_prefix": "2600:1f2c:8000::/36",
     "region": "us-east-1",
     "service": "AMAZON",
@@ -751,6 +739,12 @@
   },
   {
     "ipv6_prefix": "2600:1ff8:8000::/40",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:6101::/48",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
@@ -774,13 +768,19 @@
     "network_border_group": "us-east-1-wl1-nyc-wlz-1"
   },
   {
-    "ipv6_prefix": "2600:1f32:8000::/39",
+    "ipv6_prefix": "2600:f0f0:610a::/48",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
   },
   {
-    "ipv6_prefix": "2600:1ffb:8000::/39",
+    "ipv6_prefix": "2600:f0f0:91::/48",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f32:8000::/39",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
@@ -823,6 +823,12 @@
   },
   {
     "ipv6_prefix": "2600:1f2c:c000::/36",
+    "region": "us-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:90:2600::/56",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"
@@ -895,12 +901,6 @@
   },
   {
     "ipv6_prefix": "2600:f0f1:8801::/48",
-    "region": "us-east-1",
-    "service": "AMAZON",
-    "network_border_group": "us-east-1"
-  },
-  {
-    "ipv6_prefix": "2600:1fed:8000::/39",
     "region": "us-east-1",
     "service": "AMAZON",
     "network_border_group": "us-east-1"

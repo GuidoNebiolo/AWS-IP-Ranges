@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "23.228.197.0/24",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "159.248.232.0/21",
     "region": "GLOBAL",
     "service": "EC2",
@@ -18,6 +24,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "35.97.0.0/20",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "216.39.168.0/21",
     "region": "GLOBAL",
     "service": "EC2",
@@ -25,6 +37,12 @@
   },
   {
     "ip_prefix": "51.0.112.0/21",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "23.228.196.0/24",
     "region": "GLOBAL",
     "service": "EC2",
     "network_border_group": "GLOBAL"

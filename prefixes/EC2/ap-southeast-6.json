@@ -1,5 +1,11 @@
 [
   {
+    "ip_prefix": "5.60.32.0/20",
+    "region": "ap-southeast-6",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-6"
+  },
+  {
     "ip_prefix": "15.177.105.0/24",
     "region": "ap-southeast-6",
     "service": "EC2",
@@ -7,6 +13,12 @@
   },
   {
     "ip_prefix": "16.15.8.0/22",
+    "region": "ap-southeast-6",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-6"
+  },
+  {
+    "ip_prefix": "35.71.93.0/24",
     "region": "ap-southeast-6",
     "service": "EC2",
     "network_border_group": "ap-southeast-6"

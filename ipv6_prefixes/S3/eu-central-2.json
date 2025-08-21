@@ -18,12 +18,6 @@
     "network_border_group": "eu-central-2"
   },
   {
-    "ipv6_prefix": "2a05:d034:9000::/40",
-    "region": "eu-central-2",
-    "service": "S3",
-    "network_border_group": "eu-central-2"
-  },
-  {
     "ipv6_prefix": "2a05:d050:9000::/40",
     "region": "eu-central-2",
     "service": "S3",
@@ -37,12 +31,6 @@
   },
   {
     "ipv6_prefix": "2a05:d059:9000::/40",
-    "region": "eu-central-2",
-    "service": "S3",
-    "network_border_group": "eu-central-2"
-  },
-  {
-    "ipv6_prefix": "2a05:d06d:9000::/40",
     "region": "eu-central-2",
     "service": "S3",
     "network_border_group": "eu-central-2"

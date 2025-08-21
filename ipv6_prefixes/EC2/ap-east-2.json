@@ -60,19 +60,7 @@
     "network_border_group": "ap-east-2"
   },
   {
-    "ipv6_prefix": "2406:dafb:c800::/40",
-    "region": "ap-east-2",
-    "service": "EC2",
-    "network_border_group": "ap-east-2"
-  },
-  {
     "ipv6_prefix": "2406:daf2:c800::/40",
-    "region": "ap-east-2",
-    "service": "EC2",
-    "network_border_group": "ap-east-2"
-  },
-  {
-    "ipv6_prefix": "2406:da69:c800::/40",
     "region": "ap-east-2",
     "service": "EC2",
     "network_border_group": "ap-east-2"
@@ -84,19 +72,7 @@
     "network_border_group": "ap-east-2"
   },
   {
-    "ipv6_prefix": "2406:daed:c800::/40",
-    "region": "ap-east-2",
-    "service": "EC2",
-    "network_border_group": "ap-east-2"
-  },
-  {
     "ipv6_prefix": "2406:daef:c800::/40",
-    "region": "ap-east-2",
-    "service": "EC2",
-    "network_border_group": "ap-east-2"
-  },
-  {
-    "ipv6_prefix": "2406:daf7:c800::/40",
     "region": "ap-east-2",
     "service": "EC2",
     "network_border_group": "ap-east-2"
@@ -115,12 +91,6 @@
   },
   {
     "ipv6_prefix": "2406:daf4:c800::/40",
-    "region": "ap-east-2",
-    "service": "EC2",
-    "network_border_group": "ap-east-2"
-  },
-  {
-    "ipv6_prefix": "2406:da68:c800::/40",
     "region": "ap-east-2",
     "service": "EC2",
     "network_border_group": "ap-east-2"

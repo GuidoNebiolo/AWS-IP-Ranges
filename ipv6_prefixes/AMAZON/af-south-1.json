@@ -36,19 +36,7 @@
     "network_border_group": "af-south-1"
   },
   {
-    "ipv6_prefix": "2406:daf7:1000::/40",
-    "region": "af-south-1",
-    "service": "AMAZON",
-    "network_border_group": "af-south-1"
-  },
-  {
     "ipv6_prefix": "2406:daff:1000::/40",
-    "region": "af-south-1",
-    "service": "AMAZON",
-    "network_border_group": "af-south-1"
-  },
-  {
-    "ipv6_prefix": "2406:dafb:1000::/40",
     "region": "af-south-1",
     "service": "AMAZON",
     "network_border_group": "af-south-1"
@@ -90,6 +78,12 @@
     "network_border_group": "af-south-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:6119::/48",
+    "region": "af-south-1",
+    "service": "AMAZON",
+    "network_border_group": "af-south-1"
+  },
+  {
     "ipv6_prefix": "2406:da11::/36",
     "region": "af-south-1",
     "service": "AMAZON",
@@ -103,12 +97,6 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:4144::/48",
-    "region": "af-south-1",
-    "service": "AMAZON",
-    "network_border_group": "af-south-1"
-  },
-  {
-    "ipv6_prefix": "2406:daed:1000::/40",
     "region": "af-south-1",
     "service": "AMAZON",
     "network_border_group": "af-south-1"
@@ -139,12 +127,6 @@
   },
   {
     "ipv6_prefix": "2406:da30:1000::/40",
-    "region": "af-south-1",
-    "service": "AMAZON",
-    "network_border_group": "af-south-1"
-  },
-  {
-    "ipv6_prefix": "2406:da69:1000::/40",
     "region": "af-south-1",
     "service": "AMAZON",
     "network_border_group": "af-south-1"
@@ -181,12 +163,6 @@
   },
   {
     "ipv6_prefix": "2406:daa0:1000::/40",
-    "region": "af-south-1",
-    "service": "AMAZON",
-    "network_border_group": "af-south-1"
-  },
-  {
-    "ipv6_prefix": "2406:da68:1000::/40",
     "region": "af-south-1",
     "service": "AMAZON",
     "network_border_group": "af-south-1"

@@ -18,6 +18,12 @@
     "network_border_group": "ap-northeast-3"
   },
   {
+    "ip_prefix": "18.96.39.128/25",
+    "region": "eu-central-1",
+    "service": "AURORA_DSQL",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "18.97.198.128/25",
     "region": "eu-west-1",
     "service": "AURORA_DSQL",

@@ -30,6 +30,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ip_prefix": "3.2.78.0/24",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ip_prefix": "3.96.0.0/15",
     "region": "ca-central-1",
     "service": "EC2",

@@ -6,12 +6,6 @@
     "network_border_group": "eusc-de-east-1"
   },
   {
-    "ipv6_prefix": "2001:3fc3:4800::/40",
-    "region": "eusc-de-east-1",
-    "service": "S3",
-    "network_border_group": "eusc-de-east-1"
-  },
-  {
     "ipv6_prefix": "2001:3fc5:800::/40",
     "region": "eusc-de-east-1",
     "service": "S3",
