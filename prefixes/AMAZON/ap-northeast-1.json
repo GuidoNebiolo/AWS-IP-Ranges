@@ -126,6 +126,12 @@
     "network_border_group": "ap-northeast-1"
   },
   {
+    "ip_prefix": "69.107.9.240/29",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
     "ip_prefix": "13.192.0.0/16",
     "region": "ap-northeast-1",
     "service": "AMAZON",
@@ -618,6 +624,12 @@
     "network_border_group": "ap-northeast-1"
   },
   {
+    "ip_prefix": "69.107.9.200/29",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
     "ip_prefix": "52.93.127.244/32",
     "region": "ap-northeast-1",
     "service": "AMAZON",
@@ -834,6 +846,12 @@
     "network_border_group": "ap-northeast-1"
   },
   {
+    "ip_prefix": "3.2.61.0/24",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
     "ip_prefix": "176.34.32.0/19",
     "region": "ap-northeast-1",
     "service": "AMAZON",
@@ -877,6 +895,18 @@
   },
   {
     "ip_prefix": "52.93.127.249/32",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "69.107.9.192/29",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "69.107.9.248/29",
     "region": "ap-northeast-1",
     "service": "AMAZON",
     "network_border_group": "ap-northeast-1"
@@ -1050,6 +1080,12 @@
     "network_border_group": "ap-northeast-1"
   },
   {
+    "ip_prefix": "216.198.192.0/24",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
     "ip_prefix": "13.248.69.0/24",
     "region": "ap-northeast-1",
     "service": "AMAZON",
@@ -1075,6 +1111,12 @@
   },
   {
     "ip_prefix": "52.93.127.149/32",
+    "region": "ap-northeast-1",
+    "service": "AMAZON",
+    "network_border_group": "ap-northeast-1"
+  },
+  {
+    "ip_prefix": "35.54.48.0/23",
     "region": "ap-northeast-1",
     "service": "AMAZON",
     "network_border_group": "ap-northeast-1"

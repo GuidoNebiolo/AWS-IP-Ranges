@@ -58,11 +58,5 @@
     "region": "cn-north-1",
     "service": "S3",
     "network_border_group": "cn-north-1"
-  },
-  {
-    "ipv6_prefix": "2400:7fc0:ec00::/48",
-    "region": "cn-north-1",
-    "service": "S3",
-    "network_border_group": "cn-north-1-pkx-1"
   }
 ]

@@ -90,6 +90,12 @@
     "network_border_group": "ap-southeast-7"
   },
   {
+    "ipv6_prefix": "2406:dabb:4800::/40",
+    "region": "ap-southeast-7",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-7"
+  },
+  {
     "ipv6_prefix": "2406:daf6:4800::/40",
     "region": "ap-southeast-7",
     "service": "AMAZON",
@@ -139,6 +145,12 @@
   },
   {
     "ipv6_prefix": "2406:dafe:4800::/40",
+    "region": "ap-southeast-7",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-7"
+  },
+  {
+    "ipv6_prefix": "2406:dafd:4800::/40",
     "region": "ap-southeast-7",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-7"

@@ -30,6 +30,12 @@
     "network_border_group": "ap-southeast-4"
   },
   {
+    "ip_prefix": "35.54.59.0/24",
+    "region": "ap-southeast-4",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-4"
+  },
+  {
     "ip_prefix": "70.232.80.0/21",
     "region": "ap-southeast-4",
     "service": "AMAZON",

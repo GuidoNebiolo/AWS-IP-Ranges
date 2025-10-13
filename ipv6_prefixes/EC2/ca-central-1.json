@@ -18,6 +18,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ipv6_prefix": "2600:1fbb:1000::/40",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1fff:1000::/40",
     "region": "ca-central-1",
     "service": "EC2",
@@ -36,6 +42,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ipv6_prefix": "2600:1ffd:10c0::/48",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1f70:1000::/40",
     "region": "ca-central-1",
     "service": "EC2",
@@ -48,7 +60,19 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ipv6_prefix": "2600:1ffd:1040::/48",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1ff2:1000::/40",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0fb:f108::/48",
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"
@@ -102,6 +126,12 @@
     "network_border_group": "ca-central-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:c042::/48",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1f30:1000::/40",
     "region": "ca-central-1",
     "service": "EC2",
@@ -109,6 +139,12 @@
   },
   {
     "ipv6_prefix": "2600:1f11::/36",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ffd:1080::/48",
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"
@@ -163,6 +199,12 @@
   },
   {
     "ipv6_prefix": "2600:1f21::/36",
+    "region": "ca-central-1",
+    "service": "EC2",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1ffd:1020::/48",
     "region": "ca-central-1",
     "service": "EC2",
     "network_border_group": "ca-central-1"

@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2600:f0f0:e06::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:552e::/48",
     "region": "me-south-1",
     "service": "IVS_REALTIME",
@@ -19,6 +25,24 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:552b::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e05::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e07::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e04::/48",
     "region": "me-south-1",
     "service": "IVS_REALTIME",
     "network_border_group": "me-south-1"

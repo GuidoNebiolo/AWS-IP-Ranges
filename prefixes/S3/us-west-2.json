@@ -1,6 +1,30 @@
 [
   {
+    "ip_prefix": "16.12.96.0/21",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "16.12.104.0/21",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "16.12.88.0/21",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "3.5.76.0/22",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "16.12.112.0/21",
     "region": "us-west-2",
     "service": "S3",
     "network_border_group": "us-west-2"

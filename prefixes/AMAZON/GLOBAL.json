@@ -666,6 +666,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "23.228.198.0/24",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "143.204.0.0/16",
     "region": "GLOBAL",
     "service": "AMAZON",

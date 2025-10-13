@@ -12,6 +12,18 @@
     "network_border_group": "sa-east-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:e16::/48",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e15::/48",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:5521::/48",
     "region": "sa-east-1",
     "service": "IVS_REALTIME",
@@ -25,6 +37,12 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:1119::/48",
+    "region": "sa-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e17::/48",
     "region": "sa-east-1",
     "service": "IVS_REALTIME",
     "network_border_group": "sa-east-1"

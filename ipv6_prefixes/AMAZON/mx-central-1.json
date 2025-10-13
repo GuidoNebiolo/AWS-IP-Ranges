@@ -24,6 +24,12 @@
     "network_border_group": "mx-central-1"
   },
   {
+    "ipv6_prefix": "2600:1ffd:7400::/40",
+    "region": "mx-central-1",
+    "service": "AMAZON",
+    "network_border_group": "mx-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1f27:4000::/36",
     "region": "mx-central-1",
     "service": "AMAZON",
@@ -61,6 +67,12 @@
   },
   {
     "ipv6_prefix": "2620:107:4000:8400::/56",
+    "region": "mx-central-1",
+    "service": "AMAZON",
+    "network_border_group": "mx-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fbb:7400::/40",
     "region": "mx-central-1",
     "service": "AMAZON",
     "network_border_group": "mx-central-1"
