@@ -1,6 +1,24 @@
 [
   {
+    "ip_prefix": "35.50.139.0/24",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "35.55.30.0/24",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "35.50.137.0/24",
+    "region": "us-east-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "35.50.141.0/24",
     "region": "us-east-1",
     "service": "IVS_REALTIME",
     "network_border_group": "us-east-1"

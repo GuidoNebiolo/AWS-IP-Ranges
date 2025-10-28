@@ -48,6 +48,12 @@
     "network_border_group": "us-gov-east-1"
   },
   {
+    "ipv6_prefix": "2606:8140:200::/40",
+    "region": "us-gov-east-1",
+    "service": "AMAZON",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:4141::/48",
     "region": "us-gov-east-1",
     "service": "AMAZON",
@@ -67,12 +73,6 @@
   },
   {
     "ipv6_prefix": "2600:1f61:5000::/40",
-    "region": "us-gov-east-1",
-    "service": "AMAZON",
-    "network_border_group": "us-gov-east-1"
-  },
-  {
-    "ipv6_prefix": "2600:1ffd:5000::/40",
     "region": "us-gov-east-1",
     "service": "AMAZON",
     "network_border_group": "us-gov-east-1"

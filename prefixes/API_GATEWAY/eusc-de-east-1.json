@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "51.224.184.0/24",
+    "region": "eusc-de-east-1",
+    "service": "API_GATEWAY",
+    "network_border_group": "eusc-de-east-1"
+  }
+]

@@ -144,12 +144,6 @@
     "network_border_group": "ap-northeast-2"
   },
   {
-    "ipv6_prefix": "2406:dafd:2000::/40",
-    "region": "ap-northeast-2",
-    "service": "EC2",
-    "network_border_group": "ap-northeast-2"
-  },
-  {
     "ipv6_prefix": "2600:f0fb:f10a::/48",
     "region": "ap-northeast-2",
     "service": "EC2",
@@ -235,6 +229,12 @@
   },
   {
     "ipv6_prefix": "2606:f40:a400::/40",
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f2:701d::/48",
     "region": "ap-northeast-2",
     "service": "EC2",
     "network_border_group": "ap-northeast-2"

@@ -78,6 +78,12 @@
     "network_border_group": "eu-north-1"
   },
   {
+    "ip_prefix": "1.178.93.0/24",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ip_prefix": "52.144.216.2/31",
     "region": "eu-north-1",
     "service": "AMAZON",
@@ -109,6 +115,12 @@
   },
   {
     "ip_prefix": "150.222.42.64/26",
+    "region": "eu-north-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "150.247.42.0/24",
     "region": "eu-north-1",
     "service": "AMAZON",
     "network_border_group": "eu-north-1"

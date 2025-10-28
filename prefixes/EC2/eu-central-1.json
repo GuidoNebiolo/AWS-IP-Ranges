@@ -18,12 +18,6 @@
     "network_border_group": "eu-central-1"
   },
   {
-    "ip_prefix": "35.96.52.0/24",
-    "region": "eu-central-1",
-    "service": "EC2",
-    "network_border_group": "eu-central-1"
-  },
-  {
     "ip_prefix": "3.5.136.0/22",
     "region": "eu-central-1",
     "service": "EC2",
@@ -61,12 +55,6 @@
   },
   {
     "ip_prefix": "99.77.136.0/24",
-    "region": "eu-central-1",
-    "service": "EC2",
-    "network_border_group": "eu-central-1"
-  },
-  {
-    "ip_prefix": "35.96.18.0/23",
     "region": "eu-central-1",
     "service": "EC2",
     "network_border_group": "eu-central-1"
@@ -204,6 +192,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "35.96.48.0/21",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "15.145.0.0/23",
     "region": "eu-central-1",
     "service": "EC2",
@@ -216,12 +210,6 @@
     "network_border_group": "eu-central-1"
   },
   {
-    "ip_prefix": "35.96.50.0/24",
-    "region": "eu-central-1",
-    "service": "EC2",
-    "network_border_group": "eu-central-1"
-  },
-  {
     "ip_prefix": "35.50.194.0/24",
     "region": "eu-central-1",
     "service": "EC2",
@@ -229,12 +217,6 @@
   },
   {
     "ip_prefix": "3.64.0.0/12",
-    "region": "eu-central-1",
-    "service": "EC2",
-    "network_border_group": "eu-central-1"
-  },
-  {
-    "ip_prefix": "35.96.49.0/24",
     "region": "eu-central-1",
     "service": "EC2",
     "network_border_group": "eu-central-1"
@@ -307,12 +289,6 @@
   },
   {
     "ip_prefix": "216.244.10.0/24",
-    "region": "eu-central-1",
-    "service": "EC2",
-    "network_border_group": "eu-central-1"
-  },
-  {
-    "ip_prefix": "35.96.51.0/24",
     "region": "eu-central-1",
     "service": "EC2",
     "network_border_group": "eu-central-1"
@@ -439,12 +415,6 @@
   },
   {
     "ip_prefix": "52.46.184.0/22",
-    "region": "eu-central-1",
-    "service": "EC2",
-    "network_border_group": "eu-central-1"
-  },
-  {
-    "ip_prefix": "35.96.20.0/23",
     "region": "eu-central-1",
     "service": "EC2",
     "network_border_group": "eu-central-1"

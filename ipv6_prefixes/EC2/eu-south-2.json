@@ -60,12 +60,6 @@
     "network_border_group": "eu-south-2"
   },
   {
-    "ipv6_prefix": "2a05:d07d:1000::/40",
-    "region": "eu-south-2",
-    "service": "EC2",
-    "network_border_group": "eu-south-2"
-  },
-  {
     "ipv6_prefix": "2a05:d036:1000::/40",
     "region": "eu-south-2",
     "service": "EC2",
@@ -103,6 +97,12 @@
   },
   {
     "ipv6_prefix": "2a05:d031:1000::/40",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
+    "ipv6_prefix": "2631:1:4d00::/48",
     "region": "eu-south-2",
     "service": "EC2",
     "network_border_group": "eu-south-2"

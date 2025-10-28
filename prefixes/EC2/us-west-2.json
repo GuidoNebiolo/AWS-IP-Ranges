@@ -414,6 +414,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ip_prefix": "184.36.0.0/14",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "15.220.16.0/20",
     "region": "us-west-2",
     "service": "EC2",
@@ -667,6 +673,12 @@
   },
   {
     "ip_prefix": "3.5.80.0/21",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ip_prefix": "184.32.0.0/14",
     "region": "us-west-2",
     "service": "EC2",
     "network_border_group": "us-west-2"
