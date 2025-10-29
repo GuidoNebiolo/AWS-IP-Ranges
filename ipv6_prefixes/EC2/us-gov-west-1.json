@@ -96,6 +96,12 @@
     "network_border_group": "us-gov-west-1"
   },
   {
+    "ipv6_prefix": "2600:1fea:2000::/40",
+    "region": "us-gov-west-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1ff3:2000::/40",
     "region": "us-gov-west-1",
     "service": "EC2",

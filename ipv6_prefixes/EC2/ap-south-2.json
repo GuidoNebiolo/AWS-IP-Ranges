@@ -132,6 +132,12 @@
     "network_border_group": "ap-south-2"
   },
   {
+    "ipv6_prefix": "2406:daea:b000::/40",
+    "region": "ap-south-2",
+    "service": "EC2",
+    "network_border_group": "ap-south-2"
+  },
+  {
     "ipv6_prefix": "2406:da70:b000::/40",
     "region": "ap-south-2",
     "service": "EC2",

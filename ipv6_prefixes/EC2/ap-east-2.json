@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2406:daea:c800::/40",
+    "region": "ap-east-2",
+    "service": "EC2",
+    "network_border_group": "ap-east-2"
+  },
+  {
     "ipv6_prefix": "2406:da32:c800::/40",
     "region": "ap-east-2",
     "service": "EC2",

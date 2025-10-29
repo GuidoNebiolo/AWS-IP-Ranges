@@ -102,6 +102,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "3.5.120.0/22",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "52.57.0.0/16",
     "region": "eu-central-1",
     "service": "EC2",

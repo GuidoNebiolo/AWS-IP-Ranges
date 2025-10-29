@@ -100,5 +100,11 @@
     "region": "cn-northwest-1",
     "service": "EC2",
     "network_border_group": "cn-northwest-1"
+  },
+  {
+    "ipv6_prefix": "2404:c2c0:ea00::/40",
+    "region": "cn-northwest-1",
+    "service": "EC2",
+    "network_border_group": "cn-northwest-1"
   }
 ]

@@ -6,6 +6,12 @@
     "network_border_group": "af-south-1"
   },
   {
+    "ipv6_prefix": "2406:daea:1000::/40",
+    "region": "af-south-1",
+    "service": "EC2",
+    "network_border_group": "af-south-1"
+  },
+  {
     "ipv6_prefix": "2406:dab9:1000::/40",
     "region": "af-south-1",
     "service": "EC2",
