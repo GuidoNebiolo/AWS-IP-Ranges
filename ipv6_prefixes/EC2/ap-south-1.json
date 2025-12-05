@@ -144,6 +144,12 @@
     "network_border_group": "ap-south-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:8102::/48",
+    "region": "ap-south-1",
+    "service": "EC2",
+    "network_border_group": "ap-south-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:87::/48",
     "region": "ap-south-1",
     "service": "EC2",

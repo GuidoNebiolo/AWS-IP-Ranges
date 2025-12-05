@@ -54,6 +54,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "31.220.247.0/24",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "15.177.0.0/18",
     "region": "GLOBAL",
     "service": "EC2",

@@ -24,7 +24,19 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2600:1ff9:41a0::/46",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:1ff8:4000::/40",
+    "region": "us-west-2",
+    "service": "S3",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:1ff9:41c0::/46",
     "region": "us-west-2",
     "service": "S3",
     "network_border_group": "us-west-2"

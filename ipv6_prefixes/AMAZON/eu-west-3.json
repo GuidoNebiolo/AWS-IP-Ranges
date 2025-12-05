@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2600:f0f0:8108::/48",
+    "region": "eu-west-3",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-3"
+  },
+  {
     "ipv6_prefix": "2a01:578:0:7301::1/128",
     "region": "eu-west-3",
     "service": "AMAZON",

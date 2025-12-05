@@ -6,6 +6,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "216.198.238.0/23",
+    "region": "eu-west-2",
+    "service": "EC2",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "208.78.132.0/23",
     "region": "eu-west-2",
     "service": "EC2",
@@ -103,6 +109,12 @@
   },
   {
     "ip_prefix": "18.98.160.0/19",
+    "region": "eu-west-2",
+    "service": "EC2",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "216.244.38.0/23",
     "region": "eu-west-2",
     "service": "EC2",
     "network_border_group": "eu-west-2"

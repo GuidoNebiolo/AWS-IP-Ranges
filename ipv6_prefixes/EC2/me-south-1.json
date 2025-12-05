@@ -156,6 +156,12 @@
     "network_border_group": "me-south-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:8107::/48",
+    "region": "me-south-1",
+    "service": "EC2",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:552a::/48",
     "region": "me-south-1",
     "service": "EC2",

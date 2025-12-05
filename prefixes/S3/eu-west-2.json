@@ -54,6 +54,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ip_prefix": "1.178.94.0/24",
+    "region": "eu-west-2",
+    "service": "S3",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ip_prefix": "18.168.37.160/28",
     "region": "eu-west-2",
     "service": "S3",

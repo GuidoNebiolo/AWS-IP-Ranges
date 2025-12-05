@@ -48,12 +48,6 @@
     "network_border_group": "cn-north-1"
   },
   {
-    "ip_prefix": "54.222.32.0/22",
-    "region": "cn-north-1",
-    "service": "EC2",
-    "network_border_group": "cn-north-1"
-  },
-  {
     "ip_prefix": "52.81.0.0/16",
     "region": "cn-north-1",
     "service": "EC2",
@@ -61,12 +55,6 @@
   },
   {
     "ip_prefix": "54.222.52.0/22",
-    "region": "cn-north-1",
-    "service": "EC2",
-    "network_border_group": "cn-north-1"
-  },
-  {
-    "ip_prefix": "3.2.99.0/24",
     "region": "cn-north-1",
     "service": "EC2",
     "network_border_group": "cn-north-1"
@@ -103,12 +91,6 @@
   },
   {
     "ip_prefix": "43.196.0.0/16",
-    "region": "cn-north-1",
-    "service": "EC2",
-    "network_border_group": "cn-north-1"
-  },
-  {
-    "ip_prefix": "54.222.36.0/22",
     "region": "cn-north-1",
     "service": "EC2",
     "network_border_group": "cn-north-1"

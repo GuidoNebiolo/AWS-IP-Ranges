@@ -18,6 +18,12 @@
     "network_border_group": "eu-north-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:0:d00::/56",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:410b::/48",
     "region": "eu-north-1",
     "service": "EC2",
@@ -25,6 +31,18 @@
   },
   {
     "ipv6_prefix": "2a05:d026::/36",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d028:8000::/36",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d018:8000::/36",
     "region": "eu-north-1",
     "service": "EC2",
     "network_border_group": "eu-north-1"
@@ -121,6 +139,12 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:1129::/48",
+    "region": "eu-north-1",
+    "service": "EC2",
+    "network_border_group": "eu-north-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:8110::/48",
     "region": "eu-north-1",
     "service": "EC2",
     "network_border_group": "eu-north-1"
