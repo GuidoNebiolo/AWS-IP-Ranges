@@ -42,6 +42,24 @@
     "network_border_group": "us-gov-east-1"
   },
   {
+    "ip_prefix": "31.220.252.0/24",
+    "region": "us-gov-east-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ip_prefix": "103.13.189.0/24",
+    "region": "us-gov-east-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ip_prefix": "3.2.100.0/24",
+    "region": "us-gov-east-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
     "ip_prefix": "16.64.0.0/17",
     "region": "us-gov-east-1",
     "service": "EC2",

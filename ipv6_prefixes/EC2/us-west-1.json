@@ -18,6 +18,12 @@
     "network_border_group": "us-west-1"
   },
   {
+    "ipv6_prefix": "2606:7b40:1b0f:8100::/56",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:6115::/48",
     "region": "us-west-1",
     "service": "EC2",
@@ -43,6 +49,12 @@
   },
   {
     "ipv6_prefix": "2600:1fb9:c000::/40",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f1:44c0::/42",
     "region": "us-west-1",
     "service": "EC2",
     "network_border_group": "us-west-1"
@@ -84,6 +96,12 @@
     "network_border_group": "us-west-1"
   },
   {
+    "ipv6_prefix": "2600:f0f1:82::/48",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1fff:c000::/40",
     "region": "us-west-1",
     "service": "EC2",
@@ -97,6 +115,12 @@
   },
   {
     "ipv6_prefix": "2600:1f36:c000::/40",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:310::/48",
     "region": "us-west-1",
     "service": "EC2",
     "network_border_group": "us-west-1"
@@ -121,6 +145,12 @@
   },
   {
     "ipv6_prefix": "2600:1f30:c000::/40",
+    "region": "us-west-1",
+    "service": "EC2",
+    "network_border_group": "us-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1feb:c000::/40",
     "region": "us-west-1",
     "service": "EC2",
     "network_border_group": "us-west-1"

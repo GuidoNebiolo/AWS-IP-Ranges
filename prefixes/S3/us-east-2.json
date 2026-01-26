@@ -124,5 +124,11 @@
     "region": "us-east-2",
     "service": "S3",
     "network_border_group": "us-east-2"
+  },
+  {
+    "ip_prefix": "3.2.67.0/24",
+    "region": "us-east-2",
+    "service": "S3",
+    "network_border_group": "us-east-2"
   }
 ]

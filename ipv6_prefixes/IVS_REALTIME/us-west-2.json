@@ -90,6 +90,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2600:f0f0:e0a::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:e02::/48",
     "region": "us-west-2",
     "service": "IVS_REALTIME",
@@ -103,6 +109,18 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:5515::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e09::/48",
+    "region": "us-west-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-west-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e08::/48",
     "region": "us-west-2",
     "service": "IVS_REALTIME",
     "network_border_group": "us-west-2"

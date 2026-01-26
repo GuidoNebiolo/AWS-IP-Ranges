@@ -40,5 +40,11 @@
     "region": "eu-central-2",
     "service": "S3",
     "network_border_group": "eu-central-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f1:8b::/48",
+    "region": "eu-central-2",
+    "service": "S3",
+    "network_border_group": "eu-central-2"
   }
 ]

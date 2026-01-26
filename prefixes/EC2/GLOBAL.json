@@ -1,12 +1,36 @@
 [
   {
+    "ip_prefix": "40.168.227.0/24",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "23.228.197.0/24",
     "region": "GLOBAL",
     "service": "EC2",
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "35.97.16.0/20",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "159.248.232.0/21",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "40.168.226.0/24",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "40.168.225.0/24",
     "region": "GLOBAL",
     "service": "EC2",
     "network_border_group": "GLOBAL"
@@ -19,6 +43,18 @@
   },
   {
     "ip_prefix": "159.248.240.0/21",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "40.168.224.0/24",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "40.168.231.0/24",
     "region": "GLOBAL",
     "service": "EC2",
     "network_border_group": "GLOBAL"
@@ -54,6 +90,18 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "40.168.228.0/24",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "40.168.230.0/24",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "31.220.247.0/24",
     "region": "GLOBAL",
     "service": "EC2",
@@ -67,6 +115,12 @@
   },
   {
     "ip_prefix": "51.0.104.0/21",
+    "region": "GLOBAL",
+    "service": "EC2",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "40.168.229.0/24",
     "region": "GLOBAL",
     "service": "EC2",
     "network_border_group": "GLOBAL"

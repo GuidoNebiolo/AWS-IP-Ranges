@@ -1,0 +1,20 @@
+[
+  {
+    "ip_prefix": "18.196.222.0/24",
+    "region": "eu-central-1",
+    "service": "ROUTE53",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "52.46.184.0/22",
+    "region": "eu-central-1",
+    "service": "ROUTE53",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ip_prefix": "18.196.223.0/24",
+    "region": "eu-central-1",
+    "service": "ROUTE53",
+    "network_border_group": "eu-central-1"
+  }
+]

@@ -78,6 +78,12 @@
     "network_border_group": "eu-south-2"
   },
   {
+    "ip_prefix": "1.178.22.0/24",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
     "ip_prefix": "15.216.0.0/16",
     "region": "eu-south-2",
     "service": "EC2",

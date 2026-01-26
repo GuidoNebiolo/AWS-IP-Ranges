@@ -114,7 +114,25 @@
     "network_border_group": "ca-west-1"
   },
   {
+    "ip_prefix": "1.178.26.0/24",
+    "region": "ca-west-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-west-1"
+  },
+  {
     "ip_prefix": "76.223.170.0/28",
+    "region": "ca-west-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-west-1"
+  },
+  {
+    "ip_prefix": "40.201.0.0/16",
+    "region": "ca-west-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-west-1"
+  },
+  {
+    "ip_prefix": "40.188.0.0/16",
     "region": "ca-west-1",
     "service": "AMAZON",
     "network_border_group": "ca-west-1"

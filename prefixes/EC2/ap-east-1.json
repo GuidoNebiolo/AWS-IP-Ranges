@@ -132,6 +132,12 @@
     "network_border_group": "ap-east-1"
   },
   {
+    "ip_prefix": "1.178.103.0/24",
+    "region": "ap-east-1",
+    "service": "EC2",
+    "network_border_group": "ap-east-1"
+  },
+  {
     "ip_prefix": "3.5.236.0/22",
     "region": "ap-east-1",
     "service": "EC2",

@@ -46,5 +46,11 @@
     "region": "eu-south-1",
     "service": "S3",
     "network_border_group": "eu-south-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f1:87::/48",
+    "region": "eu-south-1",
+    "service": "S3",
+    "network_border_group": "eu-south-1"
   }
 ]

@@ -174,6 +174,12 @@
     "network_border_group": "ap-southeast-4"
   },
   {
+    "ip_prefix": "1.178.24.0/24",
+    "region": "ap-southeast-4",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-4"
+  },
+  {
     "ip_prefix": "16.50.0.0/15",
     "region": "ap-southeast-4",
     "service": "AMAZON",

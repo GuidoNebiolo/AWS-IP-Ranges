@@ -1,0 +1,26 @@
+[
+  {
+    "ipv6_prefix": "2001:3fc6:8::/47",
+    "region": "eusc-de-east-1",
+    "service": "ROUTE53",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
+    "ipv6_prefix": "2001:3fc6:a::/47",
+    "region": "eusc-de-east-1",
+    "service": "ROUTE53",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
+    "ipv6_prefix": "2001:3fc6:c::/47",
+    "region": "eusc-de-east-1",
+    "service": "ROUTE53",
+    "network_border_group": "eusc-de-east-1"
+  },
+  {
+    "ipv6_prefix": "2001:3fc6:e::/47",
+    "region": "eusc-de-east-1",
+    "service": "ROUTE53",
+    "network_border_group": "eusc-de-east-1"
+  }
+]
