@@ -18,6 +18,18 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ipv6_prefix": "2a05:d078:f000::/40",
+    "region": "eu-central-1",
+    "service": "S3",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d079:b000::/40",
+    "region": "eu-central-1",
+    "service": "S3",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ipv6_prefix": "2a05:d074:b000::/40",
     "region": "eu-central-1",
     "service": "S3",
@@ -30,6 +42,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ipv6_prefix": "2a05:d078:b000::/40",
+    "region": "eu-central-1",
+    "service": "S3",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ipv6_prefix": "2a05:d079:4000::/40",
     "region": "eu-central-1",
     "service": "S3",
@@ -37,6 +55,12 @@
   },
   {
     "ipv6_prefix": "2a05:d030:b000::/40",
+    "region": "eu-central-1",
+    "service": "S3",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ipv6_prefix": "2a05:d079:f000::/40",
     "region": "eu-central-1",
     "service": "S3",
     "network_border_group": "eu-central-1"

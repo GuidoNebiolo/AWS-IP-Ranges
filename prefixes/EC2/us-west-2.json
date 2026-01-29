@@ -252,12 +252,6 @@
     "network_border_group": "us-west-2-lax-1"
   },
   {
-    "ip_prefix": "15.193.32.0/24",
-    "region": "us-west-2",
-    "service": "EC2",
-    "network_border_group": "us-west-2"
-  },
-  {
     "ip_prefix": "99.77.253.0/24",
     "region": "us-west-2",
     "service": "EC2",
@@ -835,12 +829,6 @@
   },
   {
     "ip_prefix": "35.55.37.0/24",
-    "region": "us-west-2",
-    "service": "EC2",
-    "network_border_group": "us-west-2"
-  },
-  {
-    "ip_prefix": "15.193.40.0/21",
     "region": "us-west-2",
     "service": "EC2",
     "network_border_group": "us-west-2"

@@ -222,6 +222,12 @@
     "network_border_group": "eu-west-2"
   },
   {
+    "ipv6_prefix": "2600:1f01:480e::/47",
+    "region": "eu-west-2",
+    "service": "AMAZON",
+    "network_border_group": "eu-west-2"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:8140::/48",
     "region": "eu-west-2",
     "service": "AMAZON",

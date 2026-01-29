@@ -444,6 +444,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "24.110.0.0/21",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "111.13.185.32/27",
     "region": "GLOBAL",
     "service": "AMAZON",
@@ -775,6 +781,12 @@
   },
   {
     "ip_prefix": "99.82.176.0/21",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
+    "ip_prefix": "15.193.32.0/19",
     "region": "GLOBAL",
     "service": "AMAZON",
     "network_border_group": "GLOBAL"

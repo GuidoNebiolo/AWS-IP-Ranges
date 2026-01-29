@@ -6,6 +6,12 @@
     "network_border_group": "ap-southeast-6"
   },
   {
+    "ipv6_prefix": "2406:daf8:2800::/40",
+    "region": "ap-southeast-6",
+    "service": "S3",
+    "network_border_group": "ap-southeast-6"
+  },
+  {
     "ipv6_prefix": "2406:daf4:2800::/40",
     "region": "ap-southeast-6",
     "service": "S3",
@@ -25,6 +31,18 @@
   },
   {
     "ipv6_prefix": "2406:daa0:2800::/40",
+    "region": "ap-southeast-6",
+    "service": "S3",
+    "network_border_group": "ap-southeast-6"
+  },
+  {
+    "ipv6_prefix": "2406:daf9:2800::/40",
+    "region": "ap-southeast-6",
+    "service": "S3",
+    "network_border_group": "ap-southeast-6"
+  },
+  {
+    "ipv6_prefix": "2600:f0f2:7021::/48",
     "region": "ap-southeast-6",
     "service": "S3",
     "network_border_group": "ap-southeast-6"
