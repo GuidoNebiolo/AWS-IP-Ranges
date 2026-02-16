@@ -546,6 +546,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "54.25.32.0/19",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "99.83.64.0/21",
     "region": "GLOBAL",
     "service": "AMAZON",

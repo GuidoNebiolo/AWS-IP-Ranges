@@ -210,6 +210,12 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ipv6_prefix": "2600:f0f0:8186::/48",
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:8100::/48",
     "region": "ap-northeast-2",
     "service": "EC2",

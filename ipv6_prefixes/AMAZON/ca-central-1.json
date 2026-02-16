@@ -186,12 +186,6 @@
     "network_border_group": "ca-central-1"
   },
   {
-    "ipv6_prefix": "2631:1:4e00::/48",
-    "region": "ca-central-1",
-    "service": "AMAZON",
-    "network_border_group": "ca-central-1"
-  },
-  {
     "ipv6_prefix": "2600:1ff8:1000::/40",
     "region": "ca-central-1",
     "service": "AMAZON",

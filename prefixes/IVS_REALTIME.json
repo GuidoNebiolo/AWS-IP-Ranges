@@ -468,6 +468,12 @@
     "network_border_group": "ap-southeast-1"
   },
   {
+    "ip_prefix": "35.50.209.0/24",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ip_prefix": "35.50.144.0/24",
     "region": "us-east-2",
     "service": "IVS_REALTIME",

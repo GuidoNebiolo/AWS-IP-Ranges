@@ -564,6 +564,12 @@
     "network_border_group": "eu-north-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:5403::/48",
+    "region": "me-south-1",
+    "service": "IVS_REALTIME",
+    "network_border_group": "me-south-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:e20::/48",
     "region": "me-south-1",
     "service": "IVS_REALTIME",
