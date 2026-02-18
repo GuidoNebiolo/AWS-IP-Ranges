@@ -714,6 +714,12 @@
     "network_border_group": "sa-east-1"
   },
   {
+    "ip_prefix": "16.214.48.0/22",
+    "region": "sa-east-1",
+    "service": "AMAZON",
+    "network_border_group": "sa-east-1"
+  },
+  {
     "ip_prefix": "150.222.0.0/24",
     "region": "sa-east-1",
     "service": "AMAZON",
@@ -787,6 +793,12 @@
   },
   {
     "ip_prefix": "35.71.106.0/24",
+    "region": "sa-east-1",
+    "service": "AMAZON",
+    "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "15.129.30.0/24",
     "region": "sa-east-1",
     "service": "AMAZON",
     "network_border_group": "sa-east-1"

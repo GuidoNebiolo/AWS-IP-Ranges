@@ -312,6 +312,12 @@
     "network_border_group": "eu-south-2"
   },
   {
+    "ip_prefix": "16.214.24.0/22",
+    "region": "eu-south-2",
+    "service": "EC2",
+    "network_border_group": "eu-south-2"
+  },
+  {
     "ip_prefix": "99.77.55.36/32",
     "region": "eu-south-2",
     "service": "EC2",

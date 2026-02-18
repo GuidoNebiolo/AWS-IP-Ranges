@@ -210,6 +210,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ip_prefix": "16.214.28.0/22",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "35.96.48.0/21",
     "region": "eu-central-1",
     "service": "EC2",

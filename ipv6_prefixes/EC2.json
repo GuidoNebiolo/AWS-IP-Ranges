@@ -3768,6 +3768,12 @@
     "network_border_group": "us-west-2"
   },
   {
+    "ipv6_prefix": "2a05:d000:800::/40",
+    "region": "me-west-1",
+    "service": "EC2",
+    "network_border_group": "me-west-1"
+  },
+  {
     "ipv6_prefix": "2001:3fc7:3000::/40",
     "region": "eusc-de-east-1",
     "service": "EC2",
@@ -6120,6 +6126,12 @@
     "network_border_group": "cn-north-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:400::/44",
+    "region": "us-gov-east-1",
+    "service": "EC2",
+    "network_border_group": "us-gov-east-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:552d::/48",
     "region": "me-south-1",
     "service": "EC2",
@@ -7804,12 +7816,6 @@
     "region": "us-west-2",
     "service": "EC2",
     "network_border_group": "us-west-2-pdx-1"
-  },
-  {
-    "ipv6_prefix": "2a05:d000:800::/64",
-    "region": "me-west-1",
-    "service": "EC2",
-    "network_border_group": "me-west-1"
   },
   {
     "ipv6_prefix": "2a05:d038:9000::/40",

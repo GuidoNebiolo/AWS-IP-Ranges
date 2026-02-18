@@ -126,6 +126,12 @@
     "network_border_group": "ap-northeast-2"
   },
   {
+    "ip_prefix": "16.214.52.0/22",
+    "region": "ap-northeast-2",
+    "service": "EC2",
+    "network_border_group": "ap-northeast-2"
+  },
+  {
     "ip_prefix": "13.125.0.0/16",
     "region": "ap-northeast-2",
     "service": "EC2",

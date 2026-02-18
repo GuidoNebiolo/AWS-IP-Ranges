@@ -402,6 +402,12 @@
     "network_border_group": "eu-west-1"
   },
   {
+    "ip_prefix": "16.214.16.0/22",
+    "region": "eu-west-1",
+    "service": "EC2",
+    "network_border_group": "eu-west-1"
+  },
+  {
     "ip_prefix": "34.248.0.0/13",
     "region": "eu-west-1",
     "service": "EC2",
