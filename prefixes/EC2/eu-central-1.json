@@ -378,6 +378,12 @@
     "network_border_group": "eu-central-1-wl1-ber-wlz-1"
   },
   {
+    "ip_prefix": "51.102.0.0/16",
+    "region": "eu-central-1",
+    "service": "EC2",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ip_prefix": "15.145.4.0/23",
     "region": "eu-central-1",
     "service": "EC2",

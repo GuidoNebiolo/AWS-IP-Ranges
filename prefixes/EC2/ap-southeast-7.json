@@ -6,7 +6,19 @@
     "network_border_group": "ap-southeast-7"
   },
   {
+    "ip_prefix": "64.73.207.0/24",
+    "region": "ap-southeast-7",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-7"
+  },
+  {
     "ip_prefix": "43.210.0.0/15",
+    "region": "ap-southeast-7",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-7"
+  },
+  {
+    "ip_prefix": "64.73.209.0/24",
     "region": "ap-southeast-7",
     "service": "EC2",
     "network_border_group": "ap-southeast-7"
@@ -18,19 +30,13 @@
     "network_border_group": "ap-southeast-7"
   },
   {
-    "ip_prefix": "64.73.202.64/27",
-    "region": "ap-southeast-7",
-    "service": "EC2",
-    "network_border_group": "ap-southeast-7"
-  },
-  {
-    "ip_prefix": "64.73.202.128/27",
-    "region": "ap-southeast-7",
-    "service": "EC2",
-    "network_border_group": "ap-southeast-7"
-  },
-  {
     "ip_prefix": "18.97.80.0/20",
+    "region": "ap-southeast-7",
+    "service": "EC2",
+    "network_border_group": "ap-southeast-7"
+  },
+  {
+    "ip_prefix": "64.73.208.0/24",
     "region": "ap-southeast-7",
     "service": "EC2",
     "network_border_group": "ap-southeast-7"
@@ -43,12 +49,6 @@
   },
   {
     "ip_prefix": "15.177.103.0/24",
-    "region": "ap-southeast-7",
-    "service": "EC2",
-    "network_border_group": "ap-southeast-7"
-  },
-  {
-    "ip_prefix": "64.73.202.160/27",
     "region": "ap-southeast-7",
     "service": "EC2",
     "network_border_group": "ap-southeast-7"
@@ -73,24 +73,6 @@
   },
   {
     "ip_prefix": "3.2.88.0/24",
-    "region": "ap-southeast-7",
-    "service": "EC2",
-    "network_border_group": "ap-southeast-7"
-  },
-  {
-    "ip_prefix": "64.73.202.96/27",
-    "region": "ap-southeast-7",
-    "service": "EC2",
-    "network_border_group": "ap-southeast-7"
-  },
-  {
-    "ip_prefix": "64.73.202.192/27",
-    "region": "ap-southeast-7",
-    "service": "EC2",
-    "network_border_group": "ap-southeast-7"
-  },
-  {
-    "ip_prefix": "64.73.202.32/27",
     "region": "ap-southeast-7",
     "service": "EC2",
     "network_border_group": "ap-southeast-7"

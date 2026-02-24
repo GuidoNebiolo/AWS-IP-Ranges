@@ -240,6 +240,18 @@
     "network_border_group": "eu-west-3"
   },
   {
+    "ip_prefix": "16.164.22.0/31",
+    "region": "il-central-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "il-central-1"
+  },
+  {
+    "ip_prefix": "16.164.22.4/30",
+    "region": "il-central-1",
+    "service": "KINESIS_VIDEO_STREAMS",
+    "network_border_group": "il-central-1"
+  },
+  {
     "ip_prefix": "16.24.91.112/30",
     "region": "me-south-1",
     "service": "KINESIS_VIDEO_STREAMS",
