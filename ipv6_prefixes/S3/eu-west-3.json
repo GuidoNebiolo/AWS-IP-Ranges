@@ -24,6 +24,12 @@
     "network_border_group": "eu-west-3"
   },
   {
+    "ipv6_prefix": "2a05:d06f:2000::/40",
+    "region": "eu-west-3",
+    "service": "S3",
+    "network_border_group": "eu-west-3"
+  },
+  {
     "ipv6_prefix": "2a05:d079:2000::/40",
     "region": "eu-west-3",
     "service": "S3",
@@ -43,6 +49,12 @@
   },
   {
     "ipv6_prefix": "2a05:d059:2000::/40",
+    "region": "eu-west-3",
+    "service": "S3",
+    "network_border_group": "eu-west-3"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:6112::/48",
     "region": "eu-west-3",
     "service": "S3",
     "network_border_group": "eu-west-3"

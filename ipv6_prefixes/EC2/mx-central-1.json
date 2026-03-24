@@ -18,6 +18,12 @@
     "network_border_group": "mx-central-1"
   },
   {
+    "ipv6_prefix": "2600:1f33:7400::/40",
+    "region": "mx-central-1",
+    "service": "EC2",
+    "network_border_group": "mx-central-1"
+  },
+  {
     "ipv6_prefix": "2600:1f27:4000::/36",
     "region": "mx-central-1",
     "service": "EC2",
@@ -25,6 +31,12 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:611e::/48",
+    "region": "mx-central-1",
+    "service": "EC2",
+    "network_border_group": "mx-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fe9:7400::/40",
     "region": "mx-central-1",
     "service": "EC2",
     "network_border_group": "mx-central-1"
@@ -109,6 +121,12 @@
   },
   {
     "ipv6_prefix": "2600:1f38:7400::/40",
+    "region": "mx-central-1",
+    "service": "EC2",
+    "network_border_group": "mx-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fba:7400::/40",
     "region": "mx-central-1",
     "service": "EC2",
     "network_border_group": "mx-central-1"

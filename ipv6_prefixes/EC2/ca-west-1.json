@@ -6,6 +6,12 @@
     "network_border_group": "ca-west-1"
   },
   {
+    "ipv6_prefix": "2600:1fe9:a400::/40",
+    "region": "ca-west-1",
+    "service": "EC2",
+    "network_border_group": "ca-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1f30:a400::/40",
     "region": "ca-west-1",
     "service": "EC2",
@@ -78,6 +84,12 @@
     "network_border_group": "ca-west-1"
   },
   {
+    "ipv6_prefix": "2600:1fba:a400::/40",
+    "region": "ca-west-1",
+    "service": "EC2",
+    "network_border_group": "ca-west-1"
+  },
+  {
     "ipv6_prefix": "2600:1f32:a400::/40",
     "region": "ca-west-1",
     "service": "EC2",
@@ -97,6 +109,12 @@
   },
   {
     "ipv6_prefix": "2600:1f60:a400::/40",
+    "region": "ca-west-1",
+    "service": "EC2",
+    "network_border_group": "ca-west-1"
+  },
+  {
+    "ipv6_prefix": "2600:1f33:a400::/40",
     "region": "ca-west-1",
     "service": "EC2",
     "network_border_group": "ca-west-1"

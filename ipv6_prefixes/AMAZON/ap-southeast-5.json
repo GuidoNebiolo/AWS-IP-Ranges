@@ -120,6 +120,12 @@
     "network_border_group": "ap-southeast-5"
   },
   {
+    "ipv6_prefix": "2406:da33:800::/40",
+    "region": "ap-southeast-5",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-5"
+  },
+  {
     "ipv6_prefix": "2406:da36:800::/40",
     "region": "ap-southeast-5",
     "service": "AMAZON",
@@ -127,6 +133,12 @@
   },
   {
     "ipv6_prefix": "2406:da00:800::/40",
+    "region": "ap-southeast-5",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-5"
+  },
+  {
+    "ipv6_prefix": "2406:dae9:800::/40",
     "region": "ap-southeast-5",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-5"
@@ -175,6 +187,12 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:8103::/48",
+    "region": "ap-southeast-5",
+    "service": "AMAZON",
+    "network_border_group": "ap-southeast-5"
+  },
+  {
+    "ipv6_prefix": "2406:daba:800::/40",
     "region": "ap-southeast-5",
     "service": "AMAZON",
     "network_border_group": "ap-southeast-5"

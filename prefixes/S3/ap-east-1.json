@@ -52,5 +52,11 @@
     "region": "ap-east-1",
     "service": "S3",
     "network_border_group": "ap-east-1"
+  },
+  {
+    "ip_prefix": "3.2.81.0/24",
+    "region": "ap-east-1",
+    "service": "S3",
+    "network_border_group": "ap-east-1"
   }
 ]

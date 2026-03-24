@@ -46,5 +46,11 @@
     "region": "sa-east-1",
     "service": "S3",
     "network_border_group": "sa-east-1"
+  },
+  {
+    "ip_prefix": "3.2.80.0/24",
+    "region": "sa-east-1",
+    "service": "S3",
+    "network_border_group": "sa-east-1"
   }
 ]

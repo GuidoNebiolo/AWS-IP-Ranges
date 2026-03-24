@@ -6,6 +6,12 @@
     "network_border_group": "eu-central-2"
   },
   {
+    "ip_prefix": "16.19.0.0/16",
+    "region": "eu-central-2",
+    "service": "EC2",
+    "network_border_group": "eu-central-2"
+  },
+  {
     "ip_prefix": "35.96.41.0/24",
     "region": "eu-central-2",
     "service": "EC2",

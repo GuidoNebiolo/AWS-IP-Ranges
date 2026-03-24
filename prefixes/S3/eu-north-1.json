@@ -46,5 +46,11 @@
     "region": "eu-north-1",
     "service": "S3",
     "network_border_group": "eu-north-1"
+  },
+  {
+    "ip_prefix": "3.2.71.0/24",
+    "region": "eu-north-1",
+    "service": "S3",
+    "network_border_group": "eu-north-1"
   }
 ]

@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2600:1f33:1000::/40",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
     "ipv6_prefix": "2600:f0f2:7104::/48",
     "region": "ca-central-1",
     "service": "AMAZON",
@@ -109,6 +115,12 @@
   },
   {
     "ipv6_prefix": "2600:1ff2:1000::/40",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fba:1000::/40",
     "region": "ca-central-1",
     "service": "AMAZON",
     "network_border_group": "ca-central-1"
@@ -241,6 +253,12 @@
   },
   {
     "ipv6_prefix": "2600:f0f0:6110::/48",
+    "region": "ca-central-1",
+    "service": "AMAZON",
+    "network_border_group": "ca-central-1"
+  },
+  {
+    "ipv6_prefix": "2600:1fe9:1000::/40",
     "region": "ca-central-1",
     "service": "AMAZON",
     "network_border_group": "ca-central-1"

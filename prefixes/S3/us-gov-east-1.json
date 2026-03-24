@@ -22,5 +22,11 @@
     "region": "us-gov-east-1",
     "service": "S3",
     "network_border_group": "us-gov-east-1"
+  },
+  {
+    "ip_prefix": "31.220.252.0/24",
+    "region": "us-gov-east-1",
+    "service": "S3",
+    "network_border_group": "us-gov-east-1"
   }
 ]

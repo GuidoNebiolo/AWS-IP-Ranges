@@ -210,6 +210,12 @@
     "network_border_group": "us-west-2-wl1-sea-wlz-1"
   },
   {
+    "ip_prefix": "15.129.40.0/23",
+    "region": "us-west-2",
+    "service": "EC2",
+    "network_border_group": "us-west-2"
+  },
+  {
     "ip_prefix": "35.160.0.0/13",
     "region": "us-west-2",
     "service": "EC2",

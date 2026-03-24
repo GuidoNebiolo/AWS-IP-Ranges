@@ -34,5 +34,11 @@
     "region": "eu-central-2",
     "service": "S3",
     "network_border_group": "eu-central-2"
+  },
+  {
+    "ip_prefix": "3.2.97.0/24",
+    "region": "eu-central-2",
+    "service": "S3",
+    "network_border_group": "eu-central-2"
   }
 ]

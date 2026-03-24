@@ -708,6 +708,12 @@
     "network_border_group": "us-east-1-wl1-iah-wlz-1"
   },
   {
+    "ip_prefix": "15.129.32.0/23",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
     "ip_prefix": "96.0.100.0/23",
     "region": "us-east-1",
     "service": "EC2",
@@ -1111,6 +1117,12 @@
   },
   {
     "ip_prefix": "3.3.5.0/24",
+    "region": "us-east-1",
+    "service": "EC2",
+    "network_border_group": "us-east-1"
+  },
+  {
+    "ip_prefix": "1.178.86.0/23",
     "region": "us-east-1",
     "service": "EC2",
     "network_border_group": "us-east-1"

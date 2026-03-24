@@ -42,7 +42,19 @@
     "network_border_group": "ap-southeast-2"
   },
   {
+    "ipv6_prefix": "2406:daef:c000::/40",
+    "region": "ap-southeast-2",
+    "service": "S3",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
     "ipv6_prefix": "2406:daa0:c000::/40",
+    "region": "ap-southeast-2",
+    "service": "S3",
+    "network_border_group": "ap-southeast-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:610f::/48",
     "region": "ap-southeast-2",
     "service": "S3",
     "network_border_group": "ap-southeast-2"
