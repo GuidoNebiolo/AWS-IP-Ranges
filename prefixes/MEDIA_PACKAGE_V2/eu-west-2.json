@@ -10,5 +10,17 @@
     "region": "eu-west-2",
     "service": "MEDIA_PACKAGE_V2",
     "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "16.60.228.160/29",
+    "region": "eu-west-2",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "eu-west-2"
+  },
+  {
+    "ip_prefix": "16.60.228.168/29",
+    "region": "eu-west-2",
+    "service": "MEDIA_PACKAGE_V2",
+    "network_border_group": "eu-west-2"
   }
 ]

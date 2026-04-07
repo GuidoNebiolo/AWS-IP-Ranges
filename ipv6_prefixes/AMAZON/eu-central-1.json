@@ -12,6 +12,12 @@
     "network_border_group": "eu-central-1"
   },
   {
+    "ipv6_prefix": "2631:0:1400::/39",
+    "region": "eu-central-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-central-1"
+  },
+  {
     "ipv6_prefix": "2a05:d02f::/36",
     "region": "eu-central-1",
     "service": "AMAZON",
@@ -559,6 +565,12 @@
   },
   {
     "ipv6_prefix": "2600:1f01:4902:100::/56",
+    "region": "eu-central-1",
+    "service": "AMAZON",
+    "network_border_group": "eu-central-1"
+  },
+  {
+    "ipv6_prefix": "2631:0:200::/39",
     "region": "eu-central-1",
     "service": "AMAZON",
     "network_border_group": "eu-central-1"

@@ -30,6 +30,12 @@
     "network_border_group": "cn-north-1"
   },
   {
+    "ipv6_prefix": "2400:7fc0:4100::/48",
+    "region": "cn-north-1",
+    "service": "S3",
+    "network_border_group": "cn-north-1"
+  },
+  {
     "ipv6_prefix": "240f:80f8:8000::/40",
     "region": "cn-north-1",
     "service": "S3",
