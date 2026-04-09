@@ -186,6 +186,12 @@
     "network_border_group": "ap-northeast-1"
   },
   {
+    "ipv6_prefix": "2600:f0f0:5404::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
+  },
+  {
     "ipv6_prefix": "2600:f0f0:5401::/48",
     "region": "ap-northeast-2",
     "service": "IVS_REALTIME",
@@ -214,6 +220,12 @@
     "region": "sa-east-1",
     "service": "IVS_REALTIME",
     "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e34::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
   },
   {
     "ipv6_prefix": "2600:f0f0:552c::/48",
@@ -376,6 +388,18 @@
     "region": "sa-east-1",
     "service": "IVS_REALTIME",
     "network_border_group": "sa-east-1"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:5405::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
+  },
+  {
+    "ipv6_prefix": "2600:f0f0:e35::/48",
+    "region": "us-east-2",
+    "service": "IVS_REALTIME",
+    "network_border_group": "us-east-2"
   },
   {
     "ipv6_prefix": "2600:f0f0:5533::/48",

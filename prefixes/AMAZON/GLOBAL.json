@@ -42,6 +42,12 @@
     "network_border_group": "GLOBAL"
   },
   {
+    "ip_prefix": "66.182.96.0/20",
+    "region": "GLOBAL",
+    "service": "AMAZON",
+    "network_border_group": "GLOBAL"
+  },
+  {
     "ip_prefix": "99.181.64.0/18",
     "region": "GLOBAL",
     "service": "AMAZON",

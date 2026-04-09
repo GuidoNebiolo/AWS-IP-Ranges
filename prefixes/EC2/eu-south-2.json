@@ -258,12 +258,6 @@
     "network_border_group": "eu-south-2"
   },
   {
-    "ip_prefix": "40.138.216.0/22",
-    "region": "eu-south-2",
-    "service": "EC2",
-    "network_border_group": "eu-south-2"
-  },
-  {
     "ip_prefix": "3.5.32.0/22",
     "region": "eu-south-2",
     "service": "EC2",
