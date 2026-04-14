@@ -1,0 +1,8 @@
+[
+  {
+    "ip_prefix": "18.96.231.0/25",
+    "region": "ap-south-1",
+    "service": "AURORA_DSQL",
+    "network_border_group": "ap-south-1"
+  }
+]

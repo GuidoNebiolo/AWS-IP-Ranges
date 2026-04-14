@@ -1,5 +1,11 @@
 [
   {
+    "ipv6_prefix": "2605:b140:9800::/48",
+    "region": "us-west-1",
+    "service": "AMAZON",
+    "network_border_group": "us-west-1"
+  },
+  {
     "ipv6_prefix": "2620:107:4000:9018::/64",
     "region": "us-west-1",
     "service": "AMAZON",
